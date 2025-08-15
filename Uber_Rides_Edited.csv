@@ -1,0 +1,1156 @@
+CATEGORY,START,STOP,DISTANCE_KM,PURPOSE,start_date,start_time,end_date,end_time,year,time_of_day,duration_minutes,Month
+Business,Fort Pierce,Fort Pierce,8.21,Meal/Entertain,2016-01-01,1900-01-01 21:11:00,2016-01-01,1900-01-01 21:17:00,2016,Night,6.0,Jan
+Business,Fort Pierce,Fort Pierce,8.05,Meal/Entertain,2016-01-02,1900-01-01 01:25:00,2016-01-02,1900-01-01 01:37:00,2016,Night,12.0,Jan
+Business,Fort Pierce,Fort Pierce,7.72,Errand/Supplies,2016-01-02,1900-01-01 20:25:00,2016-01-02,1900-01-01 20:38:00,2016,Evening,13.0,Jan
+Business,Fort Pierce,Fort Pierce,7.56,Meeting,2016-01-05,1900-01-01 17:31:00,2016-01-05,1900-01-01 17:45:00,2016,Evening,14.0,Jan
+Business,Fort Pierce,West Palm Beach,102.51,Customer Visit,2016-01-06,1900-01-01 14:42:00,2016-01-06,1900-01-01 15:49:00,2016,Afternoon,67.0,Jan
+Business,West Palm Beach,West Palm Beach,6.92,Meal/Entertain,2016-01-06,1900-01-01 17:15:00,2016-01-06,1900-01-01 17:19:00,2016,Evening,4.0,Jan
+Business,West Palm Beach,Palm Beach,11.43,Meeting,2016-01-06,1900-01-01 17:30:00,2016-01-06,1900-01-01 17:35:00,2016,Evening,5.0,Jan
+Business,Cary,Cary,1.29,Meeting,2016-01-07,1900-01-01 13:27:00,2016-01-07,1900-01-01 13:33:00,2016,Afternoon,6.0,Jan
+Business,Cary,Morrisville,13.36,Meeting,2016-01-10,1900-01-01 08:05:00,2016-01-10,1900-01-01 08:25:00,2016,Morning,20.0,Jan
+Business,Jamaica,New York,26.55,Customer Visit,2016-01-10,1900-01-01 12:17:00,2016-01-10,1900-01-01 12:44:00,2016,Afternoon,27.0,Jan
+Business,New York,Queens,17.38,Meeting,2016-01-10,1900-01-01 15:08:00,2016-01-10,1900-01-01 15:51:00,2016,Afternoon,43.0,Jan
+Business,Elmhurst,New York,12.07,Meeting,2016-01-10,1900-01-01 18:18:00,2016-01-10,1900-01-01 18:53:00,2016,Evening,35.0,Jan
+Business,Midtown,East Harlem,9.98,Meeting,2016-01-10,1900-01-01 19:12:00,2016-01-10,1900-01-01 19:32:00,2016,Evening,20.0,Jan
+Business,East Harlem,NoMad,10.3,Temporary Site,2016-01-11,1900-01-01 08:55:00,2016-01-11,1900-01-01 09:21:00,2016,Morning,26.0,Jan
+Business,Flatiron District,Midtown,2.57,Errand/Supplies,2016-01-11,1900-01-01 11:56:00,2016-01-11,1900-01-01 12:03:00,2016,Morning,7.0,Jan
+Business,Midtown,Midtown East,2.74,Meal/Entertain,2016-01-11,1900-01-01 13:32:00,2016-01-11,1900-01-01 13:46:00,2016,Afternoon,14.0,Jan
+Business,Midtown East,Midtown,3.06,Meal/Entertain,2016-01-11,1900-01-01 14:30:00,2016-01-11,1900-01-01 14:43:00,2016,Afternoon,13.0,Jan
+Business,Midtown,Hudson Square,3.06,Meal/Entertain,2016-01-12,1900-01-01 12:33:00,2016-01-12,1900-01-01 12:49:00,2016,Afternoon,16.0,Jan
+Business,Hudson Square,Lower Manhattan,6.44,Meal/Entertain,2016-01-12,1900-01-01 12:53:00,2016-01-12,1900-01-01 13:09:00,2016,Afternoon,16.0,Jan
+Business,Lower Manhattan,Hudson Square,2.9,Errand/Supplies,2016-01-12,1900-01-01 14:42:00,2016-01-12,1900-01-01 14:56:00,2016,Afternoon,14.0,Jan
+Business,Hudson Square,Hell's Kitchen,3.86,Customer Visit,2016-01-12,1900-01-01 15:13:00,2016-01-12,1900-01-01 15:28:00,2016,Afternoon,15.0,Jan
+Business,Hell's Kitchen,Midtown,3.22,Errand/Supplies,2016-01-12,1900-01-01 15:42:00,2016-01-12,1900-01-01 15:54:00,2016,Afternoon,12.0,Jan
+Business,New York,Queens County,24.3,Meeting,2016-01-12,1900-01-01 16:02:00,2016-01-12,1900-01-01 17:00:00,2016,Afternoon,58.0,Jan
+Business,Downtown,Gulfton,18.02,Meeting,2016-01-13,1900-01-01 13:54:00,2016-01-13,1900-01-01 14:07:00,2016,Afternoon,13.0,Jan
+Business,Gulfton,Downtown,18.99,Meeting,2016-01-13,1900-01-01 15:00:00,2016-01-13,1900-01-01 15:28:00,2016,Afternoon,28.0,Jan
+Business,Houston,Houston,35.24,Customer Visit,2016-01-14,1900-01-01 16:29:00,2016-01-14,1900-01-01 17:05:00,2016,Afternoon,36.0,Jan
+Business,Eagan Park,Jamestown Court,6.28,Errand/Supplies,2016-01-14,1900-01-01 21:39:00,2016-01-14,1900-01-01 21:45:00,2016,Night,6.0,Jan
+Business,Morrisville,Cary,12.87,Errand/Supplies,2016-01-15,1900-01-01 00:41:00,2016-01-15,1900-01-01 01:01:00,2016,Night,20.0,Jan
+Business,Cary,Durham,16.74,Meal/Entertain,2016-01-15,1900-01-01 11:43:00,2016-01-15,1900-01-01 12:03:00,2016,Morning,20.0,Jan
+Business,Durham,Cary,16.74,Meal/Entertain,2016-01-15,1900-01-01 13:26:00,2016-01-15,1900-01-01 13:44:00,2016,Afternoon,18.0,Jan
+Business,Cary,Cary,7.72,Meal/Entertain,2016-01-18,1900-01-01 14:55:00,2016-01-18,1900-01-01 15:06:00,2016,Afternoon,11.0,Jan
+Business,Farmington Woods,Whitebridge,7.56,Meal/Entertain,2016-01-18,1900-01-01 16:13:00,2016-01-18,1900-01-01 16:24:00,2016,Afternoon,11.0,Jan
+Business,Whitebridge,Lake Wellingborough,11.59,Meal/Entertain,2016-01-19,1900-01-01 09:09:00,2016-01-19,1900-01-01 09:23:00,2016,Morning,14.0,Jan
+Business,Lake Wellingborough,Whitebridge,12.23,Temporary Site,2016-01-19,1900-01-01 10:55:00,2016-01-19,1900-01-01 11:09:00,2016,Morning,14.0,Jan
+Business,Cary,Raleigh,27.52,Meeting,2016-01-20,1900-01-01 10:36:00,2016-01-20,1900-01-01 11:11:00,2016,Morning,35.0,Jan
+Business,Fayetteville Street,Umstead,24.3,Meeting,2016-01-20,1900-01-01 11:48:00,2016-01-20,1900-01-01 12:19:00,2016,Morning,31.0,Jan
+Business,Raleigh,Cary,64.7,Customer Visit,2016-01-20,1900-01-01 13:25:00,2016-01-20,1900-01-01 14:19:00,2016,Afternoon,54.0,Jan
+Business,Cary,Cary,2.57,Errand/Supplies,2016-01-21,1900-01-01 14:25:00,2016-01-21,1900-01-01 14:29:00,2016,Afternoon,4.0,Jan
+Business,Cary,Cary,3.86,Meal/Entertain,2016-01-21,1900-01-01 14:43:00,2016-01-21,1900-01-01 14:51:00,2016,Afternoon,8.0,Jan
+Business,Cary,Cary,1.61,Meal/Entertain,2016-01-21,1900-01-01 16:01:00,2016-01-21,1900-01-01 16:06:00,2016,Afternoon,5.0,Jan
+Business,Whitebridge,Hazelwood,3.22,Meal/Entertain,2016-01-26,1900-01-01 10:41:00,2016-01-26,1900-01-01 10:50:00,2016,Morning,9.0,Jan
+Business,Hazelwood,Whitebridge,3.7,Errand/Supplies,2016-01-26,1900-01-01 12:33:00,2016-01-26,1900-01-01 12:41:00,2016,Afternoon,8.0,Jan
+Business,Whitebridge,Westpark Place,3.06,Errand/Supplies,2016-01-26,1900-01-01 16:24:00,2016-01-26,1900-01-01 16:32:00,2016,Afternoon,8.0,Jan
+Business,Cary,Cary,2.25,Errand/Supplies,2016-01-26,1900-01-01 17:17:00,2016-01-26,1900-01-01 17:22:00,2016,Evening,5.0,Jan
+Business,Cary,Cary,0.8,Errand/Supplies,2016-01-26,1900-01-01 17:27:00,2016-01-26,1900-01-01 17:29:00,2016,Evening,2.0,Jan
+Business,Cary,Cary,2.9,Meeting,2016-01-27,1900-01-01 09:24:00,2016-01-27,1900-01-01 09:31:00,2016,Morning,7.0,Jan
+Business,Cary,Raleigh,30.09,Customer Visit,2016-01-27,1900-01-01 10:19:00,2016-01-27,1900-01-01 10:48:00,2016,Morning,29.0,Jan
+Business,Fairmont,Meredith Townes,5.47,Customer Visit,2016-01-27,1900-01-01 12:34:00,2016-01-27,1900-01-01 12:44:00,2016,Afternoon,10.0,Jan
+Business,Raleigh,Raleigh,4.35,Customer Visit,2016-01-27,1900-01-01 14:05:00,2016-01-27,1900-01-01 14:13:00,2016,Afternoon,8.0,Jan
+Business,Raleigh,Cary,20.76,Customer Visit,2016-01-27,1900-01-01 14:46:00,2016-01-27,1900-01-01 15:08:00,2016,Afternoon,22.0,Jan
+Business,Cary,Raleigh,30.58,Temporary Site,2016-01-28,1900-01-01 12:28:00,2016-01-28,1900-01-01 13:00:00,2016,Afternoon,32.0,Jan
+Business,Meredith Townes,Leesville Hollow,23.66,Meeting,2016-01-28,1900-01-01 15:11:00,2016-01-28,1900-01-01 15:31:00,2016,Afternoon,20.0,Jan
+Business,Raleigh,Cary,25.27,Meeting,2016-01-28,1900-01-01 16:21:00,2016-01-28,1900-01-01 16:51:00,2016,Afternoon,30.0,Jan
+Business,Cary,Cary,7.4,Customer Visit,2016-01-29,1900-01-01 09:31:00,2016-01-29,1900-01-01 09:45:00,2016,Morning,14.0,Jan
+Business,Cary,Cary,8.37,Meeting,2016-01-29,1900-01-01 10:56:00,2016-01-29,1900-01-01 11:07:00,2016,Morning,11.0,Jan
+Business,Cary,Durham,16.74,Meeting,2016-01-29,1900-01-01 11:43:00,2016-01-29,1900-01-01 12:03:00,2016,Morning,20.0,Jan
+Business,Durham,Cary,16.25,Meeting,2016-01-29,1900-01-01 13:24:00,2016-01-29,1900-01-01 13:47:00,2016,Afternoon,23.0,Jan
+Business,Cary,Apex,9.33,Errand/Supplies,2016-01-29,1900-01-01 18:31:00,2016-01-29,1900-01-01 18:52:00,2016,Evening,21.0,Jan
+Business,Apex,Cary,8.85,Meal/Entertain,2016-01-29,1900-01-01 21:21:00,2016-01-29,1900-01-01 21:40:00,2016,Night,19.0,Jan
+Business,Cary,Apex,9.17,Errand/Supplies,2016-01-30,1900-01-01 16:21:00,2016-01-30,1900-01-01 16:33:00,2016,Afternoon,12.0,Jan
+Business,Apex,Cary,9.17,Customer Visit,2016-01-30,1900-01-01 18:09:00,2016-01-30,1900-01-01 18:24:00,2016,Evening,15.0,Jan
+Business,Cary,Chapel Hill,31.22,Customer Visit,2016-02-01,1900-01-01 10:35:00,2016-02-01,1900-01-01 11:15:00,2016,Morning,40.0,Feb
+Business,Chapel Hill,Cary,37.5,Customer Visit,2016-02-01,1900-01-01 12:10:00,2016-02-01,1900-01-01 12:43:00,2016,Afternoon,33.0,Feb
+Business,Northwoods,Whitebridge,6.28,Meal/Entertain,2016-02-01,1900-01-01 12:56:00,2016-02-01,1900-01-01 13:07:00,2016,Afternoon,11.0,Feb
+Business,Whitebridge,Williamsburg Manor,13.36,Meeting,2016-02-02,1900-01-01 13:04:00,2016-02-02,1900-01-01 13:23:00,2016,Afternoon,19.0,Feb
+Business,Cary,Cary,9.66,Errand/Supplies,2016-02-02,1900-01-01 13:51:00,2016-02-02,1900-01-01 14:06:00,2016,Afternoon,15.0,Feb
+Business,Cary,Cary,2.57,Errand/Supplies,2016-02-02,1900-01-01 14:38:00,2016-02-02,1900-01-01 14:42:00,2016,Afternoon,4.0,Feb
+Business,Cary,Morrisville,8.37,Errand/Supplies,2016-02-04,1900-01-01 08:40:00,2016-02-04,1900-01-01 09:01:00,2016,Morning,21.0,Feb
+Business,Morrisville,Cary,15.61,Meal/Entertain,2016-02-04,1900-01-01 09:37:00,2016-02-04,1900-01-01 10:09:00,2016,Morning,32.0,Feb
+Business,Cary,Cary,2.57,Meal/Entertain,2016-02-04,1900-01-01 10:26:00,2016-02-04,1900-01-01 10:32:00,2016,Morning,6.0,Feb
+Business,Cary,Cary,1.77,Meal/Entertain,2016-02-04,1900-01-01 15:59:00,2016-02-04,1900-01-01 16:03:00,2016,Afternoon,4.0,Feb
+Business,Cary,Cary,2.57,Meal/Entertain,2016-02-04,1900-01-01 16:35:00,2016-02-04,1900-01-01 16:39:00,2016,Afternoon,4.0,Feb
+Business,Whitebridge,Macgregor Downs,14.48,Meeting,2016-02-04,1900-01-01 18:04:00,2016-02-04,1900-01-01 18:31:00,2016,Evening,27.0,Feb
+Business,Cary,Cary,12.39,Meeting,2016-02-04,1900-01-01 20:36:00,2016-02-04,1900-01-01 20:55:00,2016,Evening,19.0,Feb
+Business,Cary,Durham,16.74,Meeting,2016-02-05,1900-01-01 11:47:00,2016-02-05,1900-01-01 12:07:00,2016,Morning,20.0,Feb
+Business,Durham,Cary,16.74,Meeting,2016-02-05,1900-01-01 13:22:00,2016-02-05,1900-01-01 13:41:00,2016,Afternoon,19.0,Feb
+Business,Cary,Raleigh,18.35,Between Offices,2016-02-06,1900-01-01 16:20:00,2016-02-06,1900-01-01 16:53:00,2016,Afternoon,33.0,Feb
+Business,Raleigh,Cary,14.48,Errand/Supplies,2016-02-06,1900-01-01 18:57:00,2016-02-06,1900-01-01 19:21:00,2016,Evening,24.0,Feb
+Business,Edgehill Farms,Whitebridge,5.15,Meal/Entertain,2016-02-06,1900-01-01 19:28:00,2016-02-06,1900-01-01 19:37:00,2016,Evening,9.0,Feb
+Business,Cary,Apex,9.01,Errand/Supplies,2016-02-07,1900-01-01 16:49:00,2016-02-07,1900-01-01 17:01:00,2016,Afternoon,12.0,Feb
+Business,Apex,Cary,9.17,Customer Visit,2016-02-07,1900-01-01 18:03:00,2016-02-07,1900-01-01 18:17:00,2016,Evening,14.0,Feb
+Business,Cary,Morrisville,9.82,Temporary Site,2016-02-07,1900-01-01 18:39:00,2016-02-07,1900-01-01 18:53:00,2016,Evening,14.0,Feb
+Business,Morrisville,Cary,9.82,Meeting,2016-02-07,1900-01-01 20:22:00,2016-02-07,1900-01-01 20:40:00,2016,Evening,18.0,Feb
+Business,Whitebridge,Edgehill Farms,6.92,Meal/Entertain,2016-02-08,1900-01-01 12:57:00,2016-02-08,1900-01-01 13:08:00,2016,Afternoon,11.0,Feb
+Business,Edgehill Farms,Whitebridge,4.35,Meal/Entertain,2016-02-08,1900-01-01 14:00:00,2016-02-08,1900-01-01 14:10:00,2016,Afternoon,10.0,Feb
+Personal,Whitebridge,Northwoods,8.53,Meal/Entertain,2016-02-09,1900-01-01 10:54:00,2016-02-09,1900-01-01 11:07:00,2016,Morning,13.0,Feb
+Personal,Northwoods,Tanglewood,4.83,Meal/Entertain,2016-02-09,1900-01-01 11:43:00,2016-02-09,1900-01-01 11:50:00,2016,Morning,7.0,Feb
+Personal,Tanglewood,Preston,8.21,Meal/Entertain,2016-02-09,1900-01-01 13:36:00,2016-02-09,1900-01-01 13:52:00,2016,Afternoon,16.0,Feb
+Personal,Preston,Whitebridge,2.41,Meal/Entertain,2016-02-09,1900-01-01 13:58:00,2016-02-09,1900-01-01 14:02:00,2016,Afternoon,4.0,Feb
+Business,Cary,Morrisville,9.82,Meal/Entertain,2016-02-09,1900-01-01 18:55:00,2016-02-09,1900-01-01 19:11:00,2016,Evening,16.0,Feb
+Business,Morrisville,Cary,9.82,Meal/Entertain,2016-02-09,1900-01-01 20:24:00,2016-02-09,1900-01-01 20:40:00,2016,Evening,16.0,Feb
+Business,Cary,Raleigh,27.84,Meal/Entertain,2016-02-11,1900-01-01 16:28:00,2016-02-11,1900-01-01 17:10:00,2016,Afternoon,42.0,Feb
+Business,Eastgate,Walnut Terrace,9.17,Meal/Entertain,2016-02-11,1900-01-01 17:49:00,2016-02-11,1900-01-01 18:10:00,2016,Evening,21.0,Feb
+Business,Raleigh,Morrisville,21.73,Temporary Site,2016-02-11,1900-01-01 18:24:00,2016-02-11,1900-01-01 18:46:00,2016,Evening,22.0,Feb
+Business,Morrisville,Cary,9.82,Temporary Site,2016-02-11,1900-01-01 20:36:00,2016-02-11,1900-01-01 20:51:00,2016,Evening,15.0,Feb
+Business,Cary,Durham,13.68,Temporary Site,2016-02-12,1900-01-01 08:21:00,2016-02-12,1900-01-01 08:42:00,2016,Morning,21.0,Feb
+Business,Durham,Morrisville,4.18,Temporary Site,2016-02-12,1900-01-01 10:45:00,2016-02-12,1900-01-01 10:52:00,2016,Morning,7.0,Feb
+Business,Morrisville,Raleigh,27.36,Customer Visit,2016-02-12,1900-01-01 11:14:00,2016-02-12,1900-01-01 11:35:00,2016,Morning,21.0,Feb
+Business,Raleigh,Cary,28.97,Meeting,2016-02-12,1900-01-01 13:02:00,2016-02-12,1900-01-01 13:36:00,2016,Afternoon,34.0,Feb
+Business,Cary,Morrisville,13.52,Meeting,2016-02-12,1900-01-01 14:49:00,2016-02-12,1900-01-01 15:06:00,2016,Afternoon,17.0,Feb
+Business,Morrisville,Cary,18.51,Customer Visit,2016-02-12,1900-01-01 15:33:00,2016-02-12,1900-01-01 16:06:00,2016,Afternoon,33.0,Feb
+Business,Cary,Morrisville,14.32,Meeting,2016-02-13,1900-01-01 14:21:00,2016-02-13,1900-01-01 14:41:00,2016,Afternoon,20.0,Feb
+Personal,East Elmhurst,Jackson Heights,4.35,Meeting,2016-02-13,1900-01-01 23:45:00,2016-02-14,1900-01-01 00:01:00,2016,Night,16.0,Feb
+Personal,Jackson Heights,East Elmhurst,2.9,Meeting,2016-02-14,1900-01-01 00:50:00,2016-02-14,1900-01-01 01:00:00,2016,Night,10.0,Feb
+Business,East Elmhurst,New York,13.04,Meeting,2016-02-14,1900-01-01 14:07:00,2016-02-14,1900-01-01 14:40:00,2016,Afternoon,33.0,Feb
+Business,Midtown,Midtown West,3.22,Meeting,2016-02-14,1900-01-01 14:46:00,2016-02-14,1900-01-01 15:03:00,2016,Afternoon,17.0,Feb
+Business,New York,Long Island City,20.92,Meeting,2016-02-14,1900-01-01 16:35:00,2016-02-14,1900-01-01 17:02:00,2016,Afternoon,27.0,Feb
+Business,Long Island City,Jamaica,22.37,Meeting,2016-02-14,1900-01-01 17:06:00,2016-02-14,1900-01-01 17:29:00,2016,Evening,23.0,Feb
+Business,Katunayaka,Unknown Location,70.33,Customer Visit,2016-02-16,1900-01-01 03:21:00,2016-02-16,1900-01-01 04:13:00,2016,Night,52.0,Feb
+Business,Unknown Location,Colombo,22.69,Customer Visit,2016-02-16,1900-01-01 08:29:00,2016-02-16,1900-01-01 09:34:00,2016,Morning,65.0,Feb
+Business,Colombo,Colombo,4.18,Customer Visit,2016-02-16,1900-01-01 10:31:00,2016-02-16,1900-01-01 10:41:00,2016,Morning,10.0,Feb
+Business,Colombo,Colombo,7.24,Customer Visit,2016-02-16,1900-01-01 11:32:00,2016-02-16,1900-01-01 12:02:00,2016,Morning,30.0,Feb
+Business,Colombo,Colombo,2.74,Customer Visit,2016-02-16,1900-01-01 12:39:00,2016-02-16,1900-01-01 12:42:00,2016,Afternoon,3.0,Feb
+Business,Colombo,Colombo,2.9,Temporary Site,2016-02-16,1900-01-01 13:43:00,2016-02-16,1900-01-01 13:55:00,2016,Afternoon,12.0,Feb
+Business,Colombo,Colombo,9.66,Temporary Site,2016-02-16,1900-01-01 16:34:00,2016-02-16,1900-01-01 17:10:00,2016,Afternoon,36.0,Feb
+Business,Colombo,Nugegoda,1.77,Meal/Entertain,2016-02-16,1900-01-01 17:17:00,2016-02-16,1900-01-01 17:26:00,2016,Evening,9.0,Feb
+Business,Nugegoda,Unknown Location,5.79,Errand/Supplies,2016-02-16,1900-01-01 17:40:00,2016-02-16,1900-01-01 17:44:00,2016,Evening,4.0,Feb
+Business,Unknown Location,Colombo,23.66,Temporary Site,2016-02-17,1900-01-01 13:18:00,2016-02-17,1900-01-01 14:04:00,2016,Afternoon,46.0,Feb
+Business,Colombo,Colombo,2.74,Meal/Entertain,2016-02-17,1900-01-01 15:17:00,2016-02-17,1900-01-01 15:22:00,2016,Afternoon,5.0,Feb
+Business,Colombo,Katunayaka,34.44,Temporary Site,2016-02-17,1900-01-01 15:33:00,2016-02-17,1900-01-01 16:17:00,2016,Afternoon,44.0,Feb
+Business,Katunayaka,Katunayaka,0.8,Errand/Supplies,2016-02-17,1900-01-01 16:38:00,2016-02-17,1900-01-01 16:43:00,2016,Afternoon,5.0,Feb
+Business,Unknown Location,Unknown Location,37.82,Temporary Site,2016-02-18,1900-01-01 08:19:00,2016-02-18,1900-01-01 08:27:00,2016,Morning,8.0,Feb
+Business,Unknown Location,Islamabad,20.44,Temporary Site,2016-02-18,1900-01-01 14:03:00,2016-02-18,1900-01-01 14:45:00,2016,Afternoon,42.0,Feb
+Business,Islamabad,Unknown Location,9.66,Temporary Site,2016-02-18,1900-01-01 15:16:00,2016-02-18,1900-01-01 15:31:00,2016,Afternoon,15.0,Feb
+Business,Unknown Location,Islamabad,8.37,Customer Visit,2016-02-18,1900-01-01 18:44:00,2016-02-18,1900-01-01 18:58:00,2016,Evening,14.0,Feb
+Business,Islamabad,Unknown Location,16.09,Meeting,2016-02-18,1900-01-01 19:27:00,2016-02-18,1900-01-01 20:08:00,2016,Evening,41.0,Feb
+Business,Unknown Location,Unknown Location,29.45,Meeting,2016-02-19,1900-01-01 09:02:00,2016-02-19,1900-01-01 09:14:00,2016,Morning,12.0,Feb
+Business,Unknown Location,Unknown Location,18.02,Meeting,2016-02-19,1900-01-01 09:21:00,2016-02-19,1900-01-01 09:51:00,2016,Morning,30.0,Feb
+Business,Unknown Location,Islamabad,12.23,Meeting,2016-02-19,1900-01-01 10:21:00,2016-02-19,1900-01-01 10:48:00,2016,Morning,27.0,Feb
+Personal,Islamabad,Islamabad,2.41,Meeting,2016-02-19,1900-01-01 11:20:00,2016-02-19,1900-01-01 11:26:00,2016,Morning,6.0,Feb
+Personal,Islamabad,Islamabad,1.61,Meeting,2016-02-19,1900-01-01 11:45:00,2016-02-19,1900-01-01 11:50:00,2016,Morning,5.0,Feb
+Business,Islamabad,Unknown Location,11.75,Temporary Site,2016-02-19,1900-01-01 12:09:00,2016-02-19,1900-01-01 12:27:00,2016,Afternoon,18.0,Feb
+Business,Unknown Location,Islamabad,5.63,Temporary Site,2016-02-19,1900-01-01 16:26:00,2016-02-19,1900-01-01 16:45:00,2016,Afternoon,19.0,Feb
+Business,Islamabad,Islamabad,6.76,Temporary Site,2016-02-19,1900-01-01 17:09:00,2016-02-19,1900-01-01 17:20:00,2016,Evening,11.0,Feb
+Personal,Islamabad,Unknown Location,21.89,Temporary Site,2016-02-19,1900-01-01 20:08:00,2016-02-19,1900-01-01 20:30:00,2016,Evening,22.0,Feb
+Personal,Unknown Location,Unknown Location,4.02,Temporary Site,2016-02-19,1900-01-01 20:34:00,2016-02-19,1900-01-01 20:51:00,2016,Evening,17.0,Feb
+Personal,Unknown Location,Islamabad,23.17,Temporary Site,2016-02-20,1900-01-01 07:59:00,2016-02-20,1900-01-01 08:32:00,2016,Morning,33.0,Feb
+Personal,Islamabad,Islamabad,4.83,Temporary Site,2016-02-20,1900-01-01 10:48:00,2016-02-20,1900-01-01 10:56:00,2016,Morning,8.0,Feb
+Personal,Islamabad,Islamabad,2.41,Temporary Site,2016-02-20,1900-01-01 11:45:00,2016-02-20,1900-01-01 11:53:00,2016,Morning,8.0,Feb
+Business,Islamabad,R?walpindi,29.61,Temporary Site,2016-02-20,1900-01-01 12:41:00,2016-02-20,1900-01-01 13:17:00,2016,Afternoon,36.0,Feb
+Business,R?walpindi,R?walpindi,37.18,Meeting,2016-02-20,1900-01-01 14:50:00,2016-02-20,1900-01-01 15:54:00,2016,Afternoon,64.0,Feb
+Personal,R?walpindi,Unknown Location,26.55,Meeting,2016-02-20,1900-01-01 16:59:00,2016-02-20,1900-01-01 17:54:00,2016,Afternoon,55.0,Feb
+Business,Unknown Location,Unknown Location,5.15,Errand/Supplies,2016-02-20,1900-01-01 18:00:00,2016-02-20,1900-01-01 18:03:00,2016,Evening,3.0,Feb
+Business,Unknown Location,Unknown Location,12.39,Errand/Supplies,2016-02-20,1900-01-01 19:28:00,2016-02-20,1900-01-01 19:49:00,2016,Evening,21.0,Feb
+Business,Unknown Location,Islamabad,23.34,Errand/Supplies,2016-02-21,1900-01-01 09:07:00,2016-02-21,1900-01-01 09:46:00,2016,Morning,39.0,Feb
+Business,Unknown Location,Islamabad,3.86,Errand/Supplies,2016-02-21,1900-01-01 11:39:00,2016-02-21,1900-01-01 11:43:00,2016,Morning,4.0,Feb
+Business,Islamabad,Islamabad,7.4,Errand/Supplies,2016-02-21,1900-01-01 11:47:00,2016-02-21,1900-01-01 12:01:00,2016,Morning,14.0,Feb
+Business,Islamabad,Unknown Location,14.16,Meal/Entertain,2016-02-21,1900-01-01 12:13:00,2016-02-21,1900-01-01 12:35:00,2016,Afternoon,22.0,Feb
+Business,Unknown Location,Unknown Location,13.36,Temporary Site,2016-02-21,1900-01-01 12:51:00,2016-02-21,1900-01-01 13:12:00,2016,Afternoon,21.0,Feb
+Business,Unknown Location,Unknown Location,36.53,Temporary Site,2016-02-21,1900-01-01 13:33:00,2016-02-21,1900-01-01 14:30:00,2016,Afternoon,57.0,Feb
+Business,Unknown Location,Islamabad,20.92,Temporary Site,2016-02-21,1900-01-01 14:36:00,2016-02-21,1900-01-01 15:03:00,2016,Afternoon,27.0,Feb
+Business,Islamabad,Noorpur Shahan,13.04,Temporary Site,2016-02-21,1900-01-01 15:14:00,2016-02-21,1900-01-01 15:31:00,2016,Afternoon,17.0,Feb
+Business,Noorpur Shahan,Unknown Location,3.54,Meal/Entertain,2016-02-21,1900-01-01 15:36:00,2016-02-21,1900-01-01 15:41:00,2016,Afternoon,5.0,Feb
+Business,Unknown Location,Unknown Location,15.61,Meal/Entertain,2016-02-21,1900-01-01 16:04:00,2016-02-21,1900-01-01 16:32:00,2016,Afternoon,28.0,Feb
+Business,Unknown Location,R?walpindi,32.19,Meeting,2016-02-21,1900-01-01 23:15:00,2016-02-21,1900-01-01 23:52:00,2016,Night,37.0,Feb
+Business,Morrisville,Cary,13.04,Customer Visit,2016-02-22,1900-01-01 21:54:00,2016-02-22,1900-01-01 22:09:00,2016,Night,15.0,Feb
+Business,Whitebridge,Preston,2.41,Customer Visit,2016-02-24,1900-01-01 14:30:00,2016-02-24,1900-01-01 14:35:00,2016,Afternoon,5.0,Feb
+Business,Preston,Whitebridge,2.74,Errand/Supplies,2016-02-24,1900-01-01 15:19:00,2016-02-24,1900-01-01 15:25:00,2016,Afternoon,6.0,Feb
+Business,Whitebridge,Heritage Pines,4.99,Errand/Supplies,2016-02-25,1900-01-01 16:27:00,2016-02-25,1900-01-01 16:35:00,2016,Afternoon,8.0,Feb
+Business,Heritage Pines,Whitebridge,5.15,Errand/Supplies,2016-02-25,1900-01-01 16:47:00,2016-02-25,1900-01-01 17:02:00,2016,Afternoon,15.0,Feb
+Business,Whitebridge,Tanglewood,9.66,Meal/Entertain,2016-02-25,1900-01-01 17:16:00,2016-02-25,1900-01-01 17:36:00,2016,Evening,20.0,Feb
+Business,Tanglewood,Whitebridge,9.33,Meal/Entertain,2016-02-25,1900-01-01 18:22:00,2016-02-25,1900-01-01 18:39:00,2016,Evening,17.0,Feb
+Business,Whitebridge,Westpark Place,10.14,Meal/Entertain,2016-02-26,1900-01-01 09:06:00,2016-02-26,1900-01-01 09:29:00,2016,Morning,23.0,Feb
+Personal,Westpark Place,Whitebridge,2.74,Meal/Entertain,2016-02-26,1900-01-01 11:05:00,2016-02-26,1900-01-01 11:11:00,2016,Morning,6.0,Feb
+Business,Cary,Durham,17.06,Meeting,2016-02-26,1900-01-01 11:35:00,2016-02-26,1900-01-01 11:59:00,2016,Morning,24.0,Feb
+Business,Durham,Cary,15.93,Meeting,2016-02-26,1900-01-01 13:01:00,2016-02-26,1900-01-01 13:24:00,2016,Afternoon,23.0,Feb
+Personal,Whitebridge,Westpark Place,3.06,Meeting,2016-02-26,1900-01-01 14:38:00,2016-02-26,1900-01-01 14:46:00,2016,Afternoon,8.0,Feb
+Personal,Westpark Place,Hazelwood,6.76,Meeting,2016-02-26,1900-01-01 15:00:00,2016-02-26,1900-01-01 15:18:00,2016,Afternoon,18.0,Feb
+Personal,Hazelwood,Whitebridge,3.22,Meeting,2016-02-26,1900-01-01 17:01:00,2016-02-26,1900-01-01 17:12:00,2016,Evening,11.0,Feb
+Business,Whitebridge,Waverly Place,12.39,Meeting,2016-02-28,1900-01-01 05:22:00,2016-02-28,1900-01-01 05:38:00,2016,Morning,16.0,Feb
+Business,Waverly Place,Whitebridge,10.94,Meeting,2016-02-28,1900-01-01 09:26:00,2016-02-28,1900-01-01 09:42:00,2016,Morning,16.0,Feb
+Personal,Whitebridge,Westpark Place,3.38,Meeting,2016-02-29,1900-01-01 11:07:00,2016-02-29,1900-01-01 11:14:00,2016,Morning,7.0,Feb
+Business,Cary,Apex,6.12,Meeting,2016-02-29,1900-01-01 11:30:00,2016-02-29,1900-01-01 11:40:00,2016,Morning,10.0,Feb
+Business,Apex,Cary,9.01,Meeting,2016-02-29,1900-01-01 12:36:00,2016-02-29,1900-01-01 12:48:00,2016,Afternoon,12.0,Feb
+Business,Whitebridge,Hazelwood,4.18,Meeting,2016-02-29,1900-01-01 14:55:00,2016-02-29,1900-01-01 15:03:00,2016,Afternoon,8.0,Feb
+Business,Hazelwood,Whitebridge,10.62,Customer Visit,2016-02-29,1900-01-01 16:40:00,2016-02-29,1900-01-01 17:00:00,2016,Afternoon,20.0,Feb
+Business,Whitebridge,Wayne Ridge,12.87,Meal/Entertain,2016-03-01,1900-01-01 18:47:00,2016-03-01,1900-01-01 19:10:00,2016,Evening,23.0,Mar
+Business,Wayne Ridge,Whitebridge,12.87,Meeting,2016-03-01,1900-01-01 21:27:00,2016-03-01,1900-01-01 21:45:00,2016,Night,18.0,Mar
+Personal,Whitebridge,Westpark Place,3.54,Meeting,2016-03-03,1900-01-01 09:45:00,2016-03-03,1900-01-01 09:52:00,2016,Morning,7.0,Mar
+Business,Westpark Place,Whitebridge,3.7,Errand/Supplies,2016-03-03,1900-01-01 11:04:00,2016-03-03,1900-01-01 11:10:00,2016,Morning,6.0,Mar
+Business,Whitebridge,Northwoods,8.37,Meal/Entertain,2016-03-03,1900-01-01 14:44:00,2016-03-03,1900-01-01 14:58:00,2016,Afternoon,14.0,Mar
+Business,Cary,Raleigh,12.23,Customer Visit,2016-03-03,1900-01-01 15:27:00,2016-03-03,1900-01-01 15:48:00,2016,Afternoon,21.0,Mar
+Business,Raleigh,Cary,27.84,Meeting,2016-03-03,1900-01-01 16:02:00,2016-03-03,1900-01-01 16:42:00,2016,Afternoon,40.0,Mar
+Business,Cary,Durham,15.93,Meeting,2016-03-04,1900-01-01 07:47:00,2016-03-04,1900-01-01 08:06:00,2016,Morning,19.0,Mar
+Business,Durham,Cary,15.93,Customer Visit,2016-03-04,1900-01-01 09:46:00,2016-03-04,1900-01-01 10:03:00,2016,Morning,17.0,Mar
+Business,Cary,Durham,16.74,Meeting,2016-03-04,1900-01-01 11:46:00,2016-03-04,1900-01-01 12:06:00,2016,Morning,20.0,Mar
+Business,Durham,Cary,17.54,Meeting,2016-03-04,1900-01-01 13:03:00,2016-03-04,1900-01-01 13:25:00,2016,Afternoon,22.0,Mar
+Business,Cary,Raleigh,25.27,Customer Visit,2016-03-04,1900-01-01 13:40:00,2016-03-04,1900-01-01 14:09:00,2016,Afternoon,29.0,Mar
+Business,Raleigh,Raleigh,7.89,Meal/Entertain,2016-03-04,1900-01-01 15:56:00,2016-03-04,1900-01-01 16:08:00,2016,Afternoon,12.0,Mar
+Business,Fayetteville Street,Depot Historic District,1.29,Errand/Supplies,2016-03-04,1900-01-01 16:16:00,2016-03-04,1900-01-01 16:22:00,2016,Afternoon,6.0,Mar
+Business,Raleigh,Cary,21.73,Meeting,2016-03-04,1900-01-01 16:43:00,2016-03-04,1900-01-01 17:12:00,2016,Afternoon,29.0,Mar
+Business,Cary,Morrisville,3.06,Temporary Site,2016-03-04,1900-01-01 19:02:00,2016-03-04,1900-01-01 19:08:00,2016,Evening,6.0,Mar
+Business,Morrisville,Cary,3.22,Meal/Entertain,2016-03-04,1900-01-01 19:16:00,2016-03-04,1900-01-01 19:25:00,2016,Evening,9.0,Mar
+Business,Cary,Morrisville,10.46,Meal/Entertain,2016-03-05,1900-01-01 11:44:00,2016-03-05,1900-01-01 11:59:00,2016,Morning,15.0,Mar
+Personal,Weston,Weston,6.76,Meal/Entertain,2016-03-05,1900-01-01 12:57:00,2016-03-05,1900-01-01 13:12:00,2016,Afternoon,15.0,Mar
+Personal,Morrisville,Cary,5.63,Meal/Entertain,2016-03-05,1900-01-01 14:08:00,2016-03-05,1900-01-01 14:18:00,2016,Afternoon,10.0,Mar
+Business,Whitebridge,Wayne Ridge,12.55,Meal/Entertain,2016-03-05,1900-01-01 14:39:00,2016-03-05,1900-01-01 15:01:00,2016,Afternoon,22.0,Mar
+Business,Cary,Morrisville,12.55,Meal/Entertain,2016-03-05,1900-01-01 16:52:00,2016-03-05,1900-01-01 17:13:00,2016,Afternoon,21.0,Mar
+Business,Morrisville,Cary,6.28,Meal/Entertain,2016-03-05,1900-01-01 17:23:00,2016-03-05,1900-01-01 17:34:00,2016,Evening,11.0,Mar
+Business,Whitebridge,Edgehill Farms,4.51,Errand/Supplies,2016-03-07,1900-01-01 09:10:00,2016-03-07,1900-01-01 09:20:00,2016,Morning,10.0,Mar
+Business,Cary,Raleigh,19.96,Customer Visit,2016-03-07,1900-01-01 09:23:00,2016-03-07,1900-01-01 09:47:00,2016,Morning,24.0,Mar
+Business,Fayetteville Street,Meredith Townes,9.5,Customer Visit,2016-03-07,1900-01-01 12:10:00,2016-03-07,1900-01-01 12:26:00,2016,Afternoon,16.0,Mar
+Business,Meredith Townes,Leesville Hollow,15.13,Meeting,2016-03-07,1900-01-01 13:57:00,2016-03-07,1900-01-01 14:18:00,2016,Afternoon,21.0,Mar
+Business,Raleigh,Cary,19.15,Between Offices,2016-03-07,1900-01-01 15:19:00,2016-03-07,1900-01-01 15:45:00,2016,Afternoon,26.0,Mar
+Business,Whitebridge,Waverly Place,11.59,Between Offices,2016-03-08,1900-01-01 14:38:00,2016-03-08,1900-01-01 14:55:00,2016,Afternoon,17.0,Mar
+Business,Waverly Place,Whitebridge,12.23,Meal/Entertain,2016-03-08,1900-01-01 15:35:00,2016-03-08,1900-01-01 16:00:00,2016,Afternoon,25.0,Mar
+Personal,Whitebridge,Whitebridge,2.57,Meal/Entertain,2016-03-08,1900-01-01 16:13:00,2016-03-08,1900-01-01 16:25:00,2016,Afternoon,12.0,Mar
+Business,Cary,Morrisville,13.52,Meeting,2016-03-10,1900-01-01 03:36:00,2016-03-10,1900-01-01 03:53:00,2016,Night,17.0,Mar
+Business,East Austin,West University,20.6,Meeting,2016-03-10,1900-01-01 10:08:00,2016-03-10,1900-01-01 10:37:00,2016,Morning,29.0,Mar
+Business,West University,South Congress,3.7,Meeting,2016-03-10,1900-01-01 14:39:00,2016-03-10,1900-01-01 14:55:00,2016,Afternoon,16.0,Mar
+Business,South Congress,Arts District,2.57,Meeting,2016-03-10,1900-01-01 16:18:00,2016-03-10,1900-01-01 16:28:00,2016,Afternoon,10.0,Mar
+Business,The Drag,Congress Ave District,3.22,Meal/Entertain,2016-03-11,1900-01-01 09:47:00,2016-03-11,1900-01-01 09:59:00,2016,Morning,12.0,Mar
+Business,Congress Ave District,Downtown,1.29,Meal/Entertain,2016-03-11,1900-01-01 10:29:00,2016-03-11,1900-01-01 10:36:00,2016,Morning,7.0,Mar
+Business,Downtown,Red River District,1.93,Meal/Entertain,2016-03-11,1900-01-01 11:57:00,2016-03-11,1900-01-01 12:04:00,2016,Morning,7.0,Mar
+Business,Red River District,Downtown,1.61,Meal/Entertain,2016-03-11,1900-01-01 13:43:00,2016-03-11,1900-01-01 13:51:00,2016,Afternoon,8.0,Mar
+Business,South Congress,The Drag,3.38,Meal/Entertain,2016-03-11,1900-01-01 19:21:00,2016-03-11,1900-01-01 19:35:00,2016,Evening,14.0,Mar
+Business,The Drag,South Congress,3.54,Meal/Entertain,2016-03-12,1900-01-01 09:13:00,2016-03-12,1900-01-01 09:22:00,2016,Morning,9.0,Mar
+Personal,South Congress,The Drag,3.06,Meal/Entertain,2016-03-12,1900-01-01 18:27:00,2016-03-12,1900-01-01 18:37:00,2016,Evening,10.0,Mar
+Business,The Drag,Convention Center District,9.17,Meal/Entertain,2016-03-13,1900-01-01 09:07:00,2016-03-13,1900-01-01 09:37:00,2016,Morning,30.0,Mar
+Business,South Congress,North Austin,13.52,Meal/Entertain,2016-03-13,1900-01-01 18:23:00,2016-03-13,1900-01-01 18:43:00,2016,Evening,20.0,Mar
+Business,Georgian Acres,The Drag,9.98,Meal/Entertain,2016-03-13,1900-01-01 20:07:00,2016-03-13,1900-01-01 20:28:00,2016,Evening,21.0,Mar
+Business,The Drag,North Austin,16.9,Meal/Entertain,2016-03-13,1900-01-01 20:39:00,2016-03-13,1900-01-01 20:58:00,2016,Evening,19.0,Mar
+Business,North Austin,Coxville,11.59,Meal/Entertain,2016-03-13,1900-01-01 21:11:00,2016-03-13,1900-01-01 21:23:00,2016,Night,12.0,Mar
+Business,Coxville,The Drag,20.12,Meal/Entertain,2016-03-13,1900-01-01 22:19:00,2016-03-13,1900-01-01 22:39:00,2016,Night,20.0,Mar
+Business,The Drag,South Congress,3.22,Errand/Supplies,2016-03-14,1900-01-01 08:34:00,2016-03-14,1900-01-01 08:49:00,2016,Morning,15.0,Mar
+Business,South Congress,The Drag,4.35,Errand/Supplies,2016-03-14,1900-01-01 18:39:00,2016-03-14,1900-01-01 18:55:00,2016,Evening,16.0,Mar
+Business,The Drag,Convention Center District,3.22,Meal/Entertain,2016-03-15,1900-01-01 08:45:00,2016-03-15,1900-01-01 08:57:00,2016,Morning,12.0,Mar
+Business,Downtown,The Drag,4.51,Meal/Entertain,2016-03-15,1900-01-01 20:48:00,2016-03-15,1900-01-01 21:01:00,2016,Evening,13.0,Mar
+Business,The Drag,Congress Ave District,2.74,Meal/Entertain,2016-03-16,1900-01-01 11:34:00,2016-03-16,1900-01-01 11:45:00,2016,Morning,11.0,Mar
+Business,Convention Center District,West University,3.22,Meal/Entertain,2016-03-16,1900-01-01 14:44:00,2016-03-16,1900-01-01 14:55:00,2016,Afternoon,11.0,Mar
+Business,West University,Congress Ave District,3.38,Meal/Entertain,2016-03-16,1900-01-01 18:43:00,2016-03-16,1900-01-01 18:56:00,2016,Evening,13.0,Mar
+Personal,Downtown,The Drag,2.74,Meal/Entertain,2016-03-17,1900-01-01 00:33:00,2016-03-17,1900-01-01 00:44:00,2016,Night,11.0,Mar
+Business,Austin,Katy,218.87,Customer Visit,2016-03-17,1900-01-01 12:52:00,2016-03-17,1900-01-01 15:11:00,2016,Afternoon,139.0,Mar
+Business,Katy,Houston,48.6,Meeting,2016-03-17,1900-01-01 15:16:00,2016-03-17,1900-01-01 15:58:00,2016,Afternoon,42.0,Mar
+Business,Midtown,Alief,24.94,Meal/Entertain,2016-03-17,1900-01-01 17:20:00,2016-03-17,1900-01-01 18:02:00,2016,Evening,42.0,Mar
+Personal,Houston,Houston,7.89,Meal/Entertain,2016-03-17,1900-01-01 18:47:00,2016-03-17,1900-01-01 19:09:00,2016,Evening,22.0,Mar
+Personal,Houston,Houston,20.28,Meal/Entertain,2016-03-17,1900-01-01 20:57:00,2016-03-17,1900-01-01 21:28:00,2016,Evening,31.0,Mar
+Personal,Sharpstown,Midtown,16.74,Meal/Entertain,2016-03-17,1900-01-01 21:48:00,2016-03-17,1900-01-01 22:04:00,2016,Night,16.0,Mar
+Business,Midtown,Midtown,1.77,Meal/Entertain,2016-03-18,1900-01-01 07:15:00,2016-03-18,1900-01-01 07:21:00,2016,Morning,6.0,Mar
+Business,Midtown,Midtown,1.77,Meal/Entertain,2016-03-18,1900-01-01 08:35:00,2016-03-18,1900-01-01 08:43:00,2016,Morning,8.0,Mar
+Business,Midtown,Sharpstown,21.24,Meeting,2016-03-18,1900-01-01 18:24:00,2016-03-18,1900-01-01 19:08:00,2016,Evening,44.0,Mar
+Business,Sharpstown,Sharpstown,1.61,Errand/Supplies,2016-03-18,1900-01-01 19:23:00,2016-03-18,1900-01-01 19:29:00,2016,Evening,6.0,Mar
+Business,Sharpstown,Midtown,14.81,Customer Visit,2016-03-18,1900-01-01 21:01:00,2016-03-18,1900-01-01 21:15:00,2016,Night,14.0,Mar
+Business,Midtown,Sharpstown,15.13,Meal/Entertain,2016-03-19,1900-01-01 09:10:00,2016-03-19,1900-01-01 09:25:00,2016,Morning,15.0,Mar
+Business,Houston,Sugar Land,19.31,Customer Visit,2016-03-19,1900-01-01 12:50:00,2016-03-19,1900-01-01 13:13:00,2016,Afternoon,23.0,Mar
+Business,Sugar Land,Houston,56.49,Customer Visit,2016-03-19,1900-01-01 14:01:00,2016-03-19,1900-01-01 14:57:00,2016,Afternoon,56.0,Mar
+Business,Houston,Galveston,58.74,Meal/Entertain,2016-03-19,1900-01-01 15:34:00,2016-03-19,1900-01-01 16:38:00,2016,Afternoon,64.0,Mar
+Business,Galveston,Port Bolivar,4.99,Meal/Entertain,2016-03-19,1900-01-01 17:17:00,2016-03-19,1900-01-01 17:32:00,2016,Evening,15.0,Mar
+Business,Port Bolivar,Port Bolivar,3.38,Errand/Supplies,2016-03-19,1900-01-01 17:37:00,2016-03-19,1900-01-01 17:47:00,2016,Evening,10.0,Mar
+Business,Port Bolivar,Port Bolivar,1.93,Errand/Supplies,2016-03-19,1900-01-01 17:52:00,2016-03-19,1900-01-01 18:00:00,2016,Evening,8.0,Mar
+Business,Port Bolivar,Galveston,12.07,Meeting,2016-03-19,1900-01-01 18:53:00,2016-03-19,1900-01-01 19:29:00,2016,Evening,36.0,Mar
+Business,Galveston,Houston,91.73,Customer Visit,2016-03-19,1900-01-01 19:33:00,2016-03-19,1900-01-01 20:39:00,2016,Evening,66.0,Mar
+Business,Midtown,Washington Avenue,9.5,Meeting,2016-03-20,1900-01-01 07:37:00,2016-03-20,1900-01-01 07:48:00,2016,Morning,11.0,Mar
+Business,Washington Avenue,Midtown,9.98,Meeting,2016-03-20,1900-01-01 11:42:00,2016-03-20,1900-01-01 11:56:00,2016,Morning,14.0,Mar
+Business,Midtown,Sharpstown,16.74,Meeting,2016-03-20,1900-01-01 17:08:00,2016-03-20,1900-01-01 17:34:00,2016,Evening,26.0,Mar
+Personal,Sharpstown,Briar Meadow,1.93,Meeting,2016-03-20,1900-01-01 18:34:00,2016-03-20,1900-01-01 18:40:00,2016,Evening,6.0,Mar
+Business,Briar Meadow,Midtown,15.45,Customer Visit,2016-03-20,1900-01-01 18:45:00,2016-03-20,1900-01-01 19:06:00,2016,Evening,21.0,Mar
+Personal,Midtown,Downtown,1.61,Customer Visit,2016-03-21,1900-01-01 10:21:00,2016-03-21,1900-01-01 10:26:00,2016,Morning,5.0,Mar
+Business,Downtown,Midtown,1.45,Meal/Entertain,2016-03-21,1900-01-01 16:05:00,2016-03-21,1900-01-01 16:13:00,2016,Afternoon,8.0,Mar
+Business,Midtown,Sharpstown,14.16,Meal/Entertain,2016-03-21,1900-01-01 18:59:00,2016-03-21,1900-01-01 19:15:00,2016,Evening,16.0,Mar
+Business,Sharpstown,Midtown,41.2,Meal/Entertain,2016-03-21,1900-01-01 20:18:00,2016-03-21,1900-01-01 20:55:00,2016,Evening,37.0,Mar
+Business,Midtown,Greater Greenspoint,37.01,Meal/Entertain,2016-03-22,1900-01-01 06:17:00,2016-03-22,1900-01-01 06:43:00,2016,Morning,26.0,Mar
+Personal,Morrisville,Cary,13.04,Meal/Entertain,2016-03-22,1900-01-01 12:06:00,2016-03-22,1900-01-01 12:24:00,2016,Afternoon,18.0,Mar
+Personal,Whitebridge,Whitebridge,2.25,Meal/Entertain,2016-03-22,1900-01-01 19:12:00,2016-03-22,1900-01-01 19:25:00,2016,Evening,13.0,Mar
+Personal,Whitebridge,Preston,2.74,Meal/Entertain,2016-03-23,1900-01-01 14:37:00,2016-03-23,1900-01-01 14:42:00,2016,Afternoon,5.0,Mar
+Personal,Preston,Whitebridge,2.57,Meal/Entertain,2016-03-23,1900-01-01 14:53:00,2016-03-23,1900-01-01 14:59:00,2016,Afternoon,6.0,Mar
+Personal,Whitebridge,Westpark Place,3.22,Meal/Entertain,2016-03-24,1900-01-01 19:47:00,2016-03-24,1900-01-01 19:54:00,2016,Evening,7.0,Mar
+Business,Westpark Place,Whitebridge,3.54,Meal/Entertain,2016-03-24,1900-01-01 20:34:00,2016-03-24,1900-01-01 20:40:00,2016,Evening,6.0,Mar
+Business,Cary,Latta,231.74,Customer Visit,2016-03-25,1900-01-01 13:24:00,2016-03-25,1900-01-01 16:22:00,2016,Afternoon,178.0,Mar
+Business,Latta,Jacksonville,499.38,Customer Visit,2016-03-25,1900-01-01 16:52:00,2016-03-25,1900-01-01 22:22:00,2016,Afternoon,330.0,Mar
+Business,Jacksonville,Kissimmee,323.48,Meeting,2016-03-25,1900-01-01 22:54:00,2016-03-26,1900-01-01 01:39:00,2016,Night,165.0,Mar
+Personal,Couples Glen,Isles of Buena Vista,10.78,Meeting,2016-03-26,1900-01-01 14:05:00,2016-03-26,1900-01-01 14:29:00,2016,Afternoon,24.0,Mar
+Personal,Kissimmee,Orlando,14.16,Meeting,2016-03-26,1900-01-01 15:19:00,2016-03-26,1900-01-01 15:49:00,2016,Afternoon,30.0,Mar
+Personal,Lake Reams,Lake Reams,1.93,Meeting,2016-03-26,1900-01-01 16:26:00,2016-03-26,1900-01-01 16:30:00,2016,Afternoon,4.0,Mar
+Business,Lake Reams,Lake Reams,3.38,Errand/Supplies,2016-03-27,1900-01-01 00:31:00,2016-03-27,1900-01-01 00:40:00,2016,Night,9.0,Mar
+Business,Orlando,Kissimmee,10.62,Meal/Entertain,2016-03-27,1900-01-01 01:11:00,2016-03-27,1900-01-01 01:23:00,2016,Night,12.0,Mar
+Business,Kissimmee,Orlando,9.82,Customer Visit,2016-03-27,1900-01-01 15:31:00,2016-03-27,1900-01-01 15:56:00,2016,Afternoon,25.0,Mar
+Personal,Orlando,Orlando,11.1,Customer Visit,2016-03-27,1900-01-01 21:26:00,2016-03-27,1900-01-01 21:41:00,2016,Night,15.0,Mar
+Personal,Orlando,Kissimmee,11.75,Customer Visit,2016-03-27,1900-01-01 23:04:00,2016-03-27,1900-01-01 23:18:00,2016,Night,14.0,Mar
+Personal,Kissimmee,Orlando,5.79,Customer Visit,2016-03-28,1900-01-01 12:29:00,2016-03-28,1900-01-01 12:42:00,2016,Afternoon,13.0,Mar
+Personal,Couples Glen,Vista East,43.77,Customer Visit,2016-03-28,1900-01-01 19:30:00,2016-03-28,1900-01-01 20:23:00,2016,Evening,53.0,Mar
+Personal,Orlando,Kissimmee,41.36,Customer Visit,2016-03-28,1900-01-01 22:55:00,2016-03-28,1900-01-01 23:26:00,2016,Night,31.0,Mar
+Personal,Kissimmee,Orlando,21.89,Customer Visit,2016-03-29,1900-01-01 15:27:00,2016-03-29,1900-01-01 16:11:00,2016,Afternoon,44.0,Mar
+Personal,Sand Lake Commons,Sky Lake,9.98,Customer Visit,2016-03-29,1900-01-01 18:20:00,2016-03-29,1900-01-01 18:39:00,2016,Evening,19.0,Mar
+Personal,Sky Lake,Sand Lake Commons,9.66,Customer Visit,2016-03-29,1900-01-01 20:29:00,2016-03-29,1900-01-01 20:44:00,2016,Evening,15.0,Mar
+Personal,Orlando,Kissimmee,22.21,Customer Visit,2016-03-29,1900-01-01 23:04:00,2016-03-29,1900-01-01 23:21:00,2016,Night,17.0,Mar
+Business,Orlando,Kissimmee,46.35,Meal/Entertain,2016-03-30,1900-01-01 22:05:00,2016-03-30,1900-01-01 22:55:00,2016,Night,50.0,Mar
+Business,Kissimmee,Orlando,25.91,Temporary Site,2016-03-31,1900-01-01 12:47:00,2016-03-31,1900-01-01 13:22:00,2016,Afternoon,35.0,Mar
+Business,Orlando,Kissimmee,26.39,Meal/Entertain,2016-03-31,1900-01-01 14:37:00,2016-03-31,1900-01-01 15:09:00,2016,Afternoon,32.0,Mar
+Business,Kissimmee,Kissimmee,17.7,Meeting,2016-04-01,1900-01-01 13:43:00,2016-04-01,1900-01-01 14:01:00,2016,Afternoon,18.0,Apr
+Business,Kissimmee,Orlando,24.94,Customer Visit,2016-04-01,1900-01-01 14:36:00,2016-04-01,1900-01-01 15:24:00,2016,Afternoon,48.0,Apr
+Business,Orlando,Kissimmee,32.67,Meeting,2016-04-01,1900-01-01 16:01:00,2016-04-01,1900-01-01 16:49:00,2016,Afternoon,48.0,Apr
+Personal,Kissimmee,Kissimmee,1.13,Meeting,2016-04-01,1900-01-01 16:52:00,2016-04-01,1900-01-01 16:57:00,2016,Afternoon,5.0,Apr
+Personal,Kissimmee,Kissimmee,8.85,Meeting,2016-04-02,1900-01-01 08:48:00,2016-04-02,1900-01-01 09:04:00,2016,Morning,16.0,Apr
+Personal,Kissimmee,Kissimmee,8.21,Meeting,2016-04-02,1900-01-01 11:01:00,2016-04-02,1900-01-01 11:16:00,2016,Morning,15.0,Apr
+Business,Kissimmee,Daytona Beach,124.4,Customer Visit,2016-04-02,1900-01-01 12:21:00,2016-04-02,1900-01-01 14:47:00,2016,Afternoon,146.0,Apr
+Business,Daytona Beach,Jacksonville,129.55,Customer Visit,2016-04-02,1900-01-01 16:57:00,2016-04-02,1900-01-01 18:09:00,2016,Afternoon,72.0,Apr
+Business,Jacksonville,Ridgeland,280.35,Customer Visit,2016-04-02,1900-01-01 19:38:00,2016-04-02,1900-01-01 22:36:00,2016,Evening,178.0,Apr
+Business,Ridgeland,Florence,231.74,Meeting,2016-04-02,1900-01-01 23:11:00,2016-04-03,1900-01-01 01:34:00,2016,Night,143.0,Apr
+Business,Florence,Cary,256.37,Meeting,2016-04-03,1900-01-01 02:00:00,2016-04-03,1900-01-01 04:16:00,2016,Night,136.0,Apr
+Business,Whitebridge,Wayne Ridge,12.71,Meal/Entertain,2016-04-05,1900-01-01 21:39:00,2016-04-05,1900-01-01 21:55:00,2016,Night,16.0,Apr
+Business,Wayne Ridge,Whitebridge,12.87,Meal/Entertain,2016-04-06,1900-01-01 00:19:00,2016-04-06,1900-01-01 00:39:00,2016,Night,20.0,Apr
+Business,Cary,Morrisville,9.82,Meal/Entertain,2016-04-07,1900-01-01 18:20:00,2016-04-07,1900-01-01 18:39:00,2016,Evening,19.0,Apr
+Business,Morrisville,Cary,9.82,Errand/Supplies,2016-04-07,1900-01-01 19:45:00,2016-04-07,1900-01-01 20:00:00,2016,Evening,15.0,Apr
+Business,Cary,Durham,16.9,Meeting,2016-04-08,1900-01-01 12:30:00,2016-04-08,1900-01-01 12:48:00,2016,Afternoon,18.0,Apr
+Business,Durham,Cary,14.0,Meal/Entertain,2016-04-08,1900-01-01 13:34:00,2016-04-08,1900-01-01 13:51:00,2016,Afternoon,17.0,Apr
+Business,Westpark Place,Whitebridge,2.9,Errand/Supplies,2016-04-08,1900-01-01 13:55:00,2016-04-08,1900-01-01 14:03:00,2016,Afternoon,8.0,Apr
+Business,Cary,Raleigh,30.74,Meeting,2016-04-08,1900-01-01 14:43:00,2016-04-08,1900-01-01 15:20:00,2016,Afternoon,37.0,Apr
+Business,Raleigh,Cary,29.93,Meeting,2016-04-08,1900-01-01 16:05:00,2016-04-08,1900-01-01 16:47:00,2016,Afternoon,42.0,Apr
+Business,Whitebridge,Edgehill Farms,4.51,Errand/Supplies,2016-04-12,1900-01-01 09:15:00,2016-04-12,1900-01-01 09:26:00,2016,Morning,11.0,Apr
+Business,Cary,Raleigh,14.32,Meeting,2016-04-12,1900-01-01 09:34:00,2016-04-12,1900-01-01 09:53:00,2016,Morning,19.0,Apr
+Business,Meredith,Cedar Hill,12.07,Customer Visit,2016-04-12,1900-01-01 10:58:00,2016-04-12,1900-01-01 11:18:00,2016,Morning,20.0,Apr
+Business,Raleigh,Morrisville,25.59,Meeting,2016-04-12,1900-01-01 12:22:00,2016-04-12,1900-01-01 12:44:00,2016,Afternoon,22.0,Apr
+Business,Morrisville,Cary,10.46,Meal/Entertain,2016-04-12,1900-01-01 13:42:00,2016-04-12,1900-01-01 14:01:00,2016,Afternoon,19.0,Apr
+Business,Cary,Holly Springs,24.62,Temporary Site,2016-04-14,1900-01-01 07:29:00,2016-04-14,1900-01-01 08:09:00,2016,Morning,40.0,Apr
+Business,Holly Springs,Cary,22.05,Temporary Site,2016-04-14,1900-01-01 16:00:00,2016-04-14,1900-01-01 16:43:00,2016,Afternoon,43.0,Apr
+Business,Cary,Raleigh,19.15,Temporary Site,2016-04-15,1900-01-01 11:36:00,2016-04-15,1900-01-01 12:07:00,2016,Morning,31.0,Apr
+Business,Meredith Townes,Harden Place,2.25,Errand/Supplies,2016-04-15,1900-01-01 12:29:00,2016-04-15,1900-01-01 12:32:00,2016,Afternoon,3.0,Apr
+Business,Raleigh,Cary,24.46,Meeting,2016-04-15,1900-01-01 14:31:00,2016-04-15,1900-01-01 15:01:00,2016,Afternoon,30.0,Apr
+Business,Cary,Morrisville,9.66,Errand/Supplies,2016-04-16,1900-01-01 12:59:00,2016-04-16,1900-01-01 13:17:00,2016,Afternoon,18.0,Apr
+Business,Morrisville,Cary,9.82,Meal/Entertain,2016-04-16,1900-01-01 15:10:00,2016-04-16,1900-01-01 15:26:00,2016,Afternoon,16.0,Apr
+Business,Whitebridge,Wayne Ridge,13.2,Meal/Entertain,2016-04-19,1900-01-01 17:44:00,2016-04-19,1900-01-01 18:08:00,2016,Evening,24.0,Apr
+Business,Wayne Ridge,Whitebridge,12.87,Meal/Entertain,2016-04-19,1900-01-01 19:57:00,2016-04-19,1900-01-01 20:19:00,2016,Evening,22.0,Apr
+Business,Cary,Raleigh,21.89,Meeting,2016-04-22,1900-01-01 08:25:00,2016-04-22,1900-01-01 09:04:00,2016,Morning,39.0,Apr
+Business,Raleigh,Cary,36.21,Meeting,2016-04-22,1900-01-01 10:10:00,2016-04-22,1900-01-01 10:40:00,2016,Morning,30.0,Apr
+Business,Cary,Durham,16.74,Meeting,2016-04-22,1900-01-01 12:08:00,2016-04-22,1900-01-01 12:28:00,2016,Afternoon,20.0,Apr
+Business,Durham,Cary,16.09,Meeting,2016-04-22,1900-01-01 13:02:00,2016-04-22,1900-01-01 13:26:00,2016,Afternoon,24.0,Apr
+Business,Whitebridge,Tanglewood,9.66,Meal/Entertain,2016-04-23,1900-01-01 17:03:00,2016-04-23,1900-01-01 17:16:00,2016,Evening,13.0,Apr
+Business,Tanglewood,Whitebridge,10.46,Meal/Entertain,2016-04-23,1900-01-01 18:49:00,2016-04-23,1900-01-01 19:05:00,2016,Evening,16.0,Apr
+Business,Cary,Morrisville,4.99,Errand/Supplies,2016-04-24,1900-01-01 19:07:00,2016-04-24,1900-01-01 19:16:00,2016,Evening,9.0,Apr
+Business,Chessington,Chessington,3.06,Errand/Supplies,2016-04-24,1900-01-01 19:46:00,2016-04-24,1900-01-01 19:52:00,2016,Evening,6.0,Apr
+Business,Morrisville,Cary,6.76,Between Offices,2016-04-24,1900-01-01 21:41:00,2016-04-24,1900-01-01 21:50:00,2016,Night,9.0,Apr
+Business,Whitebridge,Burtrose,7.89,Between Offices,2016-04-27,1900-01-01 13:30:00,2016-04-27,1900-01-01 13:40:00,2016,Afternoon,10.0,Apr
+Business,Burtrose,Whitebridge,7.72,Between Offices,2016-04-27,1900-01-01 14:13:00,2016-04-27,1900-01-01 14:25:00,2016,Afternoon,12.0,Apr
+Business,Cary,Raleigh,19.96,Customer Visit,2016-04-28,1900-01-01 12:09:00,2016-04-28,1900-01-01 12:34:00,2016,Afternoon,25.0,Apr
+Business,Raleigh,Cary,52.79,Customer Visit,2016-04-28,1900-01-01 13:30:00,2016-04-28,1900-01-01 13:49:00,2016,Afternoon,19.0,Apr
+Business,Morrisville,Cary,8.85,Customer Visit,2016-04-28,1900-01-01 22:10:00,2016-04-28,1900-01-01 22:28:00,2016,Night,18.0,Apr
+Business,Cary,Durham,15.93,Meeting,2016-04-29,1900-01-01 11:44:00,2016-04-29,1900-01-01 12:01:00,2016,Morning,17.0,Apr
+Business,Durham,Cary,16.09,Meeting,2016-04-29,1900-01-01 13:13:00,2016-04-29,1900-01-01 13:34:00,2016,Afternoon,21.0,Apr
+Business,Cary,Durham,22.85,Customer Visit,2016-04-29,1900-01-01 18:46:00,2016-04-29,1900-01-01 19:18:00,2016,Evening,32.0,Apr
+Business,Durham,Cary,29.29,Meeting,2016-04-29,1900-01-01 22:44:00,2016-04-29,1900-01-01 23:19:00,2016,Night,35.0,Apr
+Business,Whitebridge,Waverly Place,12.39,Meal/Entertain,2016-04-30,1900-01-01 18:42:00,2016-04-30,1900-01-01 18:57:00,2016,Evening,15.0,Apr
+Business,Waverly Place,Whitebridge,10.94,Meal/Entertain,2016-04-30,1900-01-01 22:16:00,2016-04-30,1900-01-01 22:34:00,2016,Night,18.0,Apr
+Business,Whitebridge,Westpark Place,3.38,Meal/Entertain,2016-05-01,1900-01-01 13:45:00,2016-05-01,1900-01-01 13:53:00,2016,Afternoon,8.0,May
+Business,Westpark Place,Whitebridge,3.7,Meal/Entertain,2016-05-01,1900-01-01 14:26:00,2016-05-01,1900-01-01 14:31:00,2016,Afternoon,5.0,May
+Business,Whitebridge,Tanglewood,9.98,Between Offices,2016-05-01,1900-01-01 17:33:00,2016-05-01,1900-01-01 17:45:00,2016,Evening,12.0,May
+Business,Tanglewood,Parkway,12.07,Meeting,2016-05-01,1900-01-01 17:54:00,2016-05-01,1900-01-01 18:10:00,2016,Evening,16.0,May
+Business,Parkway,Whitebridge,4.99,Errand/Supplies,2016-05-01,1900-01-01 22:38:00,2016-05-01,1900-01-01 22:49:00,2016,Night,11.0,May
+Business,Whitebridge,Westpark Place,3.54,Errand/Supplies,2016-05-02,1900-01-01 14:14:00,2016-05-02,1900-01-01 14:21:00,2016,Afternoon,7.0,May
+Business,Westpark Place,Whitebridge,6.28,Meal/Entertain,2016-05-02,1900-01-01 15:37:00,2016-05-02,1900-01-01 15:48:00,2016,Afternoon,11.0,May
+Business,Morrisville,Cary,4.02,Meal/Entertain,2016-05-03,1900-01-01 22:20:00,2016-05-03,1900-01-01 22:28:00,2016,Night,8.0,May
+Business,Cary,Morrisville,14.0,Meal/Entertain,2016-05-04,1900-01-01 15:16:00,2016-05-04,1900-01-01 15:37:00,2016,Afternoon,21.0,May
+Business,Mcvan,Capitol One,23.34,Errand/Supplies,2016-05-04,1900-01-01 20:55:00,2016-05-04,1900-01-01 21:14:00,2016,Evening,19.0,May
+Business,Capitol One,University District,7.24,Meal/Entertain,2016-05-04,1900-01-01 21:30:00,2016-05-04,1900-01-01 21:36:00,2016,Night,6.0,May
+Business,University District,Capitol One,8.05,Meal/Entertain,2016-05-04,1900-01-01 22:19:00,2016-05-04,1900-01-01 22:27:00,2016,Night,8.0,May
+Business,Seattle,Redmond,22.85,Meal/Entertain,2016-05-05,1900-01-01 21:24:00,2016-05-05,1900-01-01 21:36:00,2016,Night,12.0,May
+Business,Redmond,Bellevue,4.67,Errand/Supplies,2016-05-05,1900-01-01 22:34:00,2016-05-05,1900-01-01 22:40:00,2016,Night,6.0,May
+Business,Bellevue,Seattle,20.76,Meeting,2016-05-05,1900-01-01 23:55:00,2016-05-06,1900-01-01 00:08:00,2016,Night,13.0,May
+Business,Capitol One,Mcvan,23.17,Meeting,2016-05-06,1900-01-01 05:47:00,2016-05-06,1900-01-01 06:02:00,2016,Morning,15.0,May
+Business,Chapel Hill,Morrisville,27.36,Meeting,2016-05-06,1900-01-01 16:45:00,2016-05-06,1900-01-01 16:59:00,2016,Afternoon,14.0,May
+Business,Morrisville,Cary,12.71,Customer Visit,2016-05-06,1900-01-01 17:18:00,2016-05-06,1900-01-01 17:44:00,2016,Evening,26.0,May
+Business,Cary,Morrisville,13.52,Customer Visit,2016-05-09,1900-01-01 06:08:00,2016-05-09,1900-01-01 06:25:00,2016,Morning,17.0,May
+Business,San Francisco,Palo Alto,32.99,Between Offices,2016-05-09,1900-01-01 14:39:00,2016-05-09,1900-01-01 15:06:00,2016,Afternoon,27.0,May
+Business,Palo Alto,Sunnyvale,15.77,Customer Visit,2016-05-09,1900-01-01 17:58:00,2016-05-09,1900-01-01 18:26:00,2016,Evening,28.0,May
+Business,Sunnyvale,Newark,28.32,Customer Visit,2016-05-09,1900-01-01 19:35:00,2016-05-09,1900-01-01 19:59:00,2016,Evening,24.0,May
+Business,Newark,Menlo Park,14.97,Customer Visit,2016-05-10,1900-01-01 09:03:00,2016-05-10,1900-01-01 09:20:00,2016,Morning,17.0,May
+Business,Menlo Park,Newark,12.71,Customer Visit,2016-05-10,1900-01-01 17:19:00,2016-05-10,1900-01-01 17:31:00,2016,Evening,12.0,May
+Business,Newark,San Francisco,41.2,Meeting,2016-05-11,1900-01-01 08:35:00,2016-05-11,1900-01-01 09:12:00,2016,Morning,37.0,May
+Business,Morrisville,Cary,13.04,Meeting,2016-05-11,1900-01-01 21:47:00,2016-05-11,1900-01-01 22:04:00,2016,Night,17.0,May
+Business,Cary,Morrisville,4.99,Meal/Entertain,2016-05-14,1900-01-01 18:35:00,2016-05-14,1900-01-01 18:39:00,2016,Evening,4.0,May
+Business,Morrisville,Cary,4.99,Meal/Entertain,2016-05-14,1900-01-01 23:01:00,2016-05-14,1900-01-01 23:05:00,2016,Night,4.0,May
+Business,Whitebridge,Preston,4.51,Errand/Supplies,2016-05-17,1900-01-01 13:15:00,2016-05-17,1900-01-01 13:23:00,2016,Afternoon,8.0,May
+Business,Preston,Westpark Place,4.35,Errand/Supplies,2016-05-17,1900-01-01 13:56:00,2016-05-17,1900-01-01 14:08:00,2016,Afternoon,12.0,May
+Business,Westpark Place,Whitebridge,3.06,Errand/Supplies,2016-05-17,1900-01-01 14:34:00,2016-05-17,1900-01-01 14:40:00,2016,Afternoon,6.0,May
+Business,Cary,Morrisville,13.52,Customer Visit,2016-05-18,1900-01-01 09:11:00,2016-05-18,1900-01-01 09:41:00,2016,Morning,30.0,May
+Business,Morrisville,Raleigh,12.23,Customer Visit,2016-05-18,1900-01-01 13:00:00,2016-05-18,1900-01-01 13:02:00,2016,Afternoon,2.0,May
+Business,Old City,Parkway Museums,4.67,Meal/Entertain,2016-05-19,1900-01-01 14:37:00,2016-05-19,1900-01-01 15:01:00,2016,Afternoon,24.0,May
+Business,Old City,Hog Island,18.02,Meeting,2016-05-20,1900-01-01 10:56:00,2016-05-20,1900-01-01 11:07:00,2016,Morning,11.0,May
+Business,Morrisville,Cary,13.2,Meal/Entertain,2016-05-20,1900-01-01 15:43:00,2016-05-20,1900-01-01 16:12:00,2016,Afternoon,29.0,May
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-05-22,1900-01-01 15:39:00,2016-05-22,1900-01-01 15:46:00,2016,Afternoon,7.0,May
+Business,Morrisville,Cary,4.02,Meal/Entertain,2016-05-22,1900-01-01 18:46:00,2016-05-22,1900-01-01 18:53:00,2016,Evening,7.0,May
+Business,Whitebridge,Savon Height,5.79,Meal/Entertain,2016-05-23,1900-01-01 20:19:00,2016-05-23,1900-01-01 20:27:00,2016,Evening,8.0,May
+Business,Savon Height,Whitebridge,5.79,Errand/Supplies,2016-05-23,1900-01-01 21:09:00,2016-05-23,1900-01-01 21:21:00,2016,Night,12.0,May
+Business,Whitebridge,Kildaire Farms,7.24,Errand/Supplies,2016-05-27,1900-01-01 20:26:00,2016-05-27,1900-01-01 20:30:00,2016,Evening,4.0,May
+Business,Savon Height,Kilarney Woods,1.93,Errand/Supplies,2016-05-27,1900-01-01 20:47:00,2016-05-27,1900-01-01 20:53:00,2016,Evening,6.0,May
+Business,Kilarney Woods,Kildaire Farms,2.74,Errand/Supplies,2016-05-27,1900-01-01 22:11:00,2016-05-27,1900-01-01 22:14:00,2016,Night,3.0,May
+Business,Kilarney Woods,Whitebridge,7.56,Errand/Supplies,2016-05-28,1900-01-01 00:15:00,2016-05-28,1900-01-01 00:21:00,2016,Night,6.0,May
+Business,Cary,Morrisville,9.82,Meal/Entertain,2016-05-28,1900-01-01 12:52:00,2016-05-28,1900-01-01 13:06:00,2016,Afternoon,14.0,May
+Business,Morrisville,Cary,18.19,Customer Visit,2016-05-28,1900-01-01 14:35:00,2016-05-28,1900-01-01 15:04:00,2016,Afternoon,29.0,May
+Business,Cary,Raleigh,23.98,Meeting,2016-05-31,1900-01-01 13:54:00,2016-05-31,1900-01-01 14:41:00,2016,Afternoon,47.0,May
+Business,Raleigh,Cary,22.53,Meeting,2016-05-31,1900-01-01 16:02:00,2016-05-31,1900-01-01 16:39:00,2016,Afternoon,37.0,May
+Business,Westpark Place,Whitebridge,2.9,Meeting,2016-05-31,1900-01-01 17:50:00,2016-05-31,1900-01-01 17:59:00,2016,Evening,9.0,May
+Business,Cary,Morrisville,10.78,Customer Visit,2016-06-01,1900-01-01 10:19:00,2016-06-01,1900-01-01 10:47:00,2016,Morning,28.0,Jun
+Business,Morrisville,Cary,15.45,Meeting,2016-06-01,1900-01-01 13:10:00,2016-06-01,1900-01-01 13:39:00,2016,Afternoon,29.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-03,1900-01-01 11:29:00,2016-06-03,1900-01-01 11:49:00,2016,Morning,20.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-03,1900-01-01 13:08:00,2016-06-03,1900-01-01 13:38:00,2016,Afternoon,30.0,Jun
+Business,Cary,Morrisville,9.66,Meal/Entertain,2016-06-03,1900-01-01 15:31:00,2016-06-03,1900-01-01 15:54:00,2016,Afternoon,23.0,Jun
+Business,Townes at Everett Crossing,Chessington,5.31,Errand/Supplies,2016-06-03,1900-01-01 18:14:00,2016-06-03,1900-01-01 18:29:00,2016,Evening,15.0,Jun
+Business,Morrisville,Cary,4.99,Errand/Supplies,2016-06-03,1900-01-01 18:41:00,2016-06-03,1900-01-01 18:53:00,2016,Evening,12.0,Jun
+Business,Huntington Woods,Weston,2.74,Errand/Supplies,2016-06-03,1900-01-01 19:36:00,2016-06-03,1900-01-01 19:42:00,2016,Evening,6.0,Jun
+Business,Morrisville,Cary,6.44,Between Offices,2016-06-03,1900-01-01 22:47:00,2016-06-03,1900-01-01 23:06:00,2016,Night,19.0,Jun
+Business,Whitebridge,Savon Height,12.55,Customer Visit,2016-06-05,1900-01-01 14:03:00,2016-06-05,1900-01-01 14:33:00,2016,Afternoon,30.0,Jun
+Business,Cary,Morrisville,12.55,Customer Visit,2016-06-05,1900-01-01 15:06:00,2016-06-05,1900-01-01 15:22:00,2016,Afternoon,16.0,Jun
+Business,Weston,Weston,6.12,Meal/Entertain,2016-06-05,1900-01-01 15:57:00,2016-06-05,1900-01-01 16:08:00,2016,Afternoon,11.0,Jun
+Business,Morrisville,Cary,4.02,Meal/Entertain,2016-06-05,1900-01-01 18:05:00,2016-06-05,1900-01-01 18:14:00,2016,Evening,9.0,Jun
+Business,Cary,Durham,15.93,Meeting,2016-06-05,1900-01-01 21:53:00,2016-06-05,1900-01-01 22:05:00,2016,Night,12.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-05,1900-01-01 23:52:00,2016-06-06,1900-01-01 00:08:00,2016,Night,16.0,Jun
+Business,Whitebridge,Hazelwood,4.83,Errand/Supplies,2016-06-06,1900-01-01 15:36:00,2016-06-06,1900-01-01 15:45:00,2016,Afternoon,9.0,Jun
+Business,Hazelwood,Whitebridge,3.86,Errand/Supplies,2016-06-06,1900-01-01 16:16:00,2016-06-06,1900-01-01 16:24:00,2016,Afternoon,8.0,Jun
+Business,Cary,Apex,9.17,Meal/Entertain,2016-06-06,1900-01-01 20:06:00,2016-06-06,1900-01-01 20:20:00,2016,Evening,14.0,Jun
+Business,Apex,Cary,11.59,Meal/Entertain,2016-06-06,1900-01-01 21:08:00,2016-06-06,1900-01-01 21:37:00,2016,Night,29.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-06,1900-01-01 21:41:00,2016-06-06,1900-01-01 22:00:00,2016,Night,19.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-06,1900-01-01 23:34:00,2016-06-06,1900-01-01 23:48:00,2016,Night,14.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-07,1900-01-01 21:42:00,2016-06-07,1900-01-01 22:00:00,2016,Night,18.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-07,1900-01-01 23:41:00,2016-06-08,1900-01-01 00:04:00,2016,Night,23.0,Jun
+Business,Cary,Morrisville,14.0,Meal/Entertain,2016-06-08,1900-01-01 08:23:00,2016-06-08,1900-01-01 08:53:00,2016,Morning,30.0,Jun
+Business,Jamaica,New York,35.89,Errand/Supplies,2016-06-08,1900-01-01 12:04:00,2016-06-08,1900-01-01 13:01:00,2016,Afternoon,57.0,Jun
+Business,Seaport,Gramercy-Flatiron,5.31,Meal/Entertain,2016-06-08,1900-01-01 13:12:00,2016-06-08,1900-01-01 13:29:00,2016,Afternoon,17.0,Jun
+Business,Medical Centre,Tudor City,1.13,Errand/Supplies,2016-06-08,1900-01-01 14:31:00,2016-06-08,1900-01-01 14:37:00,2016,Afternoon,6.0,Jun
+Business,Rose Hill,Soho,4.02,Meal/Entertain,2016-06-08,1900-01-01 16:55:00,2016-06-08,1900-01-01 17:11:00,2016,Afternoon,16.0,Jun
+Business,Soho,Tribeca,0.8,Errand/Supplies,2016-06-08,1900-01-01 17:16:00,2016-06-08,1900-01-01 17:18:00,2016,Evening,2.0,Jun
+Business,Tribeca,Financial District,1.45,Errand/Supplies,2016-06-08,1900-01-01 17:59:00,2016-06-08,1900-01-01 18:05:00,2016,Evening,6.0,Jun
+Business,Financial District,Kips Bay,7.72,Errand/Supplies,2016-06-08,1900-01-01 20:11:00,2016-06-08,1900-01-01 20:25:00,2016,Evening,14.0,Jun
+Business,New York,Jamaica,26.23,Meeting,2016-06-10,1900-01-01 15:19:00,2016-06-10,1900-01-01 16:28:00,2016,Afternoon,69.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-10,1900-01-01 21:47:00,2016-06-10,1900-01-01 22:04:00,2016,Night,17.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-10,1900-01-01 23:53:00,2016-06-11,1900-01-01 00:01:00,2016,Night,8.0,Jun
+Business,Cary,Morrisville,5.95,Errand/Supplies,2016-06-11,1900-01-01 17:08:00,2016-06-11,1900-01-01 17:16:00,2016,Evening,8.0,Jun
+Business,Morrisville,Cary,7.4,Meal/Entertain,2016-06-11,1900-01-01 17:34:00,2016-06-11,1900-01-01 17:39:00,2016,Evening,5.0,Jun
+Business,Westpark Place,Whitebridge,2.74,Meal/Entertain,2016-06-11,1900-01-01 17:50:00,2016-06-11,1900-01-01 17:56:00,2016,Evening,6.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-11,1900-01-01 21:45:00,2016-06-11,1900-01-01 22:04:00,2016,Night,19.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-11,1900-01-01 23:39:00,2016-06-12,1900-01-01 00:05:00,2016,Night,26.0,Jun
+Business,Cary,Morrisville,4.02,Meal/Entertain,2016-06-12,1900-01-01 19:53:00,2016-06-12,1900-01-01 19:56:00,2016,Evening,3.0,Jun
+Business,Morrisville,Cary,6.92,Errand/Supplies,2016-06-12,1900-01-01 20:05:00,2016-06-12,1900-01-01 20:16:00,2016,Evening,11.0,Jun
+Business,Parkway,Whitebridge,4.51,Errand/Supplies,2016-06-12,1900-01-01 21:58:00,2016-06-12,1900-01-01 22:19:00,2016,Night,21.0,Jun
+Business,Cary,Morrisville,13.52,Meal/Entertain,2016-06-13,1900-01-01 05:23:00,2016-06-13,1900-01-01 05:42:00,2016,Morning,19.0,Jun
+Business,Oakland,Emeryville,21.24,Meeting,2016-06-13,1900-01-01 14:17:00,2016-06-13,1900-01-01 14:46:00,2016,Afternoon,29.0,Jun
+Business,Emeryville,Berkeley,6.28,Meal/Entertain,2016-06-13,1900-01-01 18:08:00,2016-06-13,1900-01-01 18:47:00,2016,Evening,39.0,Jun
+Business,Berkeley,Oakland,8.21,Meal/Entertain,2016-06-13,1900-01-01 18:54:00,2016-06-13,1900-01-01 19:23:00,2016,Evening,29.0,Jun
+Business,Oakland,Unknown Location,8.37,Customer Visit,2016-06-13,1900-01-01 20:00:00,2016-06-13,1900-01-01 20:05:00,2016,Evening,5.0,Jun
+Business,Emeryville,San Francisco,15.77,Customer Visit,2016-06-14,1900-01-01 12:03:00,2016-06-14,1900-01-01 12:21:00,2016,Afternoon,18.0,Jun
+Business,San Francisco,Emeryville,18.67,Meeting,2016-06-14,1900-01-01 16:09:00,2016-06-14,1900-01-01 16:39:00,2016,Afternoon,30.0,Jun
+Business,Emeryville,Oakland,8.21,Meeting,2016-06-14,1900-01-01 17:15:00,2016-06-14,1900-01-01 17:24:00,2016,Evening,9.0,Jun
+Business,Downtown,Bay Farm Island,14.97,Errand/Supplies,2016-06-14,1900-01-01 17:27:00,2016-06-14,1900-01-01 17:57:00,2016,Evening,30.0,Jun
+Business,Kenner,New Orleans,19.96,Between Offices,2016-06-15,1900-01-01 01:46:00,2016-06-15,1900-01-01 02:06:00,2016,Night,20.0,Jun
+Business,CBD,Lower Garden District,3.06,Between Offices,2016-06-15,1900-01-01 15:26:00,2016-06-15,1900-01-01 15:34:00,2016,Afternoon,8.0,Jun
+Business,Lower Garden District,Lakeview,10.3,Customer Visit,2016-06-15,1900-01-01 16:37:00,2016-06-15,1900-01-01 17:02:00,2016,Afternoon,25.0,Jun
+Personal,Lakeview,Storyville,8.85,Customer Visit,2016-06-15,1900-01-01 17:29:00,2016-06-15,1900-01-01 17:49:00,2016,Evening,20.0,Jun
+Business,Storyville,Faubourg Marigny,2.41,Meal/Entertain,2016-06-15,1900-01-01 19:52:00,2016-06-15,1900-01-01 19:58:00,2016,Evening,6.0,Jun
+Business,New Orleans,Metairie,23.34,Meal/Entertain,2016-06-16,1900-01-01 13:36:00,2016-06-16,1900-01-01 14:30:00,2016,Afternoon,54.0,Jun
+Business,Metairie,Kenner,4.35,Meal/Entertain,2016-06-16,1900-01-01 14:42:00,2016-06-16,1900-01-01 14:46:00,2016,Afternoon,4.0,Jun
+Business,Kenner,New Orleans,24.14,Meal/Entertain,2016-06-16,1900-01-01 15:17:00,2016-06-16,1900-01-01 15:41:00,2016,Afternoon,24.0,Jun
+Business,New Orleans,Kenner,20.76,Meal/Entertain,2016-06-16,1900-01-01 19:39:00,2016-06-16,1900-01-01 19:56:00,2016,Evening,17.0,Jun
+Business,Kenner,New Orleans,21.89,Meal/Entertain,2016-06-16,1900-01-01 21:43:00,2016-06-16,1900-01-01 21:56:00,2016,Night,13.0,Jun
+Business,New Orleans,Kenner,19.63,Meal/Entertain,2016-06-17,1900-01-01 16:11:00,2016-06-17,1900-01-01 16:44:00,2016,Afternoon,33.0,Jun
+Business,Morrisville,Cary,14.0,Meal/Entertain,2016-06-18,1900-01-01 00:29:00,2016-06-18,1900-01-01 00:51:00,2016,Night,22.0,Jun
+Business,Cary,Raleigh,9.66,Meal/Entertain,2016-06-19,1900-01-01 02:39:00,2016-06-19,1900-01-01 02:50:00,2016,Night,11.0,Jun
+Business,Raleigh,Cary,9.5,Meal/Entertain,2016-06-19,1900-01-01 05:51:00,2016-06-19,1900-01-01 06:00:00,2016,Morning,9.0,Jun
+Business,Cary,Raleigh,31.06,Meal/Entertain,2016-06-21,1900-01-01 15:39:00,2016-06-21,1900-01-01 16:08:00,2016,Afternoon,29.0,Jun
+Business,Raleigh,Cary,26.72,Meal/Entertain,2016-06-21,1900-01-01 17:11:00,2016-06-21,1900-01-01 18:02:00,2016,Evening,51.0,Jun
+Business,Whitebridge,Waverly Place,11.43,Meal/Entertain,2016-06-24,1900-01-01 10:41:00,2016-06-24,1900-01-01 10:57:00,2016,Morning,16.0,Jun
+Business,Waverly Place,Macgregor Downs,3.38,Meal/Entertain,2016-06-24,1900-01-01 11:54:00,2016-06-24,1900-01-01 12:01:00,2016,Morning,7.0,Jun
+Business,Cary,Raleigh,13.84,Errand/Supplies,2016-06-24,1900-01-01 12:19:00,2016-06-24,1900-01-01 12:37:00,2016,Afternoon,18.0,Jun
+Business,Raleigh,Morrisville,14.48,Errand/Supplies,2016-06-24,1900-01-01 12:50:00,2016-06-24,1900-01-01 13:12:00,2016,Afternoon,22.0,Jun
+Business,Morrisville,Cary,4.99,Errand/Supplies,2016-06-24,1900-01-01 13:18:00,2016-06-24,1900-01-01 13:27:00,2016,Afternoon,9.0,Jun
+Business,Cary,Morrisville,13.52,Temporary Site,2016-06-24,1900-01-01 14:01:00,2016-06-24,1900-01-01 14:20:00,2016,Afternoon,19.0,Jun
+Business,Kenner,New Orleans,20.6,Temporary Site,2016-06-24,1900-01-01 20:44:00,2016-06-24,1900-01-01 21:02:00,2016,Evening,18.0,Jun
+Business,CBD,Bywater,7.24,Temporary Site,2016-06-25,1900-01-01 09:03:00,2016-06-25,1900-01-01 09:12:00,2016,Morning,9.0,Jun
+Business,New Orleans,Chalmette,18.99,Between Offices,2016-06-25,1900-01-01 09:15:00,2016-06-25,1900-01-01 10:08:00,2016,Morning,53.0,Jun
+Business,Chalmette,Arabi,1.77,Errand/Supplies,2016-06-25,1900-01-01 10:18:00,2016-06-25,1900-01-01 10:25:00,2016,Morning,7.0,Jun
+Business,Arabi,Metairie,27.36,Meal/Entertain,2016-06-25,1900-01-01 10:50:00,2016-06-25,1900-01-01 11:18:00,2016,Morning,28.0,Jun
+Business,Pontchartrain Shores,Pontchartrain Shores,2.74,Meeting,2016-06-25,1900-01-01 11:25:00,2016-06-25,1900-01-01 11:34:00,2016,Morning,9.0,Jun
+Business,Metairie,New Orleans,24.94,Meeting,2016-06-25,1900-01-01 11:53:00,2016-06-25,1900-01-01 13:21:00,2016,Morning,88.0,Jun
+Business,Storyville,Marigny,2.57,Meeting,2016-06-25,1900-01-01 19:47:00,2016-06-25,1900-01-01 19:58:00,2016,Evening,11.0,Jun
+Business,Marigny,Storyville,2.41,Meeting,2016-06-25,1900-01-01 23:19:00,2016-06-25,1900-01-01 23:26:00,2016,Night,7.0,Jun
+Business,New Orleans,Kenner,20.28,Meeting,2016-06-26,1900-01-01 17:43:00,2016-06-26,1900-01-01 18:18:00,2016,Evening,35.0,Jun
+Business,Pontchartrain Shores,Pontchartrain Shores,7.72,Meeting,2016-06-26,1900-01-01 18:45:00,2016-06-26,1900-01-01 19:12:00,2016,Evening,27.0,Jun
+Business,Kenner,Kenner,3.54,Meeting,2016-06-26,1900-01-01 19:41:00,2016-06-26,1900-01-01 19:50:00,2016,Evening,9.0,Jun
+Business,Kenner,New Orleans,20.92,Meeting,2016-06-26,1900-01-01 21:14:00,2016-06-26,1900-01-01 21:42:00,2016,Night,28.0,Jun
+Business,New Orleans,Covington,75.48,Meeting,2016-06-27,1900-01-01 07:37:00,2016-06-27,1900-01-01 08:48:00,2016,Morning,71.0,Jun
+Business,Covington,Covington,4.02,Meeting,2016-06-27,1900-01-01 08:51:00,2016-06-27,1900-01-01 09:00:00,2016,Morning,9.0,Jun
+Business,Covington,Covington,13.84,Meeting,2016-06-27,1900-01-01 09:05:00,2016-06-27,1900-01-01 09:33:00,2016,Morning,28.0,Jun
+Business,Covington,Covington,8.37,Meeting,2016-06-27,1900-01-01 09:43:00,2016-06-27,1900-01-01 10:08:00,2016,Morning,25.0,Jun
+Business,Covington,Covington,12.23,Meeting,2016-06-27,1900-01-01 10:22:00,2016-06-27,1900-01-01 10:39:00,2016,Morning,17.0,Jun
+Business,Covington,Covington,2.9,Meeting,2016-06-27,1900-01-01 10:51:00,2016-06-27,1900-01-01 10:58:00,2016,Morning,7.0,Jun
+Business,Covington,Mandeville,7.56,Meeting,2016-06-27,1900-01-01 11:06:00,2016-06-27,1900-01-01 11:24:00,2016,Morning,18.0,Jun
+Business,Mandeville,Mandeville,4.51,Meeting,2016-06-27,1900-01-01 11:30:00,2016-06-27,1900-01-01 11:42:00,2016,Morning,12.0,Jun
+Business,Mandeville,Metairie,48.28,Meeting,2016-06-27,1900-01-01 12:22:00,2016-06-27,1900-01-01 13:02:00,2016,Afternoon,40.0,Jun
+Business,Metairie,Kenner,7.08,Meeting,2016-06-27,1900-01-01 13:56:00,2016-06-27,1900-01-01 14:05:00,2016,Afternoon,9.0,Jun
+Business,Jamestown Court,Jamestown Court,1.61,Meeting,2016-06-27,1900-01-01 21:09:00,2016-06-27,1900-01-01 21:19:00,2016,Night,10.0,Jun
+Business,Morrisville,Cary,13.2,Customer Visit,2016-06-28,1900-01-01 00:48:00,2016-06-28,1900-01-01 01:05:00,2016,Night,17.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-28,1900-01-01 20:13:00,2016-06-28,1900-01-01 20:33:00,2016,Evening,20.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-28,1900-01-01 23:34:00,2016-06-28,1900-01-01 23:59:00,2016,Night,25.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-28,1900-01-01 23:34:00,2016-06-28,1900-01-01 23:59:00,2016,Night,25.0,Jun
+Business,Cary,Morrisville,11.75,Meeting,2016-06-29,1900-01-01 08:56:00,2016-06-29,1900-01-01 09:24:00,2016,Morning,28.0,Jun
+Business,Morrisville,Cary,11.91,Meeting,2016-06-29,1900-01-01 10:22:00,2016-06-29,1900-01-01 10:38:00,2016,Morning,16.0,Jun
+Business,Whitebridge,Westpark Place,2.57,Meeting,2016-06-29,1900-01-01 11:49:00,2016-06-29,1900-01-01 11:51:00,2016,Morning,2.0,Jun
+Business,Westpark Place,Whitebridge,2.9,Meeting,2016-06-29,1900-01-01 12:11:00,2016-06-29,1900-01-01 12:16:00,2016,Afternoon,5.0,Jun
+Business,Cary,Durham,16.74,Meeting,2016-06-29,1900-01-01 20:11:00,2016-06-29,1900-01-01 20:29:00,2016,Evening,18.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-06-29,1900-01-01 23:38:00,2016-06-30,1900-01-01 00:00:00,2016,Night,22.0,Jun
+Business,Cary,Durham,15.93,Meeting,2016-06-30,1900-01-01 20:09:00,2016-06-30,1900-01-01 20:26:00,2016,Evening,17.0,Jun
+Business,Durham,Cary,15.93,Meeting,2016-07-01,1900-01-01 00:00:00,2016-07-01,1900-01-01 00:25:00,2016,Night,25.0,Jul
+Business,Cary,Raleigh,21.4,Meeting,2016-07-01,1900-01-01 09:34:00,2016-07-01,1900-01-01 09:57:00,2016,Morning,23.0,Jul
+Business,Raleigh,Cary,18.19,Meeting,2016-07-01,1900-01-01 12:36:00,2016-07-01,1900-01-01 13:00:00,2016,Afternoon,24.0,Jul
+Business,Cary,Durham,16.9,Meeting,2016-07-01,1900-01-01 20:06:00,2016-07-01,1900-01-01 20:24:00,2016,Evening,18.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-01,1900-01-01 23:48:00,2016-07-02,1900-01-01 00:09:00,2016,Night,21.0,Jul
+Business,Cary,Durham,16.25,Meeting,2016-07-02,1900-01-01 20:18:00,2016-07-02,1900-01-01 20:36:00,2016,Evening,18.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-02,1900-01-01 23:48:00,2016-07-03,1900-01-01 00:12:00,2016,Night,24.0,Jul
+Business,Cary,Morrisville,4.99,Errand/Supplies,2016-07-03,1900-01-01 00:28:00,2016-07-03,1900-01-01 00:38:00,2016,Night,10.0,Jul
+Business,Morrisville,Cary,4.99,Errand/Supplies,2016-07-03,1900-01-01 03:02:00,2016-07-03,1900-01-01 03:08:00,2016,Night,6.0,Jul
+Business,Cary,Durham,15.93,Meeting,2016-07-03,1900-01-01 20:00:00,2016-07-03,1900-01-01 20:18:00,2016,Evening,18.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-04,1900-01-01 00:32:00,2016-07-04,1900-01-01 00:47:00,2016,Night,15.0,Jul
+Business,Whitebridge,Summerwinds,14.16,Meeting,2016-07-04,1900-01-01 17:31:00,2016-07-04,1900-01-01 17:49:00,2016,Evening,18.0,Jul
+Business,Summerwinds,Whitebridge,14.0,Temporary Site,2016-07-04,1900-01-01 18:23:00,2016-07-04,1900-01-01 18:49:00,2016,Evening,26.0,Jul
+Business,Cary,Durham,18.99,Meeting,2016-07-04,1900-01-01 20:00:00,2016-07-04,1900-01-01 20:17:00,2016,Evening,17.0,Jul
+Business,Parkwood,Parkwood,1.93,Errand/Supplies,2016-07-05,1900-01-01 00:00:00,2016-07-05,1900-01-01 00:05:00,2016,Night,5.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-05,1900-01-01 00:08:00,2016-07-05,1900-01-01 00:28:00,2016,Night,20.0,Jul
+Business,Whitebridge,Whitebridge,0.97,Errand/Supplies,2016-07-05,1900-01-01 16:48:00,2016-07-05,1900-01-01 16:52:00,2016,Afternoon,4.0,Jul
+Business,Cary,Durham,15.93,Errand/Supplies,2016-07-05,1900-01-01 20:06:00,2016-07-05,1900-01-01 20:26:00,2016,Evening,20.0,Jul
+Business,Durham,Morrisville,13.84,Errand/Supplies,2016-07-05,1900-01-01 22:41:00,2016-07-05,1900-01-01 23:02:00,2016,Night,21.0,Jul
+Business,Morrisville,Cary,10.14,Meal/Entertain,2016-07-06,1900-01-01 00:33:00,2016-07-06,1900-01-01 00:53:00,2016,Night,20.0,Jul
+Business,Cary,Durham,15.93,Meeting,2016-07-06,1900-01-01 09:06:00,2016-07-06,1900-01-01 09:25:00,2016,Morning,19.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-06,1900-01-01 12:48:00,2016-07-06,1900-01-01 13:08:00,2016,Afternoon,20.0,Jul
+Business,Cary,Morrisville,5.31,Meal/Entertain,2016-07-06,1900-01-01 20:04:00,2016-07-06,1900-01-01 20:14:00,2016,Evening,10.0,Jul
+Business,Morrisville,Cary,4.99,Customer Visit,2016-07-06,1900-01-01 23:46:00,2016-07-06,1900-01-01 23:59:00,2016,Night,13.0,Jul
+Business,Cary,Morrisville,12.71,Temporary Site,2016-07-07,1900-01-01 08:22:00,2016-07-07,1900-01-01 08:50:00,2016,Morning,28.0,Jul
+Business,Morrisville,Cary,14.32,Temporary Site,2016-07-07,1900-01-01 10:27:00,2016-07-07,1900-01-01 10:33:00,2016,Morning,6.0,Jul
+Business,Kenner,New Orleans,20.6,Temporary Site,2016-07-07,1900-01-01 12:59:00,2016-07-07,1900-01-01 13:35:00,2016,Afternoon,36.0,Jul
+Business,CBD,Pontchartrain Beach,12.39,Temporary Site,2016-07-08,1900-01-01 09:50:00,2016-07-08,1900-01-01 10:13:00,2016,Morning,23.0,Jul
+Business,Pontchartrain Beach,CBD,11.27,Temporary Site,2016-07-08,1900-01-01 10:51:00,2016-07-08,1900-01-01 11:12:00,2016,Morning,21.0,Jul
+Business,New Orleans,Metairie,20.12,Temporary Site,2016-07-08,1900-01-01 13:48:00,2016-07-08,1900-01-01 14:11:00,2016,Afternoon,23.0,Jul
+Business,Kenner,New Orleans,21.24,Temporary Site,2016-07-08,1900-01-01 17:11:00,2016-07-08,1900-01-01 17:30:00,2016,Evening,19.0,Jul
+Business,New Orleans,Kenner,20.92,Temporary Site,2016-07-09,1900-01-01 09:03:00,2016-07-09,1900-01-01 09:46:00,2016,Morning,43.0,Jul
+Business,Kenner,Metairie,7.89,Temporary Site,2016-07-09,1900-01-01 09:52:00,2016-07-09,1900-01-01 10:06:00,2016,Morning,14.0,Jul
+Business,Metairie,New Orleans,13.68,Temporary Site,2016-07-09,1900-01-01 10:15:00,2016-07-09,1900-01-01 10:33:00,2016,Morning,18.0,Jul
+Business,CBD,St Thomas,2.09,Temporary Site,2016-07-10,1900-01-01 14:10:00,2016-07-10,1900-01-01 14:17:00,2016,Afternoon,7.0,Jul
+Business,St Thomas,CBD,2.9,Temporary Site,2016-07-10,1900-01-01 16:04:00,2016-07-10,1900-01-01 16:15:00,2016,Afternoon,11.0,Jul
+Business,New Orleans,Kenner,21.89,Temporary Site,2016-07-10,1900-01-01 18:05:00,2016-07-10,1900-01-01 18:21:00,2016,Evening,16.0,Jul
+Business,Kenner,New Orleans,21.57,Temporary Site,2016-07-10,1900-01-01 19:51:00,2016-07-10,1900-01-01 20:08:00,2016,Evening,17.0,Jul
+Business,New Orleans,Kenner,19.79,Temporary Site,2016-07-12,1900-01-01 16:10:00,2016-07-12,1900-01-01 16:45:00,2016,Afternoon,35.0,Jul
+Personal,Kenner,Kenner,2.25,Temporary Site,2016-07-12,1900-01-01 19:21:00,2016-07-12,1900-01-01 19:26:00,2016,Evening,5.0,Jul
+Personal,Morrisville,Cary,14.0,Temporary Site,2016-07-12,1900-01-01 23:47:00,2016-07-13,1900-01-01 00:11:00,2016,Night,24.0,Jul
+Personal,Cary,Morrisville,37.82,Temporary Site,2016-07-13,1900-01-01 12:39:00,2016-07-13,1900-01-01 13:20:00,2016,Afternoon,41.0,Jul
+Personal,Morrisville,Morrisville,3.54,Temporary Site,2016-07-13,1900-01-01 13:25:00,2016-07-13,1900-01-01 13:39:00,2016,Afternoon,14.0,Jul
+Personal,Morrisville,Cary,7.08,Temporary Site,2016-07-13,1900-01-01 13:42:00,2016-07-13,1900-01-01 13:54:00,2016,Afternoon,12.0,Jul
+Personal,Cary,Morrisville,5.31,Temporary Site,2016-07-14,1900-01-01 15:51:00,2016-07-14,1900-01-01 15:59:00,2016,Afternoon,8.0,Jul
+Business,Morrisville,Morrisville,18.99,Errand/Supplies,2016-07-14,1900-01-01 16:03:00,2016-07-14,1900-01-01 16:34:00,2016,Afternoon,31.0,Jul
+Business,Morrisville,Banner Elk,314.3,Errand/Supplies,2016-07-14,1900-01-01 16:39:00,2016-07-14,1900-01-01 20:05:00,2016,Afternoon,206.0,Jul
+Personal,Banner Elk,Banner Elk,13.36,Errand/Supplies,2016-07-15,1900-01-01 11:32:00,2016-07-15,1900-01-01 11:53:00,2016,Morning,21.0,Jul
+Personal,Banner Elk,Banner Elk,5.15,Errand/Supplies,2016-07-15,1900-01-01 12:09:00,2016-07-15,1900-01-01 12:19:00,2016,Afternoon,10.0,Jul
+Personal,Banner Elk,Elk Park,36.05,Errand/Supplies,2016-07-15,1900-01-01 12:35:00,2016-07-15,1900-01-01 13:15:00,2016,Afternoon,40.0,Jul
+Personal,Elk Park,Banner Elk,19.63,Errand/Supplies,2016-07-15,1900-01-01 15:03:00,2016-07-15,1900-01-01 15:33:00,2016,Afternoon,30.0,Jul
+Personal,Banner Elk,Banner Elk,7.24,Errand/Supplies,2016-07-15,1900-01-01 15:40:00,2016-07-15,1900-01-01 15:52:00,2016,Afternoon,12.0,Jul
+Personal,Banner Elk,Newland,45.22,Errand/Supplies,2016-07-16,1900-01-01 13:14:00,2016-07-16,1900-01-01 14:10:00,2016,Afternoon,56.0,Jul
+Personal,Newland,Newland,6.12,Errand/Supplies,2016-07-16,1900-01-01 14:14:00,2016-07-16,1900-01-01 14:30:00,2016,Afternoon,16.0,Jul
+Personal,Newland,Boone,67.43,Errand/Supplies,2016-07-16,1900-01-01 15:29:00,2016-07-16,1900-01-01 16:57:00,2016,Afternoon,88.0,Jul
+Personal,Boone,Banner Elk,38.3,Errand/Supplies,2016-07-16,1900-01-01 19:42:00,2016-07-16,1900-01-01 20:35:00,2016,Evening,53.0,Jul
+Personal,Banner Elk,Banner Elk,20.92,Errand/Supplies,2016-07-16,1900-01-01 21:45:00,2016-07-16,1900-01-01 22:18:00,2016,Night,33.0,Jul
+Business,Banner Elk,Banner Elk,7.08,Errand/Supplies,2016-07-16,1900-01-01 22:50:00,2016-07-16,1900-01-01 23:03:00,2016,Night,13.0,Jul
+Personal,Banner Elk,Boone,24.3,Charity ($),2016-07-17,1900-01-01 11:23:00,2016-07-17,1900-01-01 11:50:00,2016,Morning,27.0,Jul
+Personal,Boone,Cary,290.0,Commute,2016-07-17,1900-01-01 12:20:00,2016-07-17,1900-01-01 15:25:00,2016,Afternoon,185.0,Jul
+Personal,Cary,Morrisville,6.6,Moving,2016-07-18,1900-01-01 10:37:00,2016-07-18,1900-01-01 10:49:00,2016,Morning,12.0,Jul
+Personal,Morrisville,Cary,9.82,Moving,2016-07-18,1900-01-01 10:54:00,2016-07-18,1900-01-01 11:15:00,2016,Morning,21.0,Jul
+Personal,Northwoods,Preston,5.31,Moving,2016-07-18,1900-01-01 11:25:00,2016-07-18,1900-01-01 11:36:00,2016,Morning,11.0,Jul
+Personal,Preston,Whitebridge,7.56,Moving,2016-07-18,1900-01-01 11:40:00,2016-07-18,1900-01-01 11:56:00,2016,Morning,16.0,Jul
+Business,Cary,Apex,11.59,Meeting,2016-07-18,1900-01-01 17:12:00,2016-07-18,1900-01-01 17:33:00,2016,Evening,21.0,Jul
+Business,Apex,Cary,8.85,Meal/Entertain,2016-07-18,1900-01-01 18:32:00,2016-07-18,1900-01-01 18:47:00,2016,Evening,15.0,Jul
+Business,Cary,Morrisville,5.31,Meal/Entertain,2016-07-18,1900-01-01 19:07:00,2016-07-18,1900-01-01 19:14:00,2016,Evening,7.0,Jul
+Business,Hazelwood,Weston,1.45,Errand/Supplies,2016-07-18,1900-01-01 20:28:00,2016-07-18,1900-01-01 20:32:00,2016,Evening,4.0,Jul
+Business,Morrisville,Cary,6.12,Meal/Entertain,2016-07-18,1900-01-01 21:11:00,2016-07-18,1900-01-01 21:19:00,2016,Night,8.0,Jul
+Business,Whitebridge,Stonewater,10.3,Customer Visit,2016-07-19,1900-01-01 10:35:00,2016-07-19,1900-01-01 10:51:00,2016,Morning,16.0,Jul
+Business,Stonewater,Lexington Park at Amberly,4.83,Meeting,2016-07-19,1900-01-01 10:56:00,2016-07-19,1900-01-01 11:11:00,2016,Morning,15.0,Jul
+Business,Lexington Park at Amberly,Whitebridge,14.0,Meal/Entertain,2016-07-19,1900-01-01 11:30:00,2016-07-19,1900-01-01 12:00:00,2016,Morning,30.0,Jul
+Business,Whitebridge,Chessington,6.28,Errand/Supplies,2016-07-19,1900-01-01 17:14:00,2016-07-19,1900-01-01 17:24:00,2016,Evening,10.0,Jul
+Personal,Chessington,Whitebridge,7.72,Errand/Supplies,2016-07-19,1900-01-01 17:50:00,2016-07-19,1900-01-01 18:08:00,2016,Evening,18.0,Jul
+Personal,Whitebridge,Edgehill Farms,4.51,Errand/Supplies,2016-07-20,1900-01-01 17:12:00,2016-07-20,1900-01-01 17:24:00,2016,Evening,12.0,Jul
+Personal,Edgehill Farms,Preston,2.25,Errand/Supplies,2016-07-20,1900-01-01 17:50:00,2016-07-20,1900-01-01 17:57:00,2016,Evening,7.0,Jul
+Personal,Preston,Whitebridge,2.25,Errand/Supplies,2016-07-20,1900-01-01 18:16:00,2016-07-20,1900-01-01 18:20:00,2016,Evening,4.0,Jul
+Business,Whitebridge,Edgehill Farms,4.35,Errand/Supplies,2016-07-21,1900-01-01 17:17:00,2016-07-21,1900-01-01 17:23:00,2016,Evening,6.0,Jul
+Business,Edgehill Farms,Burtrose,3.7,Errand/Supplies,2016-07-21,1900-01-01 17:42:00,2016-07-21,1900-01-01 17:51:00,2016,Evening,9.0,Jul
+Business,Cary,Morrisville,5.95,Errand/Supplies,2016-07-21,1900-01-01 18:27:00,2016-07-21,1900-01-01 18:42:00,2016,Evening,15.0,Jul
+Business,Morrisville,Cary,4.67,Errand/Supplies,2016-07-21,1900-01-01 19:30:00,2016-07-21,1900-01-01 19:39:00,2016,Evening,9.0,Jul
+Business,Cary,Morrisville,6.12,Errand/Supplies,2016-07-22,1900-01-01 10:42:00,2016-07-22,1900-01-01 10:53:00,2016,Morning,11.0,Jul
+Business,Morrisville,Cary,8.21,Errand/Supplies,2016-07-22,1900-01-01 11:11:00,2016-07-22,1900-01-01 11:25:00,2016,Morning,14.0,Jul
+Business,Hazelwood,Lexington Park at Amberly,14.64,Errand/Supplies,2016-07-22,1900-01-01 11:37:00,2016-07-22,1900-01-01 12:00:00,2016,Morning,23.0,Jul
+Business,Cary,Durham,12.87,Errand/Supplies,2016-07-22,1900-01-01 12:14:00,2016-07-22,1900-01-01 12:31:00,2016,Afternoon,17.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-22,1900-01-01 13:21:00,2016-07-22,1900-01-01 13:42:00,2016,Afternoon,21.0,Jul
+Business,Cary,Morrisville,9.82,Meal/Entertain,2016-07-22,1900-01-01 14:27:00,2016-07-22,1900-01-01 14:43:00,2016,Afternoon,16.0,Jul
+Business,Morrisville,Cary,19.63,Meal/Entertain,2016-07-22,1900-01-01 15:49:00,2016-07-22,1900-01-01 16:22:00,2016,Afternoon,33.0,Jul
+Business,Wayne Ridge,Whitebridge,12.87,Meal/Entertain,2016-07-22,1900-01-01 18:33:00,2016-07-22,1900-01-01 18:51:00,2016,Evening,18.0,Jul
+Business,Cary,Morrisville,6.44,Meal/Entertain,2016-07-23,1900-01-01 14:27:00,2016-07-23,1900-01-01 14:44:00,2016,Afternoon,17.0,Jul
+Business,Morrisville,Cary,15.29,Meal/Entertain,2016-07-23,1900-01-01 14:48:00,2016-07-23,1900-01-01 15:12:00,2016,Afternoon,24.0,Jul
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-07-23,1900-01-01 15:15:00,2016-07-23,1900-01-01 15:27:00,2016,Afternoon,12.0,Jul
+Business,Morrisville,Cary,10.14,Meal/Entertain,2016-07-23,1900-01-01 15:50:00,2016-07-23,1900-01-01 16:10:00,2016,Afternoon,20.0,Jul
+Business,Cary,Durham,16.74,Meeting,2016-07-23,1900-01-01 20:17:00,2016-07-23,1900-01-01 20:33:00,2016,Evening,16.0,Jul
+Business,Durham,Cary,15.93,Meeting,2016-07-23,1900-01-01 23:18:00,2016-07-23,1900-01-01 23:43:00,2016,Night,25.0,Jul
+Business,Whitebridge,Parkway,2.41,Meeting,2016-07-25,1900-01-01 10:35:00,2016-07-25,1900-01-01 10:41:00,2016,Morning,6.0,Jul
+Business,Cary,Morrisville,7.89,Meeting,2016-07-25,1900-01-01 10:47:00,2016-07-25,1900-01-01 10:58:00,2016,Morning,11.0,Jul
+Business,Morrisville,Cary,12.71,Meeting,2016-07-25,1900-01-01 11:04:00,2016-07-25,1900-01-01 11:33:00,2016,Morning,29.0,Jul
+Business,Parkway,Whitebridge,2.74,Meeting,2016-07-25,1900-01-01 11:37:00,2016-07-25,1900-01-01 11:44:00,2016,Morning,7.0,Jul
+Business,Whitebridge,Westpark Place,3.54,Meeting,2016-07-26,1900-01-01 15:43:00,2016-07-26,1900-01-01 15:49:00,2016,Afternoon,6.0,Jul
+Business,Westpark Place,Whitebridge,3.38,Meeting,2016-07-26,1900-01-01 17:14:00,2016-07-26,1900-01-01 17:24:00,2016,Evening,10.0,Jul
+Business,Cary,Morrisville,4.02,Meal/Entertain,2016-07-26,1900-01-01 20:52:00,2016-07-26,1900-01-01 21:00:00,2016,Evening,8.0,Jul
+Business,Morrisville,Cary,4.02,Meal/Entertain,2016-07-26,1900-01-01 22:31:00,2016-07-26,1900-01-01 22:39:00,2016,Night,8.0,Jul
+Business,Cary,Morrisville,4.51,Meal/Entertain,2016-07-27,1900-01-01 19:08:00,2016-07-27,1900-01-01 19:20:00,2016,Evening,12.0,Jul
+Business,Morrisville,Raleigh,23.66,Meal/Entertain,2016-07-27,1900-01-01 21:34:00,2016-07-27,1900-01-01 21:57:00,2016,Night,23.0,Jul
+Business,Raleigh,Morrisville,23.5,Meal/Entertain,2016-07-27,1900-01-01 22:00:00,2016-07-27,1900-01-01 22:26:00,2016,Night,26.0,Jul
+Business,Morrisville,Cary,3.7,Meal/Entertain,2016-07-28,1900-01-01 00:04:00,2016-07-28,1900-01-01 00:09:00,2016,Night,5.0,Jul
+Business,Whitebridge,Westpark Place,3.54,Meal/Entertain,2016-07-29,1900-01-01 15:45:00,2016-07-29,1900-01-01 15:47:00,2016,Afternoon,2.0,Jul
+Business,Westpark Place,Whitebridge,3.54,Meal/Entertain,2016-07-29,1900-01-01 17:27:00,2016-07-29,1900-01-01 17:45:00,2016,Evening,18.0,Jul
+Business,Cary,Durham,22.53,Meal/Entertain,2016-07-30,1900-01-01 17:02:00,2016-07-30,1900-01-01 17:27:00,2016,Evening,25.0,Jul
+Business,Durham,Cary,21.4,Meal/Entertain,2016-07-30,1900-01-01 21:16:00,2016-07-30,1900-01-01 21:41:00,2016,Night,25.0,Jul
+Business,Westpark Place,Whitebridge,2.9,Meal/Entertain,2016-07-31,1900-01-01 17:30:00,2016-07-31,1900-01-01 17:37:00,2016,Evening,7.0,Jul
+Business,Whitebridge,Arlington Park at Amberly,9.98,Meal/Entertain,2016-08-01,1900-01-01 12:47:00,2016-08-01,1900-01-01 13:04:00,2016,Afternoon,17.0,Aug
+Business,Arlington Park at Amberly,Lexington Park at Amberly,2.09,Meal/Entertain,2016-08-01,1900-01-01 13:08:00,2016-08-01,1900-01-01 13:19:00,2016,Afternoon,11.0,Aug
+Business,Lexington Park at Amberly,Westpark Place,3.06,Meal/Entertain,2016-08-01,1900-01-01 13:28:00,2016-08-01,1900-01-01 13:46:00,2016,Afternoon,18.0,Aug
+Business,Cary,Apex,11.1,Meal/Entertain,2016-08-01,1900-01-01 13:52:00,2016-08-01,1900-01-01 14:14:00,2016,Afternoon,22.0,Aug
+Business,Apex,Cary,7.4,Meal/Entertain,2016-08-01,1900-01-01 15:40:00,2016-08-01,1900-01-01 15:47:00,2016,Afternoon,7.0,Aug
+Business,Whitebridge,Edgehill Farms,4.51,Meal/Entertain,2016-08-01,1900-01-01 16:18:00,2016-08-01,1900-01-01 16:25:00,2016,Afternoon,7.0,Aug
+Business,Cary,Morrisville,14.64,Meal/Entertain,2016-08-01,1900-01-01 16:29:00,2016-08-01,1900-01-01 16:59:00,2016,Afternoon,30.0,Aug
+Business,Morrisville,Cary,13.04,Meal/Entertain,2016-08-01,1900-01-01 17:23:00,2016-08-01,1900-01-01 17:55:00,2016,Evening,32.0,Aug
+Business,Cary,Morrisville,13.52,Meeting,2016-08-02,1900-01-01 08:11:00,2016-08-02,1900-01-01 08:32:00,2016,Morning,21.0,Aug
+Business,Arlington,Washington,7.89,Meeting,2016-08-02,1900-01-01 11:51:00,2016-08-02,1900-01-01 12:15:00,2016,Morning,24.0,Aug
+Business,Kalorama Triangle,K Street,1.61,Meeting,2016-08-02,1900-01-01 19:15:00,2016-08-02,1900-01-01 19:23:00,2016,Evening,8.0,Aug
+Business,K Street,Kalorama Triangle,1.61,Meeting,2016-08-02,1900-01-01 21:23:00,2016-08-02,1900-01-01 21:29:00,2016,Night,6.0,Aug
+Business,West End,Northwest Rectangle,3.22,Meeting,2016-08-03,1900-01-01 12:46:00,2016-08-03,1900-01-01 13:00:00,2016,Afternoon,14.0,Aug
+Business,K Street,Kalorama Triangle,1.77,Meeting,2016-08-03,1900-01-01 14:59:00,2016-08-03,1900-01-01 15:03:00,2016,Afternoon,4.0,Aug
+Business,Kalorama Triangle,Downtown,2.41,Meeting,2016-08-03,1900-01-01 16:00:00,2016-08-03,1900-01-01 16:04:00,2016,Afternoon,4.0,Aug
+Business,Connecticut Avenue,Kalorama Triangle,2.09,Meeting,2016-08-05,1900-01-01 17:23:00,2016-08-05,1900-01-01 17:30:00,2016,Evening,7.0,Aug
+Business,Kalorama Triangle,Columbia Heights,2.9,Meeting,2016-08-05,1900-01-01 18:17:00,2016-08-05,1900-01-01 18:21:00,2016,Evening,4.0,Aug
+Business,Columbia Heights,Kalorama Triangle,2.41,Meeting,2016-08-05,1900-01-01 19:17:00,2016-08-05,1900-01-01 19:27:00,2016,Evening,10.0,Aug
+Business,Washington,Arlington,10.62,Meeting,2016-08-06,1900-01-01 06:40:00,2016-08-06,1900-01-01 06:58:00,2016,Morning,18.0,Aug
+Business,Morrisville,Cary,12.87,Meeting,2016-08-06,1900-01-01 09:31:00,2016-08-06,1900-01-01 09:53:00,2016,Morning,22.0,Aug
+Business,Whitebridge,Edgehill Farms,4.35,Meeting,2016-08-07,1900-01-01 17:14:00,2016-08-07,1900-01-01 17:23:00,2016,Evening,9.0,Aug
+Business,Edgehill Farms,Whitebridge,4.35,Customer Visit,2016-08-07,1900-01-01 17:28:00,2016-08-07,1900-01-01 17:43:00,2016,Evening,15.0,Aug
+Business,Cary,Morrisville,4.02,Customer Visit,2016-08-07,1900-01-01 18:17:00,2016-08-07,1900-01-01 18:23:00,2016,Evening,6.0,Aug
+Business,Morrisville,Cary,4.02,Meal/Entertain,2016-08-07,1900-01-01 20:15:00,2016-08-07,1900-01-01 20:23:00,2016,Evening,8.0,Aug
+Business,Whitebridge,Farmington Woods,8.37,Meal/Entertain,2016-08-08,1900-01-01 16:17:00,2016-08-08,1900-01-01 16:31:00,2016,Afternoon,14.0,Aug
+Business,Farmington Woods,Edgehill Farms,6.44,Meal/Entertain,2016-08-08,1900-01-01 16:37:00,2016-08-08,1900-01-01 16:50:00,2016,Afternoon,13.0,Aug
+Business,Edgehill Farms,Whitebridge,4.35,Customer Visit,2016-08-08,1900-01-01 17:02:00,2016-08-08,1900-01-01 17:13:00,2016,Evening,11.0,Aug
+Business,Cary,Morrisville,7.72,Customer Visit,2016-08-08,1900-01-01 21:50:00,2016-08-08,1900-01-01 22:15:00,2016,Night,25.0,Aug
+Business,Morrisville,Cary,5.15,Customer Visit,2016-08-08,1900-01-01 23:28:00,2016-08-08,1900-01-01 23:37:00,2016,Night,9.0,Aug
+Business,Whitebridge,Waverly Place,11.1,Customer Visit,2016-08-09,1900-01-01 14:20:00,2016-08-09,1900-01-01 14:38:00,2016,Afternoon,18.0,Aug
+Business,Cary,Raleigh,23.98,Customer Visit,2016-08-09,1900-01-01 15:15:00,2016-08-09,1900-01-01 15:36:00,2016,Afternoon,21.0,Aug
+Business,Raleigh,Cary,28.0,Customer Visit,2016-08-09,1900-01-01 16:04:00,2016-08-09,1900-01-01 16:37:00,2016,Afternoon,33.0,Aug
+Business,Cary,Durham,20.76,Customer Visit,2016-08-10,1900-01-01 16:56:00,2016-08-10,1900-01-01 17:24:00,2016,Afternoon,28.0,Aug
+Business,Durham,Apex,24.62,Customer Visit,2016-08-10,1900-01-01 17:53:00,2016-08-10,1900-01-01 18:28:00,2016,Evening,35.0,Aug
+Business,Apex,Apex,1.61,Customer Visit,2016-08-10,1900-01-01 18:49:00,2016-08-10,1900-01-01 18:50:00,2016,Evening,1.0,Aug
+Business,Apex,Cary,9.66,Customer Visit,2016-08-10,1900-01-01 19:47:00,2016-08-10,1900-01-01 20:02:00,2016,Evening,15.0,Aug
+Business,Whitebridge,Heritage Pines,3.54,Customer Visit,2016-08-11,1900-01-01 12:53:00,2016-08-11,1900-01-01 13:00:00,2016,Afternoon,7.0,Aug
+Business,Heritage Pines,Edgehill Farms,7.08,Customer Visit,2016-08-11,1900-01-01 13:14:00,2016-08-11,1900-01-01 13:28:00,2016,Afternoon,14.0,Aug
+Business,Edgehill Farms,Whitebridge,4.51,Customer Visit,2016-08-11,1900-01-01 13:32:00,2016-08-11,1900-01-01 13:42:00,2016,Afternoon,10.0,Aug
+Business,Cary,Wake Forest,51.02,Customer Visit,2016-08-11,1900-01-01 18:37:00,2016-08-11,1900-01-01 19:29:00,2016,Evening,52.0,Aug
+Business,Wake Forest,Cary,51.34,Customer Visit,2016-08-11,1900-01-01 20:59:00,2016-08-11,1900-01-01 21:44:00,2016,Evening,45.0,Aug
+Business,Whitebridge,Westpark Place,3.06,Customer Visit,2016-08-12,1900-01-01 18:49:00,2016-08-12,1900-01-01 18:52:00,2016,Evening,3.0,Aug
+Business,Westpark Place,Whitebridge,2.9,Customer Visit,2016-08-12,1900-01-01 18:56:00,2016-08-12,1900-01-01 19:05:00,2016,Evening,9.0,Aug
+Business,Cary,Morrisville,13.52,Meeting,2016-08-13,1900-01-01 15:35:00,2016-08-13,1900-01-01 15:58:00,2016,Afternoon,23.0,Aug
+Business,R?walpindi,Unknown Location,25.11,Meeting,2016-08-15,1900-01-01 09:05:00,2016-08-15,1900-01-01 09:52:00,2016,Morning,47.0,Aug
+Business,Unknown Location,Unknown Location,22.69,Meeting,2016-08-15,1900-01-01 15:20:00,2016-08-15,1900-01-01 15:47:00,2016,Afternoon,27.0,Aug
+Business,Unknown Location,Unknown Location,25.27,Meeting,2016-08-15,1900-01-01 16:52:00,2016-08-15,1900-01-01 17:30:00,2016,Afternoon,38.0,Aug
+Business,Unknown Location,Unknown Location,41.68,Temporary Site,2016-08-15,1900-01-01 19:08:00,2016-08-15,1900-01-01 20:30:00,2016,Evening,82.0,Aug
+Business,Unknown Location,Unknown Location,12.71,Temporary Site,2016-08-16,1900-01-01 07:58:00,2016-08-16,1900-01-01 08:11:00,2016,Morning,13.0,Aug
+Business,Unknown Location,Unknown Location,4.35,Temporary Site,2016-08-16,1900-01-01 08:16:00,2016-08-16,1900-01-01 08:23:00,2016,Morning,7.0,Aug
+Business,Unknown Location,Unknown Location,8.85,Temporary Site,2016-08-16,1900-01-01 08:46:00,2016-08-16,1900-01-01 08:53:00,2016,Morning,7.0,Aug
+Business,Unknown Location,Islamabad,9.17,Temporary Site,2016-08-16,1900-01-01 10:06:00,2016-08-16,1900-01-01 10:27:00,2016,Morning,21.0,Aug
+Business,Islamabad,Islamabad,1.93,Temporary Site,2016-08-16,1900-01-01 10:31:00,2016-08-16,1900-01-01 10:38:00,2016,Morning,7.0,Aug
+Business,Islamabad,Unknown Location,9.17,Temporary Site,2016-08-16,1900-01-01 11:47:00,2016-08-16,1900-01-01 12:03:00,2016,Morning,16.0,Aug
+Business,Unknown Location,Unknown Location,26.07,Temporary Site,2016-08-16,1900-01-01 15:13:00,2016-08-16,1900-01-01 15:36:00,2016,Afternoon,23.0,Aug
+Business,Unknown Location,Unknown Location,4.18,Temporary Site,2016-08-17,1900-01-01 10:17:00,2016-08-17,1900-01-01 10:41:00,2016,Morning,24.0,Aug
+Business,Unknown Location,Unknown Location,19.47,Temporary Site,2016-08-17,1900-01-01 10:57:00,2016-08-17,1900-01-01 11:20:00,2016,Morning,23.0,Aug
+Business,Unknown Location,R?walpindi,2.25,Temporary Site,2016-08-17,1900-01-01 14:45:00,2016-08-17,1900-01-01 14:50:00,2016,Afternoon,5.0,Aug
+Business,R?walpindi,Islamabad,10.3,Temporary Site,2016-08-17,1900-01-01 15:32:00,2016-08-17,1900-01-01 15:47:00,2016,Afternoon,15.0,Aug
+Business,Islamabad,Unknown Location,11.75,Temporary Site,2016-08-17,1900-01-01 16:29:00,2016-08-17,1900-01-01 16:50:00,2016,Afternoon,21.0,Aug
+Business,Unknown Location,Unknown Location,8.53,Temporary Site,2016-08-17,1900-01-01 16:54:00,2016-08-17,1900-01-01 17:00:00,2016,Afternoon,6.0,Aug
+Business,Unknown Location,Unknown Location,8.85,Temporary Site,2016-08-17,1900-01-01 17:05:00,2016-08-17,1900-01-01 17:34:00,2016,Evening,29.0,Aug
+Business,Unknown Location,Unknown Location,12.39,Temporary Site,2016-08-17,1900-01-01 18:38:00,2016-08-17,1900-01-01 18:57:00,2016,Evening,19.0,Aug
+Business,Unknown Location,Unknown Location,12.23,Temporary Site,2016-08-18,1900-01-01 18:40:00,2016-08-18,1900-01-01 19:07:00,2016,Evening,27.0,Aug
+Business,Unknown Location,Noorpur Shahan,12.23,Temporary Site,2016-08-19,1900-01-01 08:24:00,2016-08-19,1900-01-01 08:45:00,2016,Morning,21.0,Aug
+Business,Noorpur Shahan,Islamabad,5.31,Temporary Site,2016-08-19,1900-01-01 08:54:00,2016-08-19,1900-01-01 09:07:00,2016,Morning,13.0,Aug
+Business,Islamabad,R?walpindi,10.46,Temporary Site,2016-08-19,1900-01-01 09:27:00,2016-08-19,1900-01-01 09:47:00,2016,Morning,20.0,Aug
+Business,R?walpindi,Unknown Location,3.22,Temporary Site,2016-08-19,1900-01-01 10:57:00,2016-08-19,1900-01-01 11:06:00,2016,Morning,9.0,Aug
+Business,Unknown Location,Islamabad,9.17,Temporary Site,2016-08-19,1900-01-01 12:07:00,2016-08-19,1900-01-01 12:24:00,2016,Afternoon,17.0,Aug
+Business,Islamabad,Islamabad,5.15,Temporary Site,2016-08-19,1900-01-01 15:51:00,2016-08-19,1900-01-01 16:06:00,2016,Afternoon,15.0,Aug
+Business,Islamabad,Unknown Location,20.12,Temporary Site,2016-08-19,1900-01-01 17:12:00,2016-08-19,1900-01-01 17:52:00,2016,Evening,40.0,Aug
+Business,Unknown Location,Unknown Location,12.23,Airport/Travel,2016-08-21,1900-01-01 10:00:00,2016-08-21,1900-01-01 10:29:00,2016,Morning,29.0,Aug
+Business,Unknown Location,Unknown Location,12.39,Airport/Travel,2016-08-21,1900-01-01 14:05:00,2016-08-21,1900-01-01 14:34:00,2016,Afternoon,29.0,Aug
+Business,Unknown Location,Islamabad,19.63,Airport/Travel,2016-08-21,1900-01-01 16:30:00,2016-08-21,1900-01-01 17:02:00,2016,Afternoon,32.0,Aug
+Business,Islamabad,Islamabad,2.25,Airport/Travel,2016-08-21,1900-01-01 18:10:00,2016-08-21,1900-01-01 18:17:00,2016,Evening,7.0,Aug
+Business,Islamabad,Unknown Location,32.51,Airport/Travel,2016-08-21,1900-01-01 18:48:00,2016-08-21,1900-01-01 19:24:00,2016,Evening,36.0,Aug
+Business,Unknown Location,Islamabad,15.77,Airport/Travel,2016-08-22,1900-01-01 10:00:00,2016-08-22,1900-01-01 10:44:00,2016,Morning,44.0,Aug
+Business,Islamabad,Unknown Location,10.14,Airport/Travel,2016-08-22,1900-01-01 11:07:00,2016-08-22,1900-01-01 11:23:00,2016,Morning,16.0,Aug
+Business,Unknown Location,Islamabad,7.89,Airport/Travel,2016-08-22,1900-01-01 12:36:00,2016-08-22,1900-01-01 12:49:00,2016,Afternoon,13.0,Aug
+Business,Islamabad,Islamabad,2.41,Airport/Travel,2016-08-22,1900-01-01 13:02:00,2016-08-22,1900-01-01 13:11:00,2016,Afternoon,9.0,Aug
+Business,Islamabad,Unknown Location,17.54,Airport/Travel,2016-08-22,1900-01-01 14:07:00,2016-08-22,1900-01-01 14:31:00,2016,Afternoon,24.0,Aug
+Business,Unknown Location,Unknown Location,30.58,Airport/Travel,2016-08-22,1900-01-01 15:14:00,2016-08-22,1900-01-01 15:49:00,2016,Afternoon,35.0,Aug
+Business,Unknown Location,Unknown Location,30.58,Airport/Travel,2016-08-22,1900-01-01 15:59:00,2016-08-22,1900-01-01 17:16:00,2016,Afternoon,77.0,Aug
+Business,Unknown Location,R?walpindi,12.71,Airport/Travel,2016-08-22,1900-01-01 19:58:00,2016-08-22,1900-01-01 20:50:00,2016,Evening,52.0,Aug
+Business,R?walpindi,R?walpindi,6.6,Airport/Travel,2016-08-22,1900-01-01 20:53:00,2016-08-22,1900-01-01 21:31:00,2016,Evening,38.0,Aug
+Business,R?walpindi,Unknown Location,30.09,Airport/Travel,2016-08-22,1900-01-01 22:31:00,2016-08-22,1900-01-01 23:00:00,2016,Night,29.0,Aug
+Business,Unknown Location,Noorpur Shahan,14.0,Airport/Travel,2016-08-23,1900-01-01 08:10:00,2016-08-23,1900-01-01 08:25:00,2016,Morning,15.0,Aug
+Business,Noorpur Shahan,Unknown Location,12.07,Airport/Travel,2016-08-23,1900-01-01 09:35:00,2016-08-23,1900-01-01 10:09:00,2016,Morning,34.0,Aug
+Business,Unknown Location,Noorpur Shahan,12.39,Airport/Travel,2016-08-23,1900-01-01 12:59:00,2016-08-23,1900-01-01 13:15:00,2016,Afternoon,16.0,Aug
+Business,Noorpur Shahan,Islamabad,7.08,Airport/Travel,2016-08-23,1900-01-01 13:19:00,2016-08-23,1900-01-01 13:30:00,2016,Afternoon,11.0,Aug
+Business,Islamabad,Unknown Location,8.05,Airport/Travel,2016-08-23,1900-01-01 13:49:00,2016-08-23,1900-01-01 14:04:00,2016,Afternoon,15.0,Aug
+Business,Unknown Location,Unknown Location,3.06,Airport/Travel,2016-08-23,1900-01-01 15:07:00,2016-08-23,1900-01-01 15:12:00,2016,Afternoon,5.0,Aug
+Business,Unknown Location,Unknown Location,12.71,Airport/Travel,2016-08-23,1900-01-01 15:15:00,2016-08-23,1900-01-01 17:16:00,2016,Afternoon,121.0,Aug
+Business,Unknown Location,Unknown Location,28.49,Airport/Travel,2016-08-23,1900-01-01 17:42:00,2016-08-23,1900-01-01 18:31:00,2016,Evening,49.0,Aug
+Business,Unknown Location,Unknown Location,40.56,Airport/Travel,2016-08-24,1900-01-01 12:05:00,2016-08-24,1900-01-01 12:56:00,2016,Afternoon,51.0,Aug
+Business,Unknown Location,Unknown Location,154.82,Airport/Travel,2016-08-24,1900-01-01 13:01:00,2016-08-24,1900-01-01 15:25:00,2016,Afternoon,144.0,Aug
+Business,Unknown Location,Unknown Location,56.33,Airport/Travel,2016-08-25,1900-01-01 15:17:00,2016-08-25,1900-01-01 16:22:00,2016,Afternoon,65.0,Aug
+Business,Unknown Location,Unknown Location,8.85,Airport/Travel,2016-08-25,1900-01-01 16:36:00,2016-08-25,1900-01-01 16:56:00,2016,Afternoon,20.0,Aug
+Business,Unknown Location,Unknown Location,81.11,Airport/Travel,2016-08-25,1900-01-01 17:19:00,2016-08-25,1900-01-01 19:20:00,2016,Evening,121.0,Aug
+Business,Unknown Location,Lahore,14.81,Airport/Travel,2016-08-25,1900-01-01 19:25:00,2016-08-25,1900-01-01 19:57:00,2016,Evening,32.0,Aug
+Business,Lahore,Unknown Location,11.75,Airport/Travel,2016-08-25,1900-01-01 22:58:00,2016-08-25,1900-01-01 23:16:00,2016,Night,18.0,Aug
+Business,Unknown Location,Unknown Location,8.05,Airport/Travel,2016-08-26,1900-01-01 09:06:00,2016-08-26,1900-01-01 09:20:00,2016,Morning,14.0,Aug
+Business,Unknown Location,Unknown Location,6.12,Airport/Travel,2016-08-26,1900-01-01 11:14:00,2016-08-26,1900-01-01 11:26:00,2016,Morning,12.0,Aug
+Business,Unknown Location,Lahore,6.28,Airport/Travel,2016-08-26,1900-01-01 12:10:00,2016-08-26,1900-01-01 12:20:00,2016,Afternoon,10.0,Aug
+Business,Lahore,Lahore,11.91,Airport/Travel,2016-08-26,1900-01-01 14:10:00,2016-08-26,1900-01-01 14:33:00,2016,Afternoon,23.0,Aug
+Business,Lahore,Lahore,2.41,Airport/Travel,2016-08-26,1900-01-01 15:23:00,2016-08-26,1900-01-01 15:35:00,2016,Afternoon,12.0,Aug
+Business,Lahore,Unknown Location,12.71,Airport/Travel,2016-08-26,1900-01-01 15:59:00,2016-08-26,1900-01-01 16:24:00,2016,Afternoon,25.0,Aug
+Business,Unknown Location,Lahore,4.67,Airport/Travel,2016-08-26,1900-01-01 16:55:00,2016-08-26,1900-01-01 17:12:00,2016,Afternoon,17.0,Aug
+Business,Lahore,Lahore,5.47,Airport/Travel,2016-08-26,1900-01-01 18:42:00,2016-08-26,1900-01-01 18:56:00,2016,Evening,14.0,Aug
+Business,Lahore,Lahore,6.12,Airport/Travel,2016-08-26,1900-01-01 19:31:00,2016-08-26,1900-01-01 19:54:00,2016,Evening,23.0,Aug
+Business,Lahore,Unknown Location,9.5,Airport/Travel,2016-08-26,1900-01-01 20:06:00,2016-08-26,1900-01-01 20:16:00,2016,Evening,10.0,Aug
+Business,Unknown Location,Lahore,15.45,Airport/Travel,2016-08-27,1900-01-01 09:34:00,2016-08-27,1900-01-01 10:11:00,2016,Morning,37.0,Aug
+Business,Lahore,Lahore,11.27,Airport/Travel,2016-08-27,1900-01-01 11:47:00,2016-08-27,1900-01-01 12:06:00,2016,Morning,19.0,Aug
+Business,Lahore,Lahore,1.45,Airport/Travel,2016-08-27,1900-01-01 12:12:00,2016-08-27,1900-01-01 12:17:00,2016,Afternoon,5.0,Aug
+Business,Lahore,Unknown Location,139.37,Airport/Travel,2016-08-27,1900-01-01 14:01:00,2016-08-27,1900-01-01 15:44:00,2016,Afternoon,103.0,Aug
+Business,Unknown Location,Unknown Location,252.51,Airport/Travel,2016-08-27,1900-01-01 16:15:00,2016-08-27,1900-01-01 19:13:00,2016,Afternoon,178.0,Aug
+Business,Unknown Location,Noorpur Shahan,16.25,Airport/Travel,2016-08-28,1900-01-01 09:57:00,2016-08-28,1900-01-01 10:18:00,2016,Morning,21.0,Aug
+Business,Noorpur Shahan,Islamabad,9.98,Airport/Travel,2016-08-28,1900-01-01 16:39:00,2016-08-28,1900-01-01 16:55:00,2016,Afternoon,16.0,Aug
+Business,Islamabad,Islamabad,8.53,Airport/Travel,2016-08-28,1900-01-01 17:37:00,2016-08-28,1900-01-01 17:55:00,2016,Evening,18.0,Aug
+Business,Islamabad,Unknown Location,19.47,Airport/Travel,2016-08-28,1900-01-01 21:15:00,2016-08-28,1900-01-01 21:59:00,2016,Night,44.0,Aug
+Business,Unknown Location,Islamabad,17.38,Airport/Travel,2016-08-29,1900-01-01 12:02:00,2016-08-29,1900-01-01 12:31:00,2016,Afternoon,29.0,Aug
+Business,Islamabad,Islamabad,6.92,Airport/Travel,2016-08-29,1900-01-01 13:38:00,2016-08-29,1900-01-01 13:48:00,2016,Afternoon,10.0,Aug
+Business,Islamabad,Islamabad,4.02,Airport/Travel,2016-08-29,1900-01-01 14:31:00,2016-08-29,1900-01-01 14:41:00,2016,Afternoon,10.0,Aug
+Business,Islamabad,Unknown Location,9.17,Temporary Site,2016-08-29,1900-01-01 14:49:00,2016-08-29,1900-01-01 15:04:00,2016,Afternoon,15.0,Aug
+Business,Unknown Location,Islamabad,4.51,Temporary Site,2016-08-29,1900-01-01 15:49:00,2016-08-29,1900-01-01 15:59:00,2016,Afternoon,10.0,Aug
+Business,Islamabad,Unknown Location,6.44,Temporary Site,2016-08-29,1900-01-01 16:06:00,2016-08-29,1900-01-01 16:21:00,2016,Afternoon,15.0,Aug
+Business,Unknown Location,Islamabad,8.85,Temporary Site,2016-08-29,1900-01-01 17:24:00,2016-08-29,1900-01-01 17:41:00,2016,Evening,17.0,Aug
+Business,Islamabad,Islamabad,4.18,Temporary Site,2016-08-29,1900-01-01 18:27:00,2016-08-29,1900-01-01 18:36:00,2016,Evening,9.0,Aug
+Business,Unknown Location,Unknown Location,3.38,Temporary Site,2016-08-30,1900-01-01 11:53:00,2016-08-30,1900-01-01 12:05:00,2016,Morning,12.0,Aug
+Business,Unknown Location,Islamabad,14.16,Temporary Site,2016-08-30,1900-01-01 12:46:00,2016-08-30,1900-01-01 13:09:00,2016,Afternoon,23.0,Aug
+Business,Islamabad,Islamabad,7.08,Temporary Site,2016-08-30,1900-01-01 13:25:00,2016-08-30,1900-01-01 13:46:00,2016,Afternoon,21.0,Aug
+Business,Islamabad,Unknown Location,8.53,Temporary Site,2016-08-30,1900-01-01 14:00:00,2016-08-30,1900-01-01 14:20:00,2016,Afternoon,20.0,Aug
+Business,Unknown Location,Unknown Location,20.92,Temporary Site,2016-08-30,1900-01-01 17:27:00,2016-08-30,1900-01-01 18:09:00,2016,Evening,42.0,Aug
+Business,Unknown Location,Islamabad,20.92,Temporary Site,2016-09-01,1900-01-01 11:51:00,2016-09-01,1900-01-01 12:24:00,2016,Morning,33.0,Sep
+Business,Islamabad,Unknown Location,17.06,Temporary Site,2016-09-01,1900-01-01 17:21:00,2016-09-01,1900-01-01 17:36:00,2016,Evening,15.0,Sep
+Business,Unknown Location,Unknown Location,3.54,Temporary Site,2016-09-01,1900-01-01 18:49:00,2016-09-01,1900-01-01 19:08:00,2016,Evening,19.0,Sep
+Business,Unknown Location,Islamabad,14.81,Temporary Site,2016-09-02,1900-01-01 11:37:00,2016-09-02,1900-01-01 12:24:00,2016,Morning,47.0,Sep
+Business,Unknown Location,Unknown Location,20.76,Temporary Site,2016-09-02,1900-01-01 18:56:00,2016-09-02,1900-01-01 19:37:00,2016,Evening,41.0,Sep
+Business,Unknown Location,R?walpindi,27.68,Temporary Site,2016-09-05,1900-01-01 10:25:00,2016-09-05,1900-01-01 10:44:00,2016,Morning,19.0,Sep
+Business,Unknown Location,Unknown Location,111.21,Temporary Site,2016-09-06,1900-01-01 17:49:00,2016-09-06,1900-01-01 17:49:00,2016,Evening,0.0,Sep
+Business,Unknown Location,Unknown Location,4.51,Temporary Site,2016-09-10,1900-01-01 10:28:00,2016-09-10,1900-01-01 10:45:00,2016,Morning,17.0,Sep
+Business,Unknown Location,Unknown Location,13.84,Temporary Site,2016-09-11,1900-01-01 09:51:00,2016-09-11,1900-01-01 09:55:00,2016,Morning,4.0,Sep
+Business,Unknown Location,Unknown Location,15.77,Temporary Site,2016-09-11,1900-01-01 21:40:00,2016-09-11,1900-01-01 21:42:00,2016,Night,2.0,Sep
+Business,Unknown Location,Unknown Location,5.79,Temporary Site,2016-09-12,1900-01-01 08:07:00,2016-09-12,1900-01-01 08:12:00,2016,Morning,5.0,Sep
+Business,Unknown Location,Unknown Location,2.74,Temporary Site,2016-09-12,1900-01-01 11:15:00,2016-09-12,1900-01-01 11:24:00,2016,Morning,9.0,Sep
+Business,Unknown Location,Unknown Location,18.51,Temporary Site,2016-09-12,1900-01-01 13:04:00,2016-09-12,1900-01-01 13:44:00,2016,Afternoon,40.0,Sep
+Business,Unknown Location,Unknown Location,1.13,Temporary Site,2016-09-13,1900-01-01 16:56:00,2016-09-13,1900-01-01 17:02:00,2016,Afternoon,6.0,Sep
+Business,Unknown Location,Unknown Location,1.13,Temporary Site,2016-09-14,1900-01-01 11:55:00,2016-09-14,1900-01-01 11:59:00,2016,Morning,4.0,Sep
+Business,Unknown Location,Unknown Location,1.45,Temporary Site,2016-09-15,1900-01-01 20:33:00,2016-09-15,1900-01-01 20:38:00,2016,Evening,5.0,Sep
+Business,Unknown Location,Unknown Location,2.57,Temporary Site,2016-09-16,1900-01-01 07:08:00,2016-09-16,1900-01-01 07:08:00,2016,Morning,0.0,Sep
+Business,Unknown Location,Unknown Location,15.13,Temporary Site,2016-09-18,1900-01-01 18:07:00,2016-09-18,1900-01-01 18:11:00,2016,Evening,4.0,Sep
+Business,R?walpindi,Unknown Location,29.29,Temporary Site,2016-09-19,1900-01-01 06:18:00,2016-09-19,1900-01-01 06:49:00,2016,Morning,31.0,Sep
+Business,Unknown Location,Islamabad,16.9,Temporary Site,2016-09-19,1900-01-01 14:40:00,2016-09-19,1900-01-01 14:56:00,2016,Afternoon,16.0,Sep
+Business,Islamabad,Unknown Location,9.17,Temporary Site,2016-09-19,1900-01-01 16:23:00,2016-09-19,1900-01-01 16:31:00,2016,Afternoon,8.0,Sep
+Business,Unknown Location,Unknown Location,28.97,Temporary Site,2016-09-19,1900-01-01 17:36:00,2016-09-19,1900-01-01 18:20:00,2016,Evening,44.0,Sep
+Business,Unknown Location,Islamabad,29.45,Temporary Site,2016-09-19,1900-01-01 19:10:00,2016-09-19,1900-01-01 19:49:00,2016,Evening,39.0,Sep
+Business,Islamabad,Unknown Location,26.55,Temporary Site,2016-09-20,1900-01-01 11:29:00,2016-09-20,1900-01-01 11:48:00,2016,Morning,19.0,Sep
+Business,Unknown Location,R?walpindi,15.45,Temporary Site,2016-09-20,1900-01-01 20:47:00,2016-09-20,1900-01-01 22:47:00,2016,Evening,120.0,Sep
+Business,Karachi,Karachi,4.67,Temporary Site,2016-09-23,1900-01-01 13:15:00,2016-09-23,1900-01-01 13:40:00,2016,Afternoon,25.0,Sep
+Business,Karachi,Unknown Location,13.2,Temporary Site,2016-09-24,1900-01-01 14:34:00,2016-09-24,1900-01-01 15:15:00,2016,Afternoon,41.0,Sep
+Business,Unknown Location,Unknown Location,3.86,Temporary Site,2016-09-24,1900-01-01 20:29:00,2016-09-24,1900-01-01 20:33:00,2016,Evening,4.0,Sep
+Business,Unknown Location,Unknown Location,9.33,Temporary Site,2016-09-27,1900-01-01 08:33:00,2016-09-27,1900-01-01 08:35:00,2016,Morning,2.0,Sep
+Business,Lahore,Lahore,15.77,Temporary Site,2016-09-27,1900-01-01 13:21:00,2016-09-27,1900-01-01 14:43:00,2016,Afternoon,82.0,Sep
+Business,Lahore,Unknown Location,11.75,Temporary Site,2016-09-27,1900-01-01 19:14:00,2016-09-27,1900-01-01 20:34:00,2016,Evening,80.0,Sep
+Business,Unknown Location,Unknown Location,314.79,Temporary Site,2016-09-27,1900-01-01 21:01:00,2016-09-28,1900-01-01 02:37:00,2016,Night,336.0,Sep
+Business,Islamabad,Unknown Location,32.99,Temporary Site,2016-09-28,1900-01-01 17:21:00,2016-09-28,1900-01-01 19:36:00,2016,Evening,135.0,Sep
+Business,Unknown Location,Islamabad,20.28,Temporary Site,2016-09-29,1900-01-01 16:13:00,2016-09-29,1900-01-01 18:47:00,2016,Afternoon,154.0,Sep
+Business,Islamabad,Islamabad,60.67,Temporary Site,2016-09-30,1900-01-01 17:39:00,2016-09-30,1900-01-01 20:20:00,2016,Evening,161.0,Sep
+Business,Islamabad,Unknown Location,26.88,Temporary Site,2016-09-30,1900-01-01 20:59:00,2016-09-30,1900-01-01 22:34:00,2016,Evening,95.0,Sep
+Business,Unknown Location,Islamabad,16.9,Temporary Site,2016-10-03,1900-01-01 17:09:00,2016-10-03,1900-01-01 17:12:00,2016,Evening,3.0,Oct
+Business,Islamabad,Islamabad,4.51,Temporary Site,2016-10-03,1900-01-01 18:17:00,2016-10-03,1900-01-01 18:34:00,2016,Evening,17.0,Oct
+Business,Islamabad,Islamabad,2.57,Temporary Site,2016-10-03,1900-01-01 18:51:00,2016-10-03,1900-01-01 19:01:00,2016,Evening,10.0,Oct
+Business,Islamabad,Unknown Location,20.44,Temporary Site,2016-10-03,1900-01-01 22:04:00,2016-10-03,1900-01-01 22:33:00,2016,Night,29.0,Oct
+Business,Unknown Location,Unknown Location,46.03,Temporary Site,2016-10-04,1900-01-01 09:50:00,2016-10-04,1900-01-01 10:52:00,2016,Morning,62.0,Oct
+Business,Unknown Location,Unknown Location,24.3,Temporary Site,2016-10-04,1900-01-01 12:17:00,2016-10-04,1900-01-01 12:18:00,2016,Afternoon,1.0,Oct
+Business,Unknown Location,R?walpindi,28.81,Temporary Site,2016-10-06,1900-01-01 08:49:00,2016-10-06,1900-01-01 11:36:00,2016,Morning,167.0,Oct
+Business,R?walpindi,Unknown Location,181.21,Temporary Site,2016-10-06,1900-01-01 17:23:00,2016-10-06,1900-01-01 17:40:00,2016,Evening,17.0,Oct
+Business,Unknown Location,Unknown Location,29.61,Temporary Site,2016-10-06,1900-01-01 18:37:00,2016-10-06,1900-01-01 18:39:00,2016,Evening,2.0,Oct
+Business,Unknown Location,Unknown Location,22.21,Temporary Site,2016-10-06,1900-01-01 19:46:00,2016-10-06,1900-01-01 20:26:00,2016,Evening,40.0,Oct
+Business,Unknown Location,Lahore,53.43,Temporary Site,2016-10-07,1900-01-01 10:56:00,2016-10-07,1900-01-01 10:59:00,2016,Morning,3.0,Oct
+Business,Lahore,Lahore,4.18,Temporary Site,2016-10-07,1900-01-01 11:27:00,2016-10-07,1900-01-01 11:50:00,2016,Morning,23.0,Oct
+Business,Lahore,Unknown Location,9.33,Temporary Site,2016-10-07,1900-01-01 13:52:00,2016-10-07,1900-01-01 14:08:00,2016,Afternoon,16.0,Oct
+Business,Unknown Location,Lahore,13.36,Temporary Site,2016-10-07,1900-01-01 14:29:00,2016-10-07,1900-01-01 15:11:00,2016,Afternoon,42.0,Oct
+Business,Lahore,Lahore,3.86,Temporary Site,2016-10-07,1900-01-01 15:47:00,2016-10-07,1900-01-01 16:02:00,2016,Afternoon,15.0,Oct
+Business,Lahore,Lahore,4.99,Temporary Site,2016-10-07,1900-01-01 18:08:00,2016-10-07,1900-01-01 18:27:00,2016,Evening,19.0,Oct
+Business,Lahore,Lahore,9.82,Temporary Site,2016-10-07,1900-01-01 18:33:00,2016-10-07,1900-01-01 19:01:00,2016,Evening,28.0,Oct
+Business,Karachi,Karachi,5.79,Temporary Site,2016-10-08,1900-01-01 15:03:00,2016-10-08,1900-01-01 15:03:00,2016,Afternoon,0.0,Oct
+Business,Karachi,Unknown Location,12.87,Temporary Site,2016-10-08,1900-01-01 18:15:00,2016-10-08,1900-01-01 18:18:00,2016,Evening,3.0,Oct
+Business,Unknown Location,Unknown Location,12.39,Temporary Site,2016-10-09,1900-01-01 14:04:00,2016-10-09,1900-01-01 14:23:00,2016,Afternoon,19.0,Oct
+Business,Islamabad,Islamabad,2.74,Temporary Site,2016-10-10,1900-01-01 17:22:00,2016-10-10,1900-01-01 17:28:00,2016,Evening,6.0,Oct
+Business,Islamabad,Unknown Location,15.29,Temporary Site,2016-10-10,1900-01-01 17:33:00,2016-10-10,1900-01-01 18:13:00,2016,Evening,40.0,Oct
+Business,Unknown Location,R?walpindi,27.52,Meeting,2016-10-11,1900-01-01 01:27:00,2016-10-11,1900-01-01 02:08:00,2016,Night,41.0,Oct
+Business,R?walpindi,Unknown Location,29.61,Meeting,2016-10-12,1900-01-01 19:18:00,2016-10-12,1900-01-01 19:21:00,2016,Evening,3.0,Oct
+Business,Unknown Location,Islamabad,15.77,Meeting,2016-10-13,1900-01-01 11:20:00,2016-10-13,1900-01-01 11:58:00,2016,Morning,38.0,Oct
+Business,Islamabad,Islamabad,1.61,Meeting,2016-10-13,1900-01-01 12:08:00,2016-10-13,1900-01-01 12:14:00,2016,Afternoon,6.0,Oct
+Business,Islamabad,Islamabad,1.13,Meeting,2016-10-13,1900-01-01 13:02:00,2016-10-13,1900-01-01 13:02:00,2016,Afternoon,0.0,Oct
+Business,Islamabad,Islamabad,3.7,Meeting,2016-10-13,1900-01-01 13:37:00,2016-10-13,1900-01-01 13:46:00,2016,Afternoon,9.0,Oct
+Business,Islamabad,Unknown Location,17.54,Meeting,2016-10-13,1900-01-01 16:08:00,2016-10-13,1900-01-01 16:53:00,2016,Afternoon,45.0,Oct
+Business,Unknown Location,R?walpindi,20.44,Meeting,2016-10-14,1900-01-01 08:50:00,2016-10-14,1900-01-01 09:44:00,2016,Morning,54.0,Oct
+Business,R?walpindi,Unknown Location,19.96,Meeting,2016-10-14,1900-01-01 10:16:00,2016-10-14,1900-01-01 10:52:00,2016,Morning,36.0,Oct
+Business,Unknown Location,Unknown Location,6.12,Meeting,2016-10-14,1900-01-01 15:56:00,2016-10-14,1900-01-01 16:20:00,2016,Afternoon,24.0,Oct
+Business,Unknown Location,R?walpindi,27.36,Meeting,2016-10-14,1900-01-01 23:54:00,2016-10-15,1900-01-01 02:06:00,2016,Night,132.0,Oct
+Business,Morrisville,Morrisville,9.98,Meeting,2016-10-15,1900-01-01 22:28:00,2016-10-15,1900-01-01 22:48:00,2016,Night,20.0,Oct
+Business,Morrisville,Cary,4.99,Meeting,2016-10-16,1900-01-01 00:01:00,2016-10-16,1900-01-01 00:14:00,2016,Night,13.0,Oct
+Business,Cary,Durham,16.9,Meeting,2016-10-16,1900-01-01 12:52:00,2016-10-16,1900-01-01 13:11:00,2016,Afternoon,19.0,Oct
+Business,Durham,Morrisville,13.04,Meeting,2016-10-16,1900-01-01 14:40:00,2016-10-16,1900-01-01 15:01:00,2016,Afternoon,21.0,Oct
+Business,Morrisville,Cary,4.99,Meeting,2016-10-16,1900-01-01 15:10:00,2016-10-16,1900-01-01 15:19:00,2016,Afternoon,9.0,Oct
+Business,Whitebridge,Parkway,3.38,Meeting,2016-10-16,1900-01-01 19:27:00,2016-10-16,1900-01-01 19:33:00,2016,Evening,6.0,Oct
+Business,Cary,Morrisville,6.92,Meeting,2016-10-16,1900-01-01 20:30:00,2016-10-16,1900-01-01 20:39:00,2016,Evening,9.0,Oct
+Business,Morrisville,Cary,4.02,Meal/Entertain,2016-10-16,1900-01-01 21:34:00,2016-10-16,1900-01-01 21:41:00,2016,Night,7.0,Oct
+Business,Cary,Raleigh,33.15,Meal/Entertain,2016-10-17,1900-01-01 15:19:00,2016-10-17,1900-01-01 15:57:00,2016,Afternoon,38.0,Oct
+Business,Raleigh,Cary,28.32,Meal/Entertain,2016-10-17,1900-01-01 16:29:00,2016-10-17,1900-01-01 17:11:00,2016,Afternoon,42.0,Oct
+Business,Cary,Apex,9.01,Meal/Entertain,2016-10-17,1900-01-01 18:02:00,2016-10-17,1900-01-01 18:16:00,2016,Evening,14.0,Oct
+Business,Apex,Apex,5.31,Meal/Entertain,2016-10-17,1900-01-01 18:31:00,2016-10-17,1900-01-01 18:45:00,2016,Evening,14.0,Oct
+Business,Apex,Cary,8.53,Meal/Entertain,2016-10-17,1900-01-01 19:08:00,2016-10-17,1900-01-01 19:25:00,2016,Evening,17.0,Oct
+Business,Whitebridge,Edgehill Farms,5.31,Meal/Entertain,2016-10-18,1900-01-01 08:12:00,2016-10-18,1900-01-01 08:22:00,2016,Morning,10.0,Oct
+Business,Edgehill Farms,Whitebridge,5.31,Meal/Entertain,2016-10-18,1900-01-01 08:53:00,2016-10-18,1900-01-01 09:02:00,2016,Morning,9.0,Oct
+Business,Cary,Morrisville,12.71,Temporary Site,2016-10-18,1900-01-01 10:41:00,2016-10-18,1900-01-01 11:09:00,2016,Morning,28.0,Oct
+Business,Oakland,Emeryville,20.92,Temporary Site,2016-10-18,1900-01-01 18:12:00,2016-10-18,1900-01-01 18:33:00,2016,Evening,21.0,Oct
+Business,Emeryville,Berkeley,4.83,Temporary Site,2016-10-18,1900-01-01 19:03:00,2016-10-18,1900-01-01 19:13:00,2016,Evening,10.0,Oct
+Business,Berkeley,Emeryville,4.83,Temporary Site,2016-10-18,1900-01-01 20:31:00,2016-10-18,1900-01-01 20:37:00,2016,Evening,6.0,Oct
+Business,Emeryville,Oakland,6.12,Temporary Site,2016-10-19,1900-01-01 09:33:00,2016-10-19,1900-01-01 09:47:00,2016,Morning,14.0,Oct
+Business,Oakland,San Francisco,15.29,Temporary Site,2016-10-19,1900-01-01 09:54:00,2016-10-19,1900-01-01 10:21:00,2016,Morning,27.0,Oct
+Business,SOMISSPO,French Quarter,2.74,Temporary Site,2016-10-19,1900-01-01 13:45:00,2016-10-19,1900-01-01 13:56:00,2016,Afternoon,11.0,Oct
+Business,San Francisco,Berkeley,17.38,Temporary Site,2016-10-19,1900-01-01 14:02:00,2016-10-19,1900-01-01 14:31:00,2016,Afternoon,29.0,Oct
+Business,West Berkeley,North Berkeley Hills,6.6,Temporary Site,2016-10-19,1900-01-01 15:44:00,2016-10-19,1900-01-01 16:02:00,2016,Afternoon,18.0,Oct
+Business,North Berkeley Hills,Southside,3.54,Temporary Site,2016-10-19,1900-01-01 16:06:00,2016-10-19,1900-01-01 16:19:00,2016,Afternoon,13.0,Oct
+Business,Berkeley,Emeryville,7.4,Temporary Site,2016-10-19,1900-01-01 16:33:00,2016-10-19,1900-01-01 17:01:00,2016,Afternoon,28.0,Oct
+Business,Emeryville,Berkeley,4.99,Temporary Site,2016-10-20,1900-01-01 11:26:00,2016-10-20,1900-01-01 11:34:00,2016,Morning,8.0,Oct
+Business,Berkeley,San Jose,76.77,Temporary Site,2016-10-20,1900-01-01 12:19:00,2016-10-20,1900-01-01 13:17:00,2016,Afternoon,58.0,Oct
+Business,San Jose,Emeryville,71.78,Temporary Site,2016-10-20,1900-01-01 20:44:00,2016-10-20,1900-01-01 21:37:00,2016,Evening,53.0,Oct
+Business,Emeryville,Oakland,21.24,Temporary Site,2016-10-21,1900-01-01 10:06:00,2016-10-21,1900-01-01 10:21:00,2016,Morning,15.0,Oct
+Business,Morrisville,Cary,14.0,Temporary Site,2016-10-22,1900-01-01 00:54:00,2016-10-22,1900-01-01 01:09:00,2016,Night,15.0,Oct
+Business,Cary,Raleigh,27.68,Temporary Site,2016-10-22,1900-01-01 13:26:00,2016-10-22,1900-01-01 14:03:00,2016,Afternoon,37.0,Oct
+Business,Raleigh,Cary,22.53,Temporary Site,2016-10-22,1900-01-01 17:08:00,2016-10-22,1900-01-01 17:55:00,2016,Evening,47.0,Oct
+Business,Cary,Raleigh,45.22,Temporary Site,2016-10-23,1900-01-01 09:24:00,2016-10-23,1900-01-01 10:05:00,2016,Morning,41.0,Oct
+Business,Raleigh,Cary,45.38,Temporary Site,2016-10-23,1900-01-01 12:17:00,2016-10-23,1900-01-01 12:59:00,2016,Afternoon,42.0,Oct
+Business,Cary,Morrisville,4.99,Meal/Entertain,2016-10-23,1900-01-01 19:04:00,2016-10-23,1900-01-01 19:14:00,2016,Evening,10.0,Oct
+Business,Morrisville,Cary,4.99,Customer Visit,2016-10-23,1900-01-01 21:10:00,2016-10-23,1900-01-01 21:25:00,2016,Night,15.0,Oct
+Business,Cary,Durham,26.39,Customer Visit,2016-10-24,1900-01-01 14:57:00,2016-10-24,1900-01-01 15:26:00,2016,Afternoon,29.0,Oct
+Business,Durham,Morrisville,24.78,Customer Visit,2016-10-24,1900-01-01 15:33:00,2016-10-24,1900-01-01 16:13:00,2016,Afternoon,40.0,Oct
+Business,Morrisville,Cary,3.54,Customer Visit,2016-10-24,1900-01-01 16:34:00,2016-10-24,1900-01-01 16:41:00,2016,Afternoon,7.0,Oct
+Business,Cary,Apex,18.02,Customer Visit,2016-10-25,1900-01-01 13:27:00,2016-10-25,1900-01-01 14:08:00,2016,Afternoon,41.0,Oct
+Business,Apex,Eagle Rock,3.54,Customer Visit,2016-10-25,1900-01-01 15:04:00,2016-10-25,1900-01-01 15:11:00,2016,Afternoon,7.0,Oct
+Business,Eagle Rock,Cary,5.79,Customer Visit,2016-10-25,1900-01-01 15:16:00,2016-10-25,1900-01-01 15:33:00,2016,Afternoon,17.0,Oct
+Business,Whitebridge,Savon Height,5.79,Meal/Entertain,2016-10-25,1900-01-01 20:00:00,2016-10-25,1900-01-01 20:11:00,2016,Evening,11.0,Oct
+Business,Savon Height,Parkway,7.89,Meal/Entertain,2016-10-25,1900-01-01 20:54:00,2016-10-25,1900-01-01 21:03:00,2016,Evening,9.0,Oct
+Business,Parkway,Whitebridge,14.0,Errand/Supplies,2016-10-25,1900-01-01 22:24:00,2016-10-25,1900-01-01 22:45:00,2016,Night,21.0,Oct
+Business,Whitebridge,Parkway,3.38,Meeting,2016-10-26,1900-01-01 19:25:00,2016-10-26,1900-01-01 19:31:00,2016,Evening,6.0,Oct
+Business,Parkway,Whitebridge,3.38,Meeting,2016-10-26,1900-01-01 20:53:00,2016-10-26,1900-01-01 21:03:00,2016,Evening,10.0,Oct
+Business,Cary,Morrisville,13.52,Meeting,2016-10-27,1900-01-01 18:51:00,2016-10-27,1900-01-01 19:16:00,2016,Evening,25.0,Oct
+Business,Morrisville,Morrisville,9.5,Meeting,2016-10-27,1900-01-01 19:20:00,2016-10-27,1900-01-01 19:35:00,2016,Evening,15.0,Oct
+Business,Huntington Woods,Huntington Woods,19.47,Meeting,2016-10-27,1900-01-01 19:52:00,2016-10-27,1900-01-01 20:21:00,2016,Evening,29.0,Oct
+Business,Huntington Woods,Weston,6.28,Meeting,2016-10-27,1900-01-01 20:47:00,2016-10-27,1900-01-01 20:54:00,2016,Evening,7.0,Oct
+Business,Morrisville,Cary,9.98,Meeting,2016-10-27,1900-01-01 21:26:00,2016-10-27,1900-01-01 21:48:00,2016,Night,22.0,Oct
+Business,Cary,Durham,16.74,Meeting,2016-10-28,1900-01-01 11:34:00,2016-10-28,1900-01-01 11:52:00,2016,Morning,18.0,Oct
+Business,Durham,Cary,15.93,Meeting,2016-10-28,1900-01-01 13:06:00,2016-10-28,1900-01-01 13:36:00,2016,Afternoon,30.0,Oct
+Business,Cary,Winston Salem,172.2,Meeting,2016-10-28,1900-01-01 15:53:00,2016-10-28,1900-01-01 17:59:00,2016,Afternoon,126.0,Oct
+Business,Winston Salem,Asheville,215.01,Meeting,2016-10-28,1900-01-01 18:13:00,2016-10-28,1900-01-01 20:07:00,2016,Evening,114.0,Oct
+Business,Asheville,Topton,147.74,Meeting,2016-10-28,1900-01-01 20:13:00,2016-10-28,1900-01-01 22:00:00,2016,Evening,107.0,Oct
+Business,Topton,Hayesville,65.5,Meeting,2016-10-29,1900-01-01 15:22:00,2016-10-29,1900-01-01 17:05:00,2016,Afternoon,103.0,Oct
+Business,Hayesville,Topton,121.83,Meeting,2016-10-29,1900-01-01 17:13:00,2016-10-29,1900-01-01 19:19:00,2016,Evening,126.0,Oct
+Business,Topton,Bryson City,47.96,Meeting,2016-10-30,1900-01-01 07:49:00,2016-10-30,1900-01-01 08:30:00,2016,Morning,41.0,Oct
+Business,Bryson City,Bryson City,26.23,Meeting,2016-10-30,1900-01-01 09:07:00,2016-10-30,1900-01-01 10:09:00,2016,Morning,62.0,Oct
+Business,Bryson City,Bryson City,10.46,Meeting,2016-10-30,1900-01-01 10:11:00,2016-10-30,1900-01-01 10:38:00,2016,Morning,27.0,Oct
+Business,Bryson City,Bryson City,10.14,Meeting,2016-10-30,1900-01-01 10:51:00,2016-10-30,1900-01-01 11:21:00,2016,Morning,30.0,Oct
+Business,Bryson City,Almond,10.62,Meeting,2016-10-30,1900-01-01 12:24:00,2016-10-30,1900-01-01 12:35:00,2016,Afternoon,11.0,Oct
+Business,Almond,Bryson City,24.46,Meeting,2016-10-30,1900-01-01 12:58:00,2016-10-30,1900-01-01 13:18:00,2016,Afternoon,20.0,Oct
+Business,Bryson City,Asheville,110.08,Meeting,2016-10-30,1900-01-01 13:24:00,2016-10-30,1900-01-01 14:37:00,2016,Afternoon,73.0,Oct
+Business,Asheville,Mebane,315.27,Meeting,2016-10-30,1900-01-01 15:22:00,2016-10-30,1900-01-01 18:23:00,2016,Afternoon,181.0,Oct
+Business,Mebane,Cary,72.74,Meeting,2016-10-30,1900-01-01 18:26:00,2016-10-30,1900-01-01 19:39:00,2016,Evening,73.0,Oct
+Business,Cary,Morrisville,5.15,Meeting,2016-10-31,1900-01-01 18:11:00,2016-10-31,1900-01-01 18:20:00,2016,Evening,9.0,Oct
+Business,Morrisville,Raleigh,16.58,Meeting,2016-10-31,1900-01-01 18:47:00,2016-10-31,1900-01-01 19:16:00,2016,Evening,29.0,Oct
+Business,Raleigh,Cary,21.08,Meeting,2016-10-31,1900-01-01 20:18:00,2016-10-31,1900-01-01 20:44:00,2016,Evening,26.0,Oct
+Business,Savon Height,Whitebridge,15.45,Errand/Supplies,2016-10-31,1900-01-01 21:45:00,2016-10-31,1900-01-01 22:10:00,2016,Night,25.0,Oct
+Business,Cary,Durham,26.55,Errand/Supplies,2016-11-01,1900-01-01 11:50:00,2016-11-01,1900-01-01 12:27:00,2016,Morning,37.0,Nov
+Business,Durham,Cary,20.6,Errand/Supplies,2016-11-01,1900-01-01 16:29:00,2016-11-01,1900-01-01 17:02:00,2016,Afternoon,33.0,Nov
+Business,Whitebridge,Whitebridge,1.93,Errand/Supplies,2016-11-01,1900-01-01 17:35:00,2016-11-01,1900-01-01 17:42:00,2016,Evening,7.0,Nov
+Business,Whitebridge,Whitebridge,1.61,Errand/Supplies,2016-11-01,1900-01-01 19:14:00,2016-11-01,1900-01-01 19:20:00,2016,Evening,6.0,Nov
+Business,Whitebridge,Whitebridge,6.6,Errand/Supplies,2016-11-01,1900-01-01 19:59:00,2016-11-01,1900-01-01 20:12:00,2016,Evening,13.0,Nov
+Business,Whitebridge,Whitebridge,6.76,Meal/Entertain,2016-11-01,1900-01-01 20:41:00,2016-11-01,1900-01-01 20:55:00,2016,Evening,14.0,Nov
+Business,Whitebridge,Westpark Place,2.25,Meal/Entertain,2016-11-02,1900-01-01 15:10:00,2016-11-02,1900-01-01 15:18:00,2016,Afternoon,8.0,Nov
+Business,Westpark Place,Whitebridge,2.9,Meal/Entertain,2016-11-02,1900-01-01 15:45:00,2016-11-02,1900-01-01 15:52:00,2016,Afternoon,7.0,Nov
+Business,Cary,Morrisville,13.68,Meeting,2016-11-02,1900-01-01 16:46:00,2016-11-02,1900-01-01 17:11:00,2016,Afternoon,25.0,Nov
+Business,Morrisville,Morrisville,8.05,Meeting,2016-11-02,1900-01-01 17:34:00,2016-11-02,1900-01-01 17:49:00,2016,Evening,15.0,Nov
+Business,Morrisville,Cary,6.12,Meeting,2016-11-02,1900-01-01 17:53:00,2016-11-02,1900-01-01 18:00:00,2016,Evening,7.0,Nov
+Business,Whitebridge,Hazelwood,4.02,Meeting,2016-11-03,1900-01-01 11:28:00,2016-11-03,1900-01-01 11:34:00,2016,Morning,6.0,Nov
+Business,Hazelwood,Whitebridge,3.86,Meeting,2016-11-03,1900-01-01 12:43:00,2016-11-03,1900-01-01 12:49:00,2016,Afternoon,6.0,Nov
+Business,Whitebridge,Westpark Place,2.25,Meeting,2016-11-03,1900-01-01 13:42:00,2016-11-03,1900-01-01 13:47:00,2016,Afternoon,5.0,Nov
+Business,Westpark Place,Whitebridge,2.9,Meeting,2016-11-03,1900-01-01 14:13:00,2016-11-03,1900-01-01 14:26:00,2016,Afternoon,13.0,Nov
+Business,Cary,Morrisville,4.99,Meal/Entertain,2016-11-03,1900-01-01 18:51:00,2016-11-03,1900-01-01 19:08:00,2016,Evening,17.0,Nov
+Business,Morrisville,Cary,4.99,Customer Visit,2016-11-03,1900-01-01 22:46:00,2016-11-03,1900-01-01 22:58:00,2016,Night,12.0,Nov
+Business,Cary,Morrisville,12.71,Temporary Site,2016-11-04,1900-01-01 10:02:00,2016-11-04,1900-01-01 10:18:00,2016,Morning,16.0,Nov
+Business,San Jose,Santa Clara,6.12,Temporary Site,2016-11-04,1900-01-01 18:14:00,2016-11-04,1900-01-01 18:21:00,2016,Evening,7.0,Nov
+Business,Agnew,Cory,6.92,Temporary Site,2016-11-04,1900-01-01 21:04:00,2016-11-04,1900-01-01 21:20:00,2016,Night,16.0,Nov
+Business,Cory,Agnew,6.28,Temporary Site,2016-11-04,1900-01-01 22:12:00,2016-11-04,1900-01-01 22:25:00,2016,Night,13.0,Nov
+Business,Agnew,Renaissance,3.54,Temporary Site,2016-11-05,1900-01-01 08:34:00,2016-11-05,1900-01-01 08:43:00,2016,Morning,9.0,Nov
+Business,Renaissance,Agnew,4.51,Temporary Site,2016-11-05,1900-01-01 17:29:00,2016-11-05,1900-01-01 17:40:00,2016,Evening,11.0,Nov
+Business,Agnew,Agnew,3.54,Temporary Site,2016-11-05,1900-01-01 19:20:00,2016-11-05,1900-01-01 19:28:00,2016,Evening,8.0,Nov
+Business,Agnew,Renaissance,3.86,Temporary Site,2016-11-06,1900-01-01 10:50:00,2016-11-06,1900-01-01 11:04:00,2016,Morning,14.0,Nov
+Business,Renaissance,Agnew,4.51,Meeting,2016-11-06,1900-01-01 16:05:00,2016-11-06,1900-01-01 16:22:00,2016,Afternoon,17.0,Nov
+Business,Santa Clara,Berkeley,70.65,Customer Visit,2016-11-06,1900-01-01 16:27:00,2016-11-06,1900-01-01 17:28:00,2016,Afternoon,61.0,Nov
+Business,Downtown,West Berkeley,2.9,Customer Visit,2016-11-06,1900-01-01 19:04:00,2016-11-06,1900-01-01 19:12:00,2016,Evening,8.0,Nov
+Business,West Berkeley,Central,5.31,Customer Visit,2016-11-06,1900-01-01 20:06:00,2016-11-06,1900-01-01 20:21:00,2016,Evening,15.0,Nov
+Business,Berkeley,San Francisco,18.99,Between Offices,2016-11-07,1900-01-01 12:28:00,2016-11-07,1900-01-01 12:57:00,2016,Afternoon,29.0,Nov
+Business,San Francisco,Berkeley,21.24,Between Offices,2016-11-07,1900-01-01 19:17:00,2016-11-07,1900-01-01 19:57:00,2016,Evening,40.0,Nov
+Business,Berkeley,San Francisco,19.63,Between Offices,2016-11-08,1900-01-01 10:29:00,2016-11-08,1900-01-01 10:57:00,2016,Morning,28.0,Nov
+Business,San Francisco,Berkeley,18.19,Meeting,2016-11-08,1900-01-01 12:16:00,2016-11-08,1900-01-01 12:49:00,2016,Afternoon,33.0,Nov
+Business,Berkeley,Emeryville,5.79,Meeting,2016-11-08,1900-01-01 13:41:00,2016-11-08,1900-01-01 14:01:00,2016,Afternoon,20.0,Nov
+Business,Emeryville,Berkeley,4.83,Meeting,2016-11-08,1900-01-01 16:21:00,2016-11-08,1900-01-01 16:34:00,2016,Afternoon,13.0,Nov
+Business,Berkeley,San Francisco,18.35,Meeting,2016-11-09,1900-01-01 13:08:00,2016-11-09,1900-01-01 13:41:00,2016,Afternoon,33.0,Nov
+Business,NOMA,Downtown,1.45,Meeting,2016-11-09,1900-01-01 15:58:00,2016-11-09,1900-01-01 16:04:00,2016,Afternoon,6.0,Nov
+Business,Downtown,Sunnyside,9.98,Meeting,2016-11-09,1900-01-01 17:31:00,2016-11-09,1900-01-01 18:03:00,2016,Evening,32.0,Nov
+Business,Sunnyside,Ingleside,1.13,Meeting,2016-11-09,1900-01-01 18:09:00,2016-11-09,1900-01-01 18:14:00,2016,Evening,5.0,Nov
+Business,Ingleside,Potrero Flats,8.85,Meeting,2016-11-09,1900-01-01 18:21:00,2016-11-09,1900-01-01 18:35:00,2016,Evening,14.0,Nov
+Business,San Francisco,Oakland,20.44,Customer Visit,2016-11-09,1900-01-01 18:40:00,2016-11-09,1900-01-01 19:17:00,2016,Evening,37.0,Nov
+Business,Oakland,Berkeley,4.18,Customer Visit,2016-11-09,1900-01-01 20:52:00,2016-11-09,1900-01-01 21:02:00,2016,Evening,10.0,Nov
+Business,Central,Central,1.77,Customer Visit,2016-11-09,1900-01-01 21:56:00,2016-11-09,1900-01-01 22:02:00,2016,Night,6.0,Nov
+Business,Berkeley,San Francisco,20.28,Temporary Site,2016-11-10,1900-01-01 09:46:00,2016-11-10,1900-01-01 10:15:00,2016,Morning,29.0,Nov
+Business,Tenderloin,SOMISSPO,1.93,Temporary Site,2016-11-10,1900-01-01 10:20:00,2016-11-10,1900-01-01 10:31:00,2016,Morning,11.0,Nov
+Business,SOMISSPO,Tenderloin,1.77,Temporary Site,2016-11-10,1900-01-01 14:57:00,2016-11-10,1900-01-01 15:07:00,2016,Afternoon,10.0,Nov
+Business,San Francisco,Oakland,15.93,Temporary Site,2016-11-10,1900-01-01 15:17:00,2016-11-10,1900-01-01 15:22:00,2016,Afternoon,5.0,Nov
+Business,Oakland,Berkeley,9.66,Meeting,2016-11-10,1900-01-01 15:30:00,2016-11-10,1900-01-01 15:53:00,2016,Afternoon,23.0,Nov
+Business,West Berkeley,Central,1.29,Meeting,2016-11-10,1900-01-01 19:18:00,2016-11-10,1900-01-01 19:21:00,2016,Evening,3.0,Nov
+Business,Berkeley,Menlo Park,73.87,Customer Visit,2016-11-11,1900-01-01 09:35:00,2016-11-11,1900-01-01 10:23:00,2016,Morning,48.0,Nov
+Business,Menlo Park,Palo Alto,6.44,Customer Visit,2016-11-11,1900-01-01 12:58:00,2016-11-11,1900-01-01 13:13:00,2016,Afternoon,15.0,Nov
+Business,Palo Alto,Menlo Park,4.02,Customer Visit,2016-11-11,1900-01-01 14:20:00,2016-11-11,1900-01-01 14:32:00,2016,Afternoon,12.0,Nov
+Business,Menlo Park,Berkeley,58.9,Customer Visit,2016-11-11,1900-01-01 14:39:00,2016-11-11,1900-01-01 15:46:00,2016,Afternoon,67.0,Nov
+Business,Central,College Avenue,4.67,Customer Visit,2016-11-11,1900-01-01 18:30:00,2016-11-11,1900-01-01 18:43:00,2016,Evening,13.0,Nov
+Business,College Avenue,Central,4.18,Customer Visit,2016-11-11,1900-01-01 21:08:00,2016-11-11,1900-01-01 21:18:00,2016,Night,10.0,Nov
+Business,Central,South,3.7,Customer Visit,2016-11-12,1900-01-01 10:32:00,2016-11-12,1900-01-01 10:52:00,2016,Morning,20.0,Nov
+Business,South,Downtown,10.3,Customer Visit,2016-11-12,1900-01-01 10:55:00,2016-11-12,1900-01-01 11:25:00,2016,Morning,30.0,Nov
+Business,Downtown,Central,2.25,Customer Visit,2016-11-12,1900-01-01 13:07:00,2016-11-12,1900-01-01 13:15:00,2016,Afternoon,8.0,Nov
+Business,Central,West Berkeley,0.97,Customer Visit,2016-11-12,1900-01-01 13:46:00,2016-11-12,1900-01-01 13:50:00,2016,Afternoon,4.0,Nov
+Business,West Berkeley,South,9.5,Meeting,2016-11-12,1900-01-01 14:22:00,2016-11-12,1900-01-01 14:53:00,2016,Afternoon,31.0,Nov
+Business,South,Southwest Berkeley,1.29,Meeting,2016-11-12,1900-01-01 15:14:00,2016-11-12,1900-01-01 15:21:00,2016,Afternoon,7.0,Nov
+Business,Berkeley,Emeryville,2.09,Meeting,2016-11-12,1900-01-01 15:25:00,2016-11-12,1900-01-01 15:36:00,2016,Afternoon,11.0,Nov
+Business,Emeryville,Berkeley,5.95,Errand/Supplies,2016-11-12,1900-01-01 15:40:00,2016-11-12,1900-01-01 15:59:00,2016,Afternoon,19.0,Nov
+Business,Central,Central,3.7,Errand/Supplies,2016-11-13,1900-01-01 08:54:00,2016-11-13,1900-01-01 09:02:00,2016,Morning,8.0,Nov
+Business,Central,Central,4.18,Errand/Supplies,2016-11-13,1900-01-01 09:27:00,2016-11-13,1900-01-01 09:53:00,2016,Morning,26.0,Nov
+Business,Central,Southside,3.06,Errand/Supplies,2016-11-13,1900-01-01 10:31:00,2016-11-13,1900-01-01 10:37:00,2016,Morning,6.0,Nov
+Business,Southside,West Berkeley,3.38,Errand/Supplies,2016-11-13,1900-01-01 11:04:00,2016-11-13,1900-01-01 11:16:00,2016,Morning,12.0,Nov
+Business,West Berkeley,Southside,6.44,Meeting,2016-11-13,1900-01-01 12:22:00,2016-11-13,1900-01-01 12:51:00,2016,Afternoon,29.0,Nov
+Business,Southside,South Berkeley,1.45,Meeting,2016-11-13,1900-01-01 13:05:00,2016-11-13,1900-01-01 13:11:00,2016,Afternoon,6.0,Nov
+Business,South Berkeley,Southside,1.45,Meeting,2016-11-13,1900-01-01 13:14:00,2016-11-13,1900-01-01 13:18:00,2016,Afternoon,4.0,Nov
+Business,Southside,Central,3.86,Meeting,2016-11-13,1900-01-01 14:35:00,2016-11-13,1900-01-01 14:46:00,2016,Afternoon,11.0,Nov
+Business,Central,Southside,3.06,Meeting,2016-11-13,1900-01-01 15:14:00,2016-11-13,1900-01-01 15:24:00,2016,Afternoon,10.0,Nov
+Business,Southside,Central,3.06,Meeting,2016-11-13,1900-01-01 15:47:00,2016-11-13,1900-01-01 15:59:00,2016,Afternoon,12.0,Nov
+Business,Berkeley,Mountain View,71.78,Customer Visit,2016-11-14,1900-01-01 11:24:00,2016-11-14,1900-01-01 12:13:00,2016,Morning,49.0,Nov
+Business,Mountain View,Berkeley,70.17,Customer Visit,2016-11-14,1900-01-01 13:40:00,2016-11-14,1900-01-01 14:33:00,2016,Afternoon,53.0,Nov
+Business,Berkeley,Emeryville,4.02,Customer Visit,2016-11-14,1900-01-01 15:27:00,2016-11-14,1900-01-01 15:36:00,2016,Afternoon,9.0,Nov
+Business,Emeryville,Berkeley,5.95,Errand/Supplies,2016-11-14,1900-01-01 20:19:00,2016-11-14,1900-01-01 20:30:00,2016,Evening,11.0,Nov
+Business,Berkeley,Oakland,8.21,Errand/Supplies,2016-11-15,1900-01-01 13:59:00,2016-11-15,1900-01-01 14:06:00,2016,Afternoon,7.0,Nov
+Business,Oakland,San Francisco,15.61,Temporary Site,2016-11-15,1900-01-01 14:09:00,2016-11-15,1900-01-01 14:26:00,2016,Afternoon,17.0,Nov
+Business,San Francisco,Berkeley,18.99,Temporary Site,2016-11-15,1900-01-01 20:44:00,2016-11-15,1900-01-01 21:00:00,2016,Evening,16.0,Nov
+Business,Berkeley,El Cerrito,3.7,Temporary Site,2016-11-16,1900-01-01 20:21:00,2016-11-16,1900-01-01 20:27:00,2016,Evening,6.0,Nov
+Business,El Cerrito,Berkeley,4.99,Meal/Entertain,2016-11-16,1900-01-01 22:52:00,2016-11-16,1900-01-01 23:02:00,2016,Night,10.0,Nov
+Business,Berkeley,Oakland,26.23,Customer Visit,2016-11-17,1900-01-01 10:13:00,2016-11-17,1900-01-01 10:44:00,2016,Morning,31.0,Nov
+Business,Cary,Morrisville,4.99,Meal/Entertain,2016-11-18,1900-01-01 20:09:00,2016-11-18,1900-01-01 20:19:00,2016,Evening,10.0,Nov
+Business,Morrisville,Cary,8.37,Meal/Entertain,2016-11-18,1900-01-01 21:23:00,2016-11-18,1900-01-01 21:34:00,2016,Night,11.0,Nov
+Business,Krendle Woods,Whitebridge,9.82,Meeting,2016-11-18,1900-01-01 21:56:00,2016-11-18,1900-01-01 22:21:00,2016,Night,25.0,Nov
+Business,Cary,Durham,16.58,Meeting,2016-11-19,1900-01-01 13:51:00,2016-11-19,1900-01-01 14:10:00,2016,Afternoon,19.0,Nov
+Business,Durham,Cary,16.9,Meeting,2016-11-19,1900-01-01 14:30:00,2016-11-19,1900-01-01 14:51:00,2016,Afternoon,21.0,Nov
+Business,Cary,Cary,2.41,Meeting,2016-11-19,1900-01-01 16:01:00,2016-11-19,1900-01-01 16:06:00,2016,Afternoon,5.0,Nov
+Business,Cary,Cary,2.9,Meeting,2016-11-19,1900-01-01 16:27:00,2016-11-19,1900-01-01 16:41:00,2016,Afternoon,14.0,Nov
+Business,Cary,Apex,8.69,Errand/Supplies,2016-11-19,1900-01-01 17:41:00,2016-11-19,1900-01-01 17:54:00,2016,Evening,13.0,Nov
+Business,Apex,Cary,8.69,Customer Visit,2016-11-19,1900-01-01 21:14:00,2016-11-19,1900-01-01 21:35:00,2016,Night,21.0,Nov
+Business,Cary,Cary,63.09,Between Offices,2016-11-20,1900-01-01 10:27:00,2016-11-20,1900-01-01 11:32:00,2016,Morning,65.0,Nov
+Business,Cary,Cary,10.3,Customer Visit,2016-11-20,1900-01-01 11:58:00,2016-11-20,1900-01-01 12:28:00,2016,Morning,30.0,Nov
+Business,Cary,Cary,4.35,Meeting,2016-11-20,1900-01-01 14:58:00,2016-11-20,1900-01-01 15:07:00,2016,Afternoon,9.0,Nov
+Business,Cary,Cary,29.77,Errand/Supplies,2016-11-20,1900-01-01 17:45:00,2016-11-20,1900-01-01 18:37:00,2016,Evening,52.0,Nov
+Business,Cary,Cary,4.02,Meal/Entertain,2016-11-21,1900-01-01 13:37:00,2016-11-21,1900-01-01 13:49:00,2016,Afternoon,12.0,Nov
+Business,Cary,Cary,3.38,Meal/Entertain,2016-11-21,1900-01-01 14:34:00,2016-11-21,1900-01-01 14:44:00,2016,Afternoon,10.0,Nov
+Business,Cary,Unknown Location,10.78,Errand/Supplies,2016-11-21,1900-01-01 17:50:00,2016-11-21,1900-01-01 18:04:00,2016,Evening,14.0,Nov
+Business,Unknown Location,Morrisville,5.63,Meal/Entertain,2016-11-21,1900-01-01 18:18:00,2016-11-21,1900-01-01 18:27:00,2016,Evening,9.0,Nov
+Business,Morrisville,Cary,5.47,Errand/Supplies,2016-11-21,1900-01-01 18:43:00,2016-11-21,1900-01-01 18:51:00,2016,Evening,8.0,Nov
+Business,Cary,Cary,8.85,Meeting,2016-11-22,1900-01-01 15:12:00,2016-11-22,1900-01-01 15:27:00,2016,Afternoon,15.0,Nov
+Business,Cary,Cary,6.6,Meeting,2016-11-22,1900-01-01 15:31:00,2016-11-22,1900-01-01 15:44:00,2016,Afternoon,13.0,Nov
+Business,Cary,Cary,20.44,Customer Visit,2016-11-22,1900-01-01 15:51:00,2016-11-22,1900-01-01 16:43:00,2016,Afternoon,52.0,Nov
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-11-22,1900-01-01 18:18:00,2016-11-22,1900-01-01 18:28:00,2016,Evening,10.0,Nov
+Business,Morrisville,Cary,5.63,Customer Visit,2016-11-22,1900-01-01 21:02:00,2016-11-22,1900-01-01 21:14:00,2016,Night,12.0,Nov
+Business,Cary,Cary,9.5,Meal/Entertain,2016-11-23,1900-01-01 15:34:00,2016-11-23,1900-01-01 15:50:00,2016,Afternoon,16.0,Nov
+Business,Cary,Cary,3.06,Meal/Entertain,2016-11-23,1900-01-01 16:18:00,2016-11-23,1900-01-01 16:29:00,2016,Afternoon,11.0,Nov
+Business,Cary,Cary,5.31,Meal/Entertain,2016-11-23,1900-01-01 16:49:00,2016-11-23,1900-01-01 17:00:00,2016,Afternoon,11.0,Nov
+Business,Cary,Cary,2.09,Meal/Entertain,2016-11-23,1900-01-01 18:37:00,2016-11-23,1900-01-01 18:47:00,2016,Evening,10.0,Nov
+Business,Cary,Durham,16.58,Meeting,2016-11-25,1900-01-01 11:47:00,2016-11-25,1900-01-01 12:04:00,2016,Morning,17.0,Nov
+Business,Durham,Cary,17.86,Meeting,2016-11-25,1900-01-01 13:13:00,2016-11-25,1900-01-01 13:31:00,2016,Afternoon,18.0,Nov
+Business,Cary,Cary,2.25,Meeting,2016-11-26,1900-01-01 15:54:00,2016-11-26,1900-01-01 15:59:00,2016,Afternoon,5.0,Nov
+Business,Cary,Apex,8.21,Meeting,2016-11-26,1900-01-01 17:00:00,2016-11-26,1900-01-01 17:12:00,2016,Evening,12.0,Nov
+Business,Apex,Holly Springs,14.48,Meeting,2016-11-26,1900-01-01 17:36:00,2016-11-26,1900-01-01 17:56:00,2016,Evening,20.0,Nov
+Business,Holly Springs,Cary,21.4,Between Offices,2016-11-26,1900-01-01 18:29:00,2016-11-26,1900-01-01 19:04:00,2016,Evening,35.0,Nov
+Business,Cary,Cary,4.02,Errand/Supplies,2016-11-26,1900-01-01 19:47:00,2016-11-26,1900-01-01 19:54:00,2016,Evening,7.0,Nov
+Business,Cary,Morrisville,5.31,Meal/Entertain,2016-11-27,1900-01-01 15:59:00,2016-11-27,1900-01-01 16:06:00,2016,Afternoon,7.0,Nov
+Business,Morrisville,Cary,4.67,Meal/Entertain,2016-11-27,1900-01-01 18:55:00,2016-11-27,1900-01-01 19:09:00,2016,Evening,14.0,Nov
+Business,Cary,Raleigh,13.68,Customer Visit,2016-11-30,1900-01-01 11:03:00,2016-11-30,1900-01-01 11:34:00,2016,Morning,31.0,Nov
+Business,Raleigh,Morrisville,10.78,Temporary Site,2016-11-30,1900-01-01 11:53:00,2016-11-30,1900-01-01 12:35:00,2016,Morning,42.0,Nov
+Business,Morrisville,Cary,4.99,Temporary Site,2016-11-30,1900-01-01 12:43:00,2016-11-30,1900-01-01 12:53:00,2016,Afternoon,10.0,Nov
+Business,Cary,Cary,8.85,Meeting,2016-12-01,1900-01-01 07:44:00,2016-12-01,1900-01-01 07:59:00,2016,Morning,15.0,Dec
+Business,Cary,Cary,8.85,Errand/Supplies,2016-12-01,1900-01-01 08:37:00,2016-12-01,1900-01-01 08:53:00,2016,Morning,16.0,Dec
+Business,Cary,Morrisville,4.67,Meal/Entertain,2016-12-01,1900-01-01 18:00:00,2016-12-01,1900-01-01 18:12:00,2016,Evening,12.0,Dec
+Business,Morrisville,Cary,4.67,Customer Visit,2016-12-01,1900-01-01 20:36:00,2016-12-01,1900-01-01 20:46:00,2016,Evening,10.0,Dec
+Business,Cary,Apex,8.21,Meal/Entertain,2016-12-02,1900-01-01 12:12:00,2016-12-02,1900-01-01 12:23:00,2016,Afternoon,11.0,Dec
+Business,Apex,Cary,8.53,Customer Visit,2016-12-02,1900-01-01 13:07:00,2016-12-02,1900-01-01 13:22:00,2016,Afternoon,15.0,Dec
+Business,Cary,Morrisville,5.31,Meal/Entertain,2016-12-02,1900-01-01 20:41:00,2016-12-02,1900-01-01 20:48:00,2016,Evening,7.0,Dec
+Business,Morrisville,Cary,4.83,Customer Visit,2016-12-02,1900-01-01 22:59:00,2016-12-02,1900-01-01 23:07:00,2016,Night,8.0,Dec
+Business,Cary,Wake Co.,10.62,Errand/Supplies,2016-12-03,1900-01-01 18:35:00,2016-12-03,1900-01-01 18:56:00,2016,Evening,21.0,Dec
+Business,Wake Co.,Morrisville,2.9,Errand/Supplies,2016-12-03,1900-01-01 19:08:00,2016-12-03,1900-01-01 19:15:00,2016,Evening,7.0,Dec
+Business,Morrisville,Cary,4.83,Customer Visit,2016-12-03,1900-01-01 20:31:00,2016-12-03,1900-01-01 20:41:00,2016,Evening,10.0,Dec
+Business,Cary,Morrisville,4.67,Meal/Entertain,2016-12-04,1900-01-01 18:56:00,2016-12-04,1900-01-01 19:03:00,2016,Evening,7.0,Dec
+Business,Morrisville,Cary,5.47,Customer Visit,2016-12-04,1900-01-01 20:23:00,2016-12-04,1900-01-01 20:34:00,2016,Evening,11.0,Dec
+Business,Cary,Cary,6.6,Customer Visit,2016-12-05,1900-01-01 18:04:00,2016-12-05,1900-01-01 18:17:00,2016,Evening,13.0,Dec
+Business,Cary,Cary,6.12,Meal/Entertain,2016-12-05,1900-01-01 19:22:00,2016-12-05,1900-01-01 19:37:00,2016,Evening,15.0,Dec
+Business,Cary,Cary,10.62,Meeting,2016-12-07,1900-01-01 12:03:00,2016-12-07,1900-01-01 12:32:00,2016,Afternoon,29.0,Dec
+Business,Cary,Cary,6.44,Meeting,2016-12-07,1900-01-01 12:35:00,2016-12-07,1900-01-01 12:46:00,2016,Afternoon,11.0,Dec
+Business,Cary,Cary,11.27,Customer Visit,2016-12-07,1900-01-01 19:53:00,2016-12-07,1900-01-01 20:13:00,2016,Evening,20.0,Dec
+Business,Cary,Cary,11.1,Meal/Entertain,2016-12-07,1900-01-01 21:13:00,2016-12-07,1900-01-01 21:50:00,2016,Night,37.0,Dec
+Business,Cary,Cary,5.47,Errand/Supplies,2016-12-08,1900-01-01 14:19:00,2016-12-08,1900-01-01 14:32:00,2016,Afternoon,13.0,Dec
+Business,Cary,Cary,5.47,Errand/Supplies,2016-12-08,1900-01-01 14:53:00,2016-12-08,1900-01-01 15:02:00,2016,Afternoon,9.0,Dec
+Business,Cary,Cary,3.22,Meeting,2016-12-08,1900-01-01 19:22:00,2016-12-08,1900-01-01 19:27:00,2016,Evening,5.0,Dec
+Business,Cary,Cary,3.22,Errand/Supplies,2016-12-08,1900-01-01 21:26:00,2016-12-08,1900-01-01 21:31:00,2016,Night,5.0,Dec
+Business,Cary,Apex,8.21,Errand/Supplies,2016-12-09,1900-01-01 12:09:00,2016-12-09,1900-01-01 12:24:00,2016,Afternoon,15.0,Dec
+Business,Apex,Cary,14.16,Temporary Site,2016-12-09,1900-01-01 13:15:00,2016-12-09,1900-01-01 13:43:00,2016,Afternoon,28.0,Dec
+Business,Cary,Cary,9.01,Meeting,2016-12-09,1900-01-01 20:11:00,2016-12-09,1900-01-01 20:34:00,2016,Evening,23.0,Dec
+Business,Cary,Cary,30.42,Customer Visit,2016-12-09,1900-01-01 22:03:00,2016-12-09,1900-01-01 22:57:00,2016,Night,54.0,Dec
+Business,Cary,Fuquay-Varina,25.11,Meeting,2016-12-10,1900-01-01 12:43:00,2016-12-10,1900-01-01 13:16:00,2016,Afternoon,33.0,Dec
+Business,Fuquay-Varina,Cary,25.11,Errand/Supplies,2016-12-10,1900-01-01 14:42:00,2016-12-10,1900-01-01 15:18:00,2016,Afternoon,36.0,Dec
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-12-10,1900-01-01 18:17:00,2016-12-10,1900-01-01 18:27:00,2016,Evening,10.0,Dec
+Business,Morrisville,Cary,4.99,Customer Visit,2016-12-10,1900-01-01 22:09:00,2016-12-10,1900-01-01 22:21:00,2016,Night,12.0,Dec
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-12-11,1900-01-01 16:06:00,2016-12-11,1900-01-01 16:16:00,2016,Afternoon,10.0,Dec
+Business,Morrisville,Cary,7.72,Errand/Supplies,2016-12-11,1900-01-01 19:05:00,2016-12-11,1900-01-01 19:15:00,2016,Evening,10.0,Dec
+Business,Cary,Cary,3.38,Errand/Supplies,2016-12-11,1900-01-01 21:48:00,2016-12-11,1900-01-01 21:56:00,2016,Night,8.0,Dec
+Business,Cary,Cary,4.99,Errand/Supplies,2016-12-12,1900-01-01 13:22:00,2016-12-12,1900-01-01 13:32:00,2016,Afternoon,10.0,Dec
+Business,Cary,Apex,7.08,Meal/Entertain,2016-12-12,1900-01-01 13:36:00,2016-12-12,1900-01-01 13:51:00,2016,Afternoon,15.0,Dec
+Business,Apex,Cary,7.56,Customer Visit,2016-12-12,1900-01-01 14:26:00,2016-12-12,1900-01-01 14:39:00,2016,Afternoon,13.0,Dec
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-12-12,1900-01-01 17:51:00,2016-12-12,1900-01-01 18:01:00,2016,Evening,10.0,Dec
+Business,Morrisville,Cary,4.83,Customer Visit,2016-12-12,1900-01-01 20:48:00,2016-12-12,1900-01-01 20:57:00,2016,Evening,9.0,Dec
+Business,Cary,Cary,6.76,Errand/Supplies,2016-12-13,1900-01-01 18:19:00,2016-12-13,1900-01-01 18:29:00,2016,Evening,10.0,Dec
+Business,Cary,Cary,6.6,Meal/Entertain,2016-12-13,1900-01-01 20:20:00,2016-12-13,1900-01-01 20:29:00,2016,Evening,9.0,Dec
+Business,Cary,Cary,5.47,Meal/Entertain,2016-12-14,1900-01-01 16:52:00,2016-12-14,1900-01-01 17:10:00,2016,Afternoon,18.0,Dec
+Business,Cary,Cary,5.31,Meal/Entertain,2016-12-14,1900-01-01 17:22:00,2016-12-14,1900-01-01 17:34:00,2016,Evening,12.0,Dec
+Business,Cary,Morrisville,4.83,Meal/Entertain,2016-12-14,1900-01-01 17:50:00,2016-12-14,1900-01-01 18:00:00,2016,Evening,10.0,Dec
+Business,Morrisville,Cary,4.99,Customer Visit,2016-12-14,1900-01-01 20:24:00,2016-12-14,1900-01-01 20:40:00,2016,Evening,16.0,Dec
+Business,Cary,Morrisville,17.06,Meeting,2016-12-15,1900-01-01 14:20:00,2016-12-15,1900-01-01 14:54:00,2016,Afternoon,34.0,Dec
+Business,Unknown Location,Unknown Location,7.72,Airport/Travel,2016-12-17,1900-01-01 15:38:00,2016-12-17,1900-01-01 16:12:00,2016,Afternoon,34.0,Dec
+Business,Unknown Location,Unknown Location,8.53,Temporary Site,2016-12-17,1900-01-01 17:19:00,2016-12-17,1900-01-01 17:59:00,2016,Evening,40.0,Dec
+Business,Unknown Location,Unknown Location,7.89,Errand/Supplies,2016-12-18,1900-01-01 13:03:00,2016-12-18,1900-01-01 13:41:00,2016,Afternoon,38.0,Dec
+Business,Unknown Location,Unknown Location,16.42,Errand/Supplies,2016-12-18,1900-01-01 16:38:00,2016-12-18,1900-01-01 17:25:00,2016,Afternoon,47.0,Dec
+Business,Unknown Location,Unknown Location,14.81,Errand/Supplies,2016-12-18,1900-01-01 20:35:00,2016-12-18,1900-01-01 21:04:00,2016,Evening,29.0,Dec
+Business,Unknown Location,Islamabad,12.39,Errand/Supplies,2016-12-19,1900-01-01 09:08:00,2016-12-19,1900-01-01 09:36:00,2016,Morning,28.0,Dec
+Business,Islamabad,Rawalpindi,9.5,Temporary Site,2016-12-19,1900-01-01 10:15:00,2016-12-19,1900-01-01 10:34:00,2016,Morning,19.0,Dec
+Business,Rawalpindi,Unknown Location,1.13,Errand/Supplies,2016-12-19,1900-01-01 13:04:00,2016-12-19,1900-01-01 13:08:00,2016,Afternoon,4.0,Dec
+Business,Unknown Location,Unknown Location,2.09,Errand/Supplies,2016-12-19,1900-01-01 13:24:00,2016-12-19,1900-01-01 13:35:00,2016,Afternoon,11.0,Dec
+Business,Unknown Location,Unknown Location,4.02,Errand/Supplies,2016-12-19,1900-01-01 14:07:00,2016-12-19,1900-01-01 14:15:00,2016,Afternoon,8.0,Dec
+Business,Unknown Location,Unknown Location,8.53,Errand/Supplies,2016-12-19,1900-01-01 14:18:00,2016-12-19,1900-01-01 14:32:00,2016,Afternoon,14.0,Dec
+Business,Unknown Location,Unknown Location,8.69,Errand/Supplies,2016-12-19,1900-01-01 14:37:00,2016-12-19,1900-01-01 14:50:00,2016,Afternoon,13.0,Dec
+Business,Unknown Location,Rawalpindi,16.42,Customer Visit,2016-12-19,1900-01-01 15:09:00,2016-12-19,1900-01-01 15:38:00,2016,Afternoon,29.0,Dec
+Business,Rawalpindi,Islamabad,11.59,Customer Visit,2016-12-19,1900-01-01 16:50:00,2016-12-19,1900-01-01 17:09:00,2016,Afternoon,19.0,Dec
+Business,Islamabad,Unknown Location,3.54,Customer Visit,2016-12-19,1900-01-01 19:05:00,2016-12-19,1900-01-01 19:17:00,2016,Evening,12.0,Dec
+Business,Unknown Location,Unknown Location,17.7,Meeting,2016-12-19,1900-01-01 19:55:00,2016-12-19,1900-01-01 20:30:00,2016,Evening,35.0,Dec
+Business,Unknown Location,Rawalpindi,19.31,Meeting,2016-12-20,1900-01-01 08:49:00,2016-12-20,1900-01-01 09:24:00,2016,Morning,35.0,Dec
+Business,Rawalpindi,Rawalpindi,5.31,Errand/Supplies,2016-12-20,1900-01-01 10:30:00,2016-12-20,1900-01-01 10:48:00,2016,Morning,18.0,Dec
+Business,Rawalpindi,Unknown Location,31.22,Meeting,2016-12-20,1900-01-01 11:30:00,2016-12-20,1900-01-01 12:17:00,2016,Morning,47.0,Dec
+Business,Unknown Location,Unknown Location,2.74,Errand/Supplies,2016-12-20,1900-01-01 13:14:00,2016-12-20,1900-01-01 13:20:00,2016,Afternoon,6.0,Dec
+Business,Unknown Location,Islamabad,9.17,Temporary Site,2016-12-20,1900-01-01 13:54:00,2016-12-20,1900-01-01 14:17:00,2016,Afternoon,23.0,Dec
+Business,Islamabad,Islamabad,2.9,Errand/Supplies,2016-12-20,1900-01-01 16:14:00,2016-12-20,1900-01-01 16:24:00,2016,Afternoon,10.0,Dec
+Business,Islamabad,Islamabad,2.25,Errand/Supplies,2016-12-20,1900-01-01 16:56:00,2016-12-20,1900-01-01 17:07:00,2016,Afternoon,11.0,Dec
+Business,Islamabad,Unknown Location,16.58,Customer Visit,2016-12-20,1900-01-01 18:47:00,2016-12-20,1900-01-01 19:21:00,2016,Evening,34.0,Dec
+Business,Unknown Location,Unknown Location,18.51,Meeting,2016-12-21,1900-01-01 07:42:00,2016-12-21,1900-01-01 08:10:00,2016,Morning,28.0,Dec
+Business,Unknown Location,Islamabad,7.89,Errand/Supplies,2016-12-21,1900-01-01 10:14:00,2016-12-21,1900-01-01 10:30:00,2016,Morning,16.0,Dec
+Business,Islamabad,Unknown Location,5.63,Meal/Entertain,2016-12-21,1900-01-01 11:35:00,2016-12-21,1900-01-01 11:49:00,2016,Morning,14.0,Dec
+Business,Unknown Location,Unknown Location,26.07,Meeting,2016-12-21,1900-01-01 12:51:00,2016-12-21,1900-01-01 13:33:00,2016,Afternoon,42.0,Dec
+Business,Unknown Location,Unknown Location,3.22,Errand/Supplies,2016-12-21,1900-01-01 15:38:00,2016-12-21,1900-01-01 15:49:00,2016,Afternoon,11.0,Dec
+Business,Unknown Location,Islamabad,3.38,Errand/Supplies,2016-12-21,1900-01-01 15:55:00,2016-12-21,1900-01-01 16:05:00,2016,Afternoon,10.0,Dec
+Business,Islamabad,Islamabad,3.38,Meeting,2016-12-21,1900-01-01 17:45:00,2016-12-21,1900-01-01 17:54:00,2016,Evening,9.0,Dec
+Business,Islamabad,Unknown Location,11.59,Customer Visit,2016-12-21,1900-01-01 17:59:00,2016-12-21,1900-01-01 18:31:00,2016,Evening,32.0,Dec
+Business,Unknown Location,Rawalpindi,19.31,Meeting,2016-12-21,1900-01-01 19:49:00,2016-12-21,1900-01-01 20:35:00,2016,Evening,46.0,Dec
+Business,Rawalpindi,Unknown Location,165.76,Meeting,2016-12-21,1900-01-01 20:56:00,2016-12-21,1900-01-01 23:42:00,2016,Evening,166.0,Dec
+Business,Unknown Location,Unknown Location,51.98,Meeting,2016-12-22,1900-01-01 15:40:00,2016-12-22,1900-01-01 16:38:00,2016,Afternoon,58.0,Dec
+Business,Unknown Location,Unknown Location,8.53,Customer Visit,2016-12-22,1900-01-01 17:04:00,2016-12-22,1900-01-01 17:20:00,2016,Evening,16.0,Dec
+Business,Unknown Location,Unknown Location,18.67,Meeting,2016-12-22,1900-01-01 17:27:00,2016-12-22,1900-01-01 17:53:00,2016,Evening,26.0,Dec
+Business,Unknown Location,Unknown Location,37.34,Meeting,2016-12-22,1900-01-01 17:56:00,2016-12-22,1900-01-01 18:29:00,2016,Evening,33.0,Dec
+Business,Unknown Location,Unknown Location,5.15,Errand/Supplies,2016-12-22,1900-01-01 18:31:00,2016-12-22,1900-01-01 18:37:00,2016,Evening,6.0,Dec
+Business,Unknown Location,Unknown Location,19.79,Temporary Site,2016-12-22,1900-01-01 18:38:00,2016-12-22,1900-01-01 18:47:00,2016,Evening,9.0,Dec
+Business,Unknown Location,Lahore,22.53,Meeting,2016-12-22,1900-01-01 19:04:00,2016-12-22,1900-01-01 19:50:00,2016,Evening,46.0,Dec
+Business,Lahore,Lahore,3.38,Meal/Entertain,2016-12-22,1900-01-01 21:41:00,2016-12-22,1900-01-01 21:53:00,2016,Night,12.0,Dec
+Business,Lahore,Lahore,3.38,Customer Visit,2016-12-22,1900-01-01 23:27:00,2016-12-22,1900-01-01 23:32:00,2016,Night,5.0,Dec
+Business,Lahore,Lahore,4.83,Meeting,2016-12-23,1900-01-01 09:21:00,2016-12-23,1900-01-01 09:41:00,2016,Morning,20.0,Dec
+Business,Lahore,Unknown Location,9.98,Meeting,2016-12-23,1900-01-01 11:33:00,2016-12-23,1900-01-01 11:58:00,2016,Morning,25.0,Dec
+Business,Unknown Location,Unknown Location,15.45,Meeting,2016-12-23,1900-01-01 14:15:00,2016-12-23,1900-01-01 15:25:00,2016,Afternoon,70.0,Dec
+Business,Unknown Location,Unknown Location,2.09,Errand/Supplies,2016-12-23,1900-01-01 16:23:00,2016-12-23,1900-01-01 16:34:00,2016,Afternoon,11.0,Dec
+Business,Unknown Location,Lahore,11.43,Meal/Entertain,2016-12-23,1900-01-01 17:34:00,2016-12-23,1900-01-01 18:27:00,2016,Evening,53.0,Dec
+Business,Lahore,Unknown Location,10.14,Meal/Entertain,2016-12-24,1900-01-01 07:43:00,2016-12-24,1900-01-01 08:04:00,2016,Morning,21.0,Dec
+Business,Unknown Location,Lahore,17.22,Meal/Entertain,2016-12-24,1900-01-01 09:19:00,2016-12-24,1900-01-01 09:55:00,2016,Morning,36.0,Dec
+Business,Lahore,Lahore,8.53,Meal/Entertain,2016-12-24,1900-01-01 10:34:00,2016-12-24,1900-01-01 10:53:00,2016,Morning,19.0,Dec
+Business,Lahore,Lahore,2.57,Errand/Supplies,2016-12-24,1900-01-01 12:51:00,2016-12-24,1900-01-01 12:53:00,2016,Afternoon,2.0,Dec
+Business,Lahore,Lahore,5.79,Errand/Supplies,2016-12-24,1900-01-01 13:08:00,2016-12-24,1900-01-01 13:29:00,2016,Afternoon,21.0,Dec
+Business,Lahore,Lahore,2.74,Errand/Supplies,2016-12-24,1900-01-01 17:12:00,2016-12-24,1900-01-01 17:27:00,2016,Evening,15.0,Dec
+Business,Lahore,Lahore,4.67,Meal/Entertain,2016-12-24,1900-01-01 19:12:00,2016-12-24,1900-01-01 19:27:00,2016,Evening,15.0,Dec
+Business,Lahore,Lahore,0.97,Errand/Supplies,2016-12-24,1900-01-01 22:04:00,2016-12-24,1900-01-01 22:09:00,2016,Night,5.0,Dec
+Business,Lahore,Lahore,0.97,Errand/Supplies,2016-12-25,1900-01-01 00:10:00,2016-12-25,1900-01-01 00:14:00,2016,Night,4.0,Dec
+Business,Lahore,Lahore,3.7,Meal/Entertain,2016-12-25,1900-01-01 19:15:00,2016-12-25,1900-01-01 19:26:00,2016,Evening,11.0,Dec
+Business,Lahore,Lahore,3.7,Meal/Entertain,2016-12-25,1900-01-01 21:58:00,2016-12-25,1900-01-01 22:04:00,2016,Night,6.0,Dec
+Business,Lahore,Lahore,5.15,Meal/Entertain,2016-12-26,1900-01-01 08:30:00,2016-12-26,1900-01-01 08:41:00,2016,Morning,11.0,Dec
+Business,Lahore,Lahore,9.98,Customer Visit,2016-12-26,1900-01-01 09:05:00,2016-12-26,1900-01-01 09:19:00,2016,Morning,14.0,Dec
+Business,Lahore,Lahore,12.39,Customer Visit,2016-12-26,1900-01-01 10:15:00,2016-12-26,1900-01-01 10:36:00,2016,Morning,21.0,Dec
+Business,Lahore,Lahore,6.12,Customer Visit,2016-12-26,1900-01-01 11:29:00,2016-12-26,1900-01-01 11:42:00,2016,Morning,13.0,Dec
+Business,Lahore,Unknown Location,12.71,Meeting,2016-12-26,1900-01-01 13:09:00,2016-12-26,1900-01-01 13:43:00,2016,Afternoon,34.0,Dec
+Business,Kar?chi,Kar?chi,7.89,Temporary Site,2016-12-27,1900-01-01 07:02:00,2016-12-27,1900-01-01 07:14:00,2016,Morning,12.0,Dec
+Business,Kar?chi,Kar?chi,8.05,Meal/Entertain,2016-12-27,1900-01-01 08:37:00,2016-12-27,1900-01-01 08:59:00,2016,Morning,22.0,Dec
+Business,Kar?chi,Kar?chi,0.97,Meal/Entertain,2016-12-27,1900-01-01 12:53:00,2016-12-27,1900-01-01 12:57:00,2016,Afternoon,4.0,Dec
+Business,Kar?chi,Unknown Location,4.99,Customer Visit,2016-12-27,1900-01-01 14:49:00,2016-12-27,1900-01-01 15:03:00,2016,Afternoon,14.0,Dec
+Business,Unknown Location,Kar?chi,12.71,Meeting,2016-12-27,1900-01-01 16:34:00,2016-12-27,1900-01-01 16:58:00,2016,Afternoon,24.0,Dec
+Business,Kar?chi,Kar?chi,8.85,Customer Visit,2016-12-27,1900-01-01 19:19:00,2016-12-27,1900-01-01 19:50:00,2016,Evening,31.0,Dec
+Business,Kar?chi,Unknown Location,16.58,Meal/Entertain,2016-12-28,1900-01-01 08:34:00,2016-12-28,1900-01-01 09:06:00,2016,Morning,32.0,Dec
+Business,Unknown Location,Kar?chi,16.74,Errand/Supplies,2016-12-28,1900-01-01 11:42:00,2016-12-28,1900-01-01 12:12:00,2016,Morning,30.0,Dec
+Business,Kar?chi,Kar?chi,3.22,Errand/Supplies,2016-12-28,1900-01-01 13:53:00,2016-12-28,1900-01-01 14:01:00,2016,Afternoon,8.0,Dec
+Business,Kar?chi,Unknown Location,13.68,Meal/Entertain,2016-12-28,1900-01-01 15:04:00,2016-12-28,1900-01-01 15:39:00,2016,Afternoon,35.0,Dec
+Business,Unknown Location,Kar?chi,7.08,Errand/Supplies,2016-12-28,1900-01-01 17:02:00,2016-12-28,1900-01-01 17:16:00,2016,Evening,14.0,Dec
+Business,Kar?chi,Kar?chi,6.12,Errand/Supplies,2016-12-28,1900-01-01 18:33:00,2016-12-28,1900-01-01 18:56:00,2016,Evening,23.0,Dec
+Business,Kar?chi,Kar?chi,8.21,Errand/Supplies,2016-12-28,1900-01-01 22:44:00,2016-12-28,1900-01-01 23:18:00,2016,Night,34.0,Dec
+Business,Kar?chi,Kar?chi,6.12,Errand/Supplies,2016-12-29,1900-01-01 00:49:00,2016-12-29,1900-01-01 01:06:00,2016,Night,17.0,Dec
+Business,Kar?chi,Unknown Location,18.67,Meal/Entertain,2016-12-29,1900-01-01 09:44:00,2016-12-29,1900-01-01 10:07:00,2016,Morning,23.0,Dec
+Business,Unknown Location,Kar?chi,19.15,Meal/Entertain,2016-12-29,1900-01-01 11:28:00,2016-12-29,1900-01-01 12:00:00,2016,Morning,32.0,Dec
+Business,Kar?chi,Kar?chi,2.25,Errand/Supplies,2016-12-29,1900-01-01 12:25:00,2016-12-29,1900-01-01 12:33:00,2016,Afternoon,8.0,Dec
+Business,Kar?chi,Kar?chi,1.77,Errand/Supplies,2016-12-29,1900-01-01 13:17:00,2016-12-29,1900-01-01 13:24:00,2016,Afternoon,7.0,Dec
+Business,Kar?chi,Kar?chi,6.6,Airport/Travel,2016-12-29,1900-01-01 13:56:00,2016-12-29,1900-01-01 14:11:00,2016,Afternoon,15.0,Dec
+Business,Kar?chi,Kar?chi,9.82,Between Offices,2016-12-29,1900-01-01 14:42:00,2016-12-29,1900-01-01 14:58:00,2016,Afternoon,16.0,Dec
+Business,Kar?chi,Kar?chi,2.09,Errand/Supplies,2016-12-29,1900-01-01 15:05:00,2016-12-29,1900-01-01 15:16:00,2016,Afternoon,11.0,Dec
+Business,Kar?chi,Unknown Location,4.83,Meal/Entertain,2016-12-29,1900-01-01 18:59:00,2016-12-29,1900-01-01 19:14:00,2016,Evening,15.0,Dec
+Business,Unknown Location,Kar?chi,6.6,Customer Visit,2016-12-29,1900-01-01 19:50:00,2016-12-29,1900-01-01 20:10:00,2016,Evening,20.0,Dec
+Business,Kar?chi,Kar?chi,11.59,Meeting,2016-12-29,1900-01-01 20:15:00,2016-12-29,1900-01-01 20:45:00,2016,Evening,30.0,Dec
+Business,Kar?chi,Unknown Location,10.3,Meeting,2016-12-29,1900-01-01 20:53:00,2016-12-29,1900-01-01 21:42:00,2016,Evening,49.0,Dec
+Business,Unknown Location,Kar?chi,20.76,Meeting,2016-12-29,1900-01-01 23:14:00,2016-12-29,1900-01-01 23:47:00,2016,Night,33.0,Dec
+Business,Kar?chi,Kar?chi,4.51,Errand/Supplies,2016-12-30,1900-01-01 10:15:00,2016-12-30,1900-01-01 10:33:00,2016,Morning,18.0,Dec
+Business,Kar?chi,Kar?chi,4.67,Errand/Supplies,2016-12-30,1900-01-01 11:31:00,2016-12-30,1900-01-01 11:56:00,2016,Morning,25.0,Dec
+Business,Kar?chi,Kar?chi,7.4,Errand/Supplies,2016-12-30,1900-01-01 15:41:00,2016-12-30,1900-01-01 16:03:00,2016,Afternoon,22.0,Dec
+Business,Kar?chi,Kar?chi,7.4,Meeting,2016-12-30,1900-01-01 16:45:00,2016-12-30,1900-01-01 17:08:00,2016,Afternoon,23.0,Dec
+Business,Kar?chi,Kar?chi,1.29,Customer Visit,2016-12-30,1900-01-01 23:06:00,2016-12-30,1900-01-01 23:10:00,2016,Night,4.0,Dec
+Business,Kar?chi,Kar?chi,1.13,Meeting,2016-12-31,1900-01-01 01:07:00,2016-12-31,1900-01-01 01:14:00,2016,Night,7.0,Dec
+Business,Kar?chi,Unknown Location,6.28,Temporary Site,2016-12-31,1900-01-01 13:24:00,2016-12-31,1900-01-01 13:42:00,2016,Afternoon,18.0,Dec
+Business,Unknown Location,Unknown Location,26.07,Meeting,2016-12-31,1900-01-01 15:03:00,2016-12-31,1900-01-01 15:38:00,2016,Afternoon,35.0,Dec
+Business,Katunayake,Gampaha,10.3,Temporary Site,2016-12-31,1900-01-01 21:32:00,2016-12-31,1900-01-01 21:50:00,2016,Night,18.0,Dec
+Business,Gampaha,Ilukwatta,77.57,Temporary Site,2016-12-31,1900-01-01 22:08:00,2016-12-31,1900-01-01 23:51:00,2016,Night,103.0,Dec
